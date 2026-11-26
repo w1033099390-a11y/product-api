@@ -1,6 +1,6 @@
 {
     "lang":  "el",
-    "count":  449,
+    "count":  448,
     "items":  [
                   {
                       "id":  9000401,
@@ -5967,20 +5967,6 @@
                       "price":  null,
                       "currency":  "EUR",
                       "name":  "Ηλιακός προβολέας LED 200W 5000K IP65",
-                      "options":  [
-
-                                  ],
-                      "listed":  true
-                  },
-                  {
-                      "id":  9000881,
-                      "model":  "917156",
-                      "product_id":  900088,
-                      "reference":  "917156",
-                      "barcode":  "8435612917156",
-                      "price":  null,
-                      "currency":  "EUR",
-                      "name":  "Ηλιακός προβολέας LED 300W 4000K/5700K IP65",
                       "options":  [
 
                                   ],

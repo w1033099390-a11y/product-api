@@ -1,6 +1,6 @@
 {
     "lang":  "en",
-    "count":  391,
+    "count":  390,
     "items":  [
                   {
                       "id":  900040,
@@ -9285,28 +9285,6 @@
                                                  9000891
                                              ],
                       "source_url":  "https://ledfactory.gr/en/catalog/solar-led-floodlight-200w-5000k-ip65"
-                  },
-                  {
-                      "id":  900088,
-                      "name":  "Solar LED Floodlight 300W 4000K/5700K IP65",
-                      "reference":  "917156",
-                      "brand":  null,
-                      "image":  "img/900088_0.jpg",
-                      "categories":  [
-                                         "Featured",
-                                         "Solar LED Lighting",
-                                         "Floodlights SOLAR and Eco series"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "917156"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 9000881
-                                             ],
-                      "source_url":  "https://ledfactory.gr/en/catalog/solar-led-floodlight-300w-4000k5700k-ip65"
                   },
                   {
                       "id":  900087,
