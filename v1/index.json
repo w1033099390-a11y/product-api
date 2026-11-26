@@ -5,7 +5,7 @@
                       "en",
                       "el"
                   ],
-    "product_count":  390,
+    "product_count":  389,
     "link_count":  190,
     "note":  "Prices are own selling prices from prices.csv (null when not set). Stock is not included.",
     "endpoints":  [

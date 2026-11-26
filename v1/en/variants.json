@@ -1,6 +1,6 @@
 {
     "lang":  "en",
-    "count":  448,
+    "count":  447,
     "items":  [
                   {
                       "id":  9000401,
@@ -1131,7 +1131,7 @@
                       "product_id":  26795,
                       "reference":  "SP240CORAC-WW-91505-UNT",
                       "barcode":  "8435770896126",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "COB LED Strip 220V 240 LED/m 10W/m 50m CRI90 IP65 1200 lm/m Cut every 10cm",
                       "options":  [
@@ -1146,7 +1146,7 @@
                       "product_id":  26795,
                       "reference":  "SP240CORAC-NW-91506-UNT",
                       "barcode":  "8435770896140",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "COB LED Strip 220V 240 LED/m 10W/m 50m CRI90 IP65 1200 lm/m Cut every 10cm",
                       "options":  [
@@ -1161,7 +1161,7 @@
                       "product_id":  26795,
                       "reference":  "SP240CORAC-CW-91507-UNT",
                       "barcode":  "8435770896164",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "COB LED Strip 220V 240 LED/m 10W/m 50m CRI90 IP65 1200 lm/m Cut every 10cm",
                       "options":  [
@@ -1274,7 +1274,7 @@
                       "product_id":  11372,
                       "reference":  "LTP45W-CW-91278",
                       "barcode":  "8435612953789",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Waterproof LED Batten 45W - GLOWLUXE - Interconnectable - 150cm - IP65",
                       "options":  [
@@ -1288,7 +1288,7 @@
                       "product_id":  11372,
                       "reference":  "LTP45W-NW-92005",
                       "barcode":  "8435770895013",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Waterproof LED Batten 45W - GLOWLUXE - Interconnectable - 150cm - IP65",
                       "options":  [
@@ -1330,7 +1330,7 @@
                       "product_id":  11106,
                       "reference":  "NEWENDUR-HB200W-91284",
                       "barcode":  "8435612911291",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Industrial LED High Bay 200W-150W-100W UFO ENDURANCE OSRAM CHIP DURIS E 2835",
                       "options":  [
@@ -1344,7 +1344,7 @@
                       "product_id":  11106,
                       "reference":  "NEWENDUR-HB200W-91283",
                       "barcode":  "8435612911277",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Industrial LED High Bay 200W-150W-100W UFO ENDURANCE OSRAM CHIP DURIS E 2835",
                       "options":  [
@@ -1358,7 +1358,7 @@
                       "product_id":  11105,
                       "reference":  "NEWENDUR-HB150W-91281",
                       "barcode":  "8435612910966",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Industrial LED High Bay 150W-100W-80W UFO ENDURANCE OSRAM CHIP DURIS E 2835",
                       "options":  [
@@ -1372,7 +1372,7 @@
                       "product_id":  11105,
                       "reference":  "NEWENDUR-HB150W-91282",
                       "barcode":  "8435612910997",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Industrial LED High Bay 150W-100W-80W UFO ENDURANCE OSRAM CHIP DURIS E 2835",
                       "options":  [
@@ -1400,7 +1400,7 @@
                       "product_id":  26707,
                       "reference":  "PNPHL40W120-CW-91145",
                       "barcode":  "8435770895198",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pack of 6 LED Panels 120x30cm 40W 4000 lm with Philips CertaDrive | 5 -Year Warranty",
                       "options":  [
@@ -1414,7 +1414,7 @@
                       "product_id":  26680,
                       "reference":  "FL8042",
                       "barcode":  "8435770894771",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "I-Type Connector for 10mm RGB COB LED Strip | 24V IP20",
                       "options":  [
@@ -1428,7 +1428,7 @@
                       "product_id":  26609,
                       "reference":  "TLBMBM40W-CCT-91603",
                       "barcode":  "8435770894511",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "NEW MAYA Single-Phase Track LED Spotlight 28W-40W Bridgelux CRI+92 No Flicker | Bread \u0026 Meat Lighting | White",
                       "options":  [
@@ -1442,7 +1442,7 @@
                       "product_id":  26604,
                       "reference":  "TLBMBM40W-CCT-91612",
                       "barcode":  "8435770894528",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "NEW MAYA Single-Phase Track LED Spotlight 28W-40W Bridgelux CRI+92 No Flicker | Bread \u0026 Meat Lighting | Black",
                       "options":  [
@@ -1484,7 +1484,7 @@
                       "product_id":  26616,
                       "reference":  "SP216DRGBCCT18W-91353",
                       "barcode":  "8435770894573",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "24V RGB+CCT LED Strip Light 10m 216 LED/m SMD3535+2835 18W/m IP20 Multicolor Adjustable",
                       "options":  [
@@ -1582,7 +1582,7 @@
                       "product_id":  3067,
                       "reference":  "92209-UND",
                       "barcode":  "8435770894399",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Downlight LED 2W 4W 6W FREYA Black Chrome 3CCT | Bridgelux COB 130Lm/W | UGR11 40°",
                       "options":  [
@@ -1610,7 +1610,7 @@
                       "product_id":  26789,
                       "reference":  "PLR30WOSR-3CCT-91872",
                       "barcode":  "8435770896065",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Slim LED Circular Panel 30W 4CCT Select | OSRAM CHIP DURIS E 2835 | Cut-out 280mm",
                       "options":  [
@@ -1624,7 +1624,7 @@
                       "product_id":  11469,
                       "reference":  "PLR20WOSR-3K",
                       "barcode":  null,
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular Slim LED Panel 20W | OSRAM CHIP DURIS E 2835 | Cutout 205mm",
                       "options":  [
@@ -1638,7 +1638,7 @@
                       "product_id":  11469,
                       "reference":  "PLR20WOSR-4K",
                       "barcode":  null,
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular Slim LED Panel 20W | OSRAM CHIP DURIS E 2835 | Cutout 205mm",
                       "options":  [
@@ -1652,7 +1652,7 @@
                       "product_id":  11469,
                       "reference":  "PLR20WOSR-57K",
                       "barcode":  "8435770896058",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular Slim LED Panel 20W | OSRAM CHIP DURIS E 2835 | Cutout 205mm",
                       "options":  [
@@ -1680,7 +1680,7 @@
                       "product_id":  11011,
                       "reference":  "PLR15WOSR-3CCT-91869",
                       "barcode":  "8435612903579",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular Slim LED Panel 15W 4CCT Select | OSRAM CHIP DURIS E 2835 - Cutout 155mm",
                       "options":  [
@@ -1708,7 +1708,7 @@
                       "product_id":  11010,
                       "reference":  "PLR10WOSR-3CCT-91868",
                       "barcode":  "8435612903562",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular Slim LED Panel 10W 4CCT Select | OSRAM CHIP DURIS E 2835 - Cutout 105mm",
                       "options":  [
@@ -1792,7 +1792,7 @@
                       "product_id":  26218,
                       "reference":  "91546",
                       "barcode":  "8435770891572",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular LED Downlight 6W 9W 12W Frameless 4CCT | Adjustable 50-100mm | White | CRI92",
                       "options":  [
@@ -1806,7 +1806,7 @@
                       "product_id":  26219,
                       "reference":  "91547",
                       "barcode":  "8435770891589",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular LED Downlight 16W 20W 24W Frameless 4CCT | Adjustable 80-190mm | White | CRI92 ",
                       "options":  [
@@ -1820,7 +1820,7 @@
                       "product_id":  11375,
                       "reference":  "SP560D16W-NW-92147-UND",
                       "barcode":  "8435612951921",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "COB LED Strip 220V CUT TO SIZE | 560 LED/m | 16W/M | 1600Lm/M | FLIP CHIP | 50m | IP67 | Cut 10cm",
                       "options":  [
@@ -1835,7 +1835,7 @@
                       "product_id":  11375,
                       "reference":  "SP560D16W-CW-92148-UND",
                       "barcode":  "8435612951891",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "COB LED Strip 220V CUT TO SIZE | 560 LED/m | 16W/M | 1600Lm/M | FLIP CHIP | 50m | IP67 | Cut 10cm",
                       "options":  [
@@ -1850,7 +1850,7 @@
                       "product_id":  11375,
                       "reference":  "SP560D16W-WW-92146-UND",
                       "barcode":  "8435612951877",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "COB LED Strip 220V CUT TO SIZE | 560 LED/m | 16W/M | 1600Lm/M | FLIP CHIP | 50m | IP67 | Cut 10cm",
                       "options":  [
@@ -1865,7 +1865,7 @@
                       "product_id":  26211,
                       "reference":  "91538-UND",
                       "barcode":  "8435770894030",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Recessed LED Downlight 8W Fireproof | TRIAC Dimmable | 3CCT IP65 36º | White",
                       "options":  [
@@ -1879,7 +1879,7 @@
                       "product_id":  26212,
                       "reference":  "91539-UND",
                       "barcode":  "8435770894061",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Recessed LED Downlight 8W Fireproof | TRIAC Dimmable | 3CCT IP65 36º | Black",
                       "options":  [
@@ -1907,7 +1907,7 @@
                       "product_id":  26229,
                       "reference":  "FL7080",
                       "barcode":  "8435770891626",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Aluminum Profile 2 meters Surface Mount | for LED Strips | 17mm x 7.8mm",
                       "options":  [
@@ -1921,7 +1921,7 @@
                       "product_id":  26182,
                       "reference":  "400W24V-91438",
                       "barcode":  "8435770891336",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Waterproof Power Supply 24V 400W IP68 | GXtronic | 2 Outputs",
                       "options":  [
@@ -1935,7 +1935,7 @@
                       "product_id":  26181,
                       "reference":  "200W24V-91437",
                       "barcode":  "8435770891329",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Waterproof Power Supply 24V 200W IP68 | GXtronic | 2 Outputs",
                       "options":  [
@@ -1949,7 +1949,7 @@
                       "product_id":  26174,
                       "reference":  "TLW40W-4CCT-90778",
                       "barcode":  "8435770891312",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Track light 30W-40W PARMA White Single-Phase Track | 4CCT | 24º",
                       "options":  [
@@ -1977,7 +1977,7 @@
                       "product_id":  10708,
                       "reference":  "91750",
                       "barcode":  "8435612980020",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pendant Lamp - VINTAGE LINEN ROPE - for E27",
                       "options":  [
@@ -2033,7 +2033,7 @@
                       "product_id":  11766,
                       "reference":  "FL0788-FUT035S+",
                       "barcode":  "8435612980112",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Controller 2-in-1 | Single Color + CCT | RF 2.4GHz | 12-24V",
                       "options":  [
@@ -2061,7 +2061,7 @@
                       "product_id":  11757,
                       "reference":  "91976",
                       "barcode":  "8435612979703",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "PACK10 Fixing Clip for LED Neon 6x12mm | Special for Signs",
                       "options":  [
@@ -2075,7 +2075,7 @@
                       "product_id":  11754,
                       "reference":  "SP60D12W-RGB-91447",
                       "barcode":  "8435612979680",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip 24V RGBIC | SMD5050 DIGITAL | 5m | 60 LED/m | 12W/M | IP20 | Cut 1.7cm",
                       "options":  [
@@ -2089,7 +2089,7 @@
                       "product_id":  11753,
                       "reference":  "91444-UND",
                       "barcode":  "8435612979635",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Architectural Aluminum Profile Flush with Plaster / Drywall | for LED Strips | 2 meters",
                       "options":  [
@@ -2103,7 +2103,7 @@
                       "product_id":  11752,
                       "reference":  "SPGM840D20W-NW-91646",
                       "barcode":  "8435612979321",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "COB LED Strip 220V 840 LED/m 50m | FLIP CHIP 1600Lm/M 20W/M | CRI90 | IP67 | Cut 10cm",
                       "options":  [
@@ -2117,7 +2117,7 @@
                       "product_id":  11740,
                       "reference":  "91903-UND",
                       "barcode":  "8435612977891",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Hippo Connector for LED Strips 24V RGB SMD | IP65 | 4 Pins | PCB 10mm",
                       "options":  [
@@ -2173,7 +2173,7 @@
                       "product_id":  11707,
                       "reference":  "SPRGBCCT-10MM",
                       "barcode":  "8435612976221",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Hippo Connector with Cable for LED Strips 24V RGB+CCT SMD | IP20 | 6 Pins | 10mm",
                       "options":  [
@@ -2229,7 +2229,7 @@
                       "product_id":  11661,
                       "reference":  "91378-SMD",
                       "barcode":  "8435612973695",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Flicker Free Driver for 220V Self-Rectifying LED Strip SMD IP65 | 10mm | 250W MAX.",
                       "options":  [
@@ -2243,7 +2243,7 @@
                       "product_id":  11660,
                       "reference":  "91377-COB",
                       "barcode":  "8435612973657",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Flicker Free Driver for 220V Self-Rectifying LED Strip COB IP65 | 10mm | 250W MAX.",
                       "options":  [
@@ -2257,7 +2257,7 @@
                       "product_id":  11653,
                       "reference":  "TLBM30W-NW-91400",
                       "barcode":  "8435612973534",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Track Spotlight 30W PARIS Black Single-Phase Track | Bridgelux Chip | UGR11 | 24º",
                       "options":  [
@@ -2271,7 +2271,7 @@
                       "product_id":  11652,
                       "reference":  "TLWM30W-NW-91397",
                       "barcode":  "8435612973299",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Track Spotlight 30W PARIS White Single-Phase Track | Bridgelux Chip | UGR11 | 24º",
                       "options":  [
@@ -2313,7 +2313,7 @@
                       "product_id":  11598,
                       "reference":  "LF-90644-0-10V",
                       "barcode":  "8435770891497",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular LED Downlight 40W - Dimmable Lifud Driver - IP54 - CRI +90 UGR17",
                       "options":  [
@@ -2341,7 +2341,7 @@
                       "product_id":  11564,
                       "reference":  "G80DIM6W-90921-22K-UND",
                       "barcode":  "8435612969087",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Filament Vintage Bulb 6W E27 G80 Gold - DIMMABLE",
                       "options":  [
@@ -2355,7 +2355,7 @@
                       "product_id":  11558,
                       "reference":  "HB200W-CCT-91336-UND",
                       "barcode":  "8435612972599",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Industrial LED High Bay 200W UFO - NEW TITAN CCT - CHIP LUMILEDS SMD 2835",
                       "options":  [
@@ -2383,7 +2383,7 @@
                       "product_id":  11521,
                       "reference":  "TRB40W-3CCT-92017",
                       "barcode":  "8435612967007",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Spotlight 40W GRAZ Black BRIDGELUX Chip Single-Phase Track CRI +98 - CCT",
                       "options":  [
@@ -2425,7 +2425,7 @@
                       "product_id":  11505,
                       "reference":  "SP12WLUM-CCT-91358",
                       "barcode":  "8435612965874",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Recessed LED Downlight 6W - 9W - 12W - LUMIS - Bridgelux Chip - UGR11 - 3CCT - CRI +92 - Interchangeable Front",
                       "options":  [
@@ -2453,7 +2453,7 @@
                       "product_id":  11499,
                       "reference":  "SP12W-CCT-91360",
                       "barcode":  "8435612965522",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Recessed LED Downlight 6W - 9W - 12W - LUXURY - Bridgelux Chip - UGR11 - 3CCT - CRI +92",
                       "options":  [
@@ -2481,7 +2481,7 @@
                       "product_id":  11467,
                       "reference":  "G9-4.2W-CW-91128-UND",
                       "barcode":  "8435612959699",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED G9 Bulb 4.2W - Lumileds Chip 470Lm - 360º",
                       "options":  [
@@ -2496,7 +2496,7 @@
                       "product_id":  11465,
                       "reference":  "ORANGE92011",
                       "barcode":  "8435612958999",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Flexible LED Neon 24V - 13W/m - 50m Roll - 6x12mm - Orange",
                       "options":  [
@@ -2510,7 +2510,7 @@
                       "product_id":  11451,
                       "reference":  "KIT8001",
                       "barcode":  "8435612958272",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Surface Mount Kit for LED Panel 60x60 - H65mm",
                       "options":  [
@@ -2524,7 +2524,7 @@
                       "product_id":  11450,
                       "reference":  "KIT8003",
                       "barcode":  "8435612958210",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Surface Mount Kit for LED Panel 120x30 - H65mm",
                       "options":  [
@@ -2538,7 +2538,7 @@
                       "product_id":  11441,
                       "reference":  "92185",
                       "barcode":  "8435612957718",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Flexible LED Neon 24V 13W/m - 50M Roll - Special for Signs - 6x12mm - Cut every 1cm - Sky Blue",
                       "options":  [
@@ -2552,7 +2552,7 @@
                       "product_id":  11440,
                       "reference":  "92184",
                       "barcode":  "8435612957732",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Flexible LED Neon 24V 13W/m - 50M Roll - Special for Signs - 6x12mm - Cut every 1cm - Pink",
                       "options":  [
@@ -2566,7 +2566,7 @@
                       "product_id":  11439,
                       "reference":  "G9515WOSR-91351",
                       "barcode":  "8435612957466",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Globe Bulb 15W G95 300º E27 - OSRAM CHIP DURIS E 2835",
                       "options":  [
@@ -2580,7 +2580,7 @@
                       "product_id":  11439,
                       "reference":  "G9515WOSR-91352",
                       "barcode":  "8435612957473",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Globe Bulb 15W G95 300º E27 - OSRAM CHIP DURIS E 2835",
                       "options":  [
@@ -2594,7 +2594,7 @@
                       "product_id":  11437,
                       "reference":  "92182",
                       "barcode":  "8435612957756",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Flexible LED Neon 24V 13W/m - 50M Roll - Special for Signs - 6x12mm - Cut every 1cm - Yellow",
                       "options":  [
@@ -2608,7 +2608,7 @@
                       "product_id":  11429,
                       "reference":  "SPW3-91346",
                       "barcode":  "8435612956711",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Adjustable Ceiling Light - AMSTERDAM WHITE - Aluminum - for 3 GU10 Lamps",
                       "options":  [
@@ -2622,7 +2622,7 @@
                       "product_id":  11428,
                       "reference":  "SPB3-91345",
                       "barcode":  "8435612956414",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Adjustable Ceiling Light - AMSTERDAM BLACK - Aluminum - for 3 GU10 Lamps",
                       "options":  [
@@ -2636,7 +2636,7 @@
                       "product_id":  11427,
                       "reference":  "SPW2-91344",
                       "barcode":  "8435612955646",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Adjustable Ceiling Light - ROTERDAM WHITE - Aluminum - for 2 GU10 Lamps",
                       "options":  [
@@ -2650,7 +2650,7 @@
                       "product_id":  11426,
                       "reference":  "SPB2-91343",
                       "barcode":  "8435612955639",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Adjustable Ceiling Light - ROTERDAM BLACK - Aluminum - for 2 GU10 Lamps",
                       "options":  [
@@ -2664,7 +2664,7 @@
                       "product_id":  11423,
                       "reference":  "TKMB-91337",
                       "barcode":  "8435612955509",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Track Spotlight - EMMEN BLACK - for GU10 Lamp - Single-Phase",
                       "options":  [
@@ -2678,7 +2678,7 @@
                       "product_id":  11422,
                       "reference":  "TKMW-91338",
                       "barcode":  "8435612955523",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Track Spotlight - EMMEN WHITE - for GU10 Lamp - Single-Phase",
                       "options":  [
@@ -2692,7 +2692,7 @@
                       "product_id":  11419,
                       "reference":  "TRW40W-3CCT-92014",
                       "barcode":  "8435612956636",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Track Spotlight 40W GRAZ White Bridgelux Chip 3CCT - Single-Phase Track - 4400Lm - CRI +98",
                       "options":  [
@@ -2720,7 +2720,7 @@
                       "product_id":  11376,
                       "reference":  "SP120D8W-CW-92142",
                       "barcode":  "8435612975262",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip 220V | 120 LED/m | 50m | SMD2835 | 800Lm/M | 8W/M | IP65 | Cut every 10cm",
                       "options":  [
@@ -2748,7 +2748,7 @@
                       "product_id":  11325,
                       "reference":  "PNRSB18W-CCT-91722",
                       "barcode":  "8435612933958",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Ceiling Light + LED Downlight - Circular - BONN Black - Adjustable Power 18W - 16W - 14W - 12W - 5CCT - SMD2835 140Lm/W - IP44",
                       "options":  [
@@ -2762,7 +2762,7 @@
                       "product_id":  11323,
                       "reference":  "PNRSB12W-CCT-91720",
                       "barcode":  "8435612933828",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Ceiling Light + LED Downlight - Circular - BONN Black - Adjustable Power 12W - 10W - 8W - 6W - 5CCT - SMD2835 140Lm/W - IP44",
                       "options":  [
@@ -2790,7 +2790,7 @@
                       "product_id":  11321,
                       "reference":  "PNRSB8W-CCT-91718",
                       "barcode":  "8435612933651",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Ceiling Light + LED Downlight - Circular - BONN Black - Adjustable Power 8W - 6W - 4W - 2W - 5CCT - SMD2835 140Lm/W - IP44",
                       "options":  [
@@ -2818,7 +2818,7 @@
                       "product_id":  11261,
                       "reference":  "90781-CCT",
                       "barcode":  "8435612920576",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Track Spotlight 30W PARMA Black Single-Phase Track - CCT - CRI+92 - 48º",
                       "options":  [
@@ -2860,7 +2860,7 @@
                       "product_id":  11246,
                       "reference":  "GU10-RGB-92034",
                       "barcode":  "8435612918153",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Dichroic LED RGB + 3000K - 8W 110º GU10 with Remote Control",
                       "options":  [
@@ -2874,7 +2874,7 @@
                       "product_id":  11245,
                       "reference":  "A6010W-RGB-92035",
                       "barcode":  "8435612918139",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Bulb RGB + 3000K - 10W 270º E27 with Remote Control",
                       "options":  [
@@ -2888,7 +2888,7 @@
                       "product_id":  11243,
                       "reference":  "LN9W-3CCT-92089",
                       "barcode":  "8435612917897",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Angular LED Connector 9W | POLARIS | Linear Interconnection | 3CCT | 90º",
                       "options":  [
@@ -2916,7 +2916,7 @@
                       "product_id":  11235,
                       "reference":  "RPD92107",
                       "barcode":  "8435612918610",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pendant Lamp - RAFFIA UROA - for LED E27",
                       "options":  [
@@ -2930,7 +2930,7 @@
                       "product_id":  11232,
                       "reference":  "RPD92106",
                       "barcode":  "8435612918597",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pendant Lamp | RATTAN KAWASSI | for LED E27",
                       "options":  [
@@ -2944,7 +2944,7 @@
                       "product_id":  11198,
                       "reference":  "LN24W- 92093",
                       "barcode":  "8435612913981",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Linear LED Fixture 24W - STELLAR - Interconnectable - 60cm",
                       "options":  [
@@ -2958,7 +2958,7 @@
                       "product_id":  11186,
                       "reference":  "92037-UND",
                       "barcode":  "8435612913547",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "PACK - Aluminum Profile 2 meters 90º Angular - L - for LED Strips",
                       "options":  [
@@ -2972,7 +2972,7 @@
                       "product_id":  11185,
                       "reference":  "92038-UND",
                       "barcode":  "8435612913479",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "PACK - Aluminum Profile 2 meters Recessed - ALAS (Wings) - for LED Strips",
                       "options":  [
@@ -3042,7 +3042,7 @@
                       "product_id":  11146,
                       "reference":  "RPD92097",
                       "barcode":  "8435612911963",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pendant Lamp | RATTAN PERAK | for LED E27",
                       "options":  [
@@ -3056,7 +3056,7 @@
                       "product_id":  11145,
                       "reference":  "RPD92096",
                       "barcode":  "8435612911871",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pendant Lamp | RATTAN LAOS | for LED E27",
                       "options":  [
@@ -3154,7 +3154,7 @@
                       "product_id":  11120,
                       "reference":  "PLC24WOSR-3CCT-91873",
                       "barcode":  "8435612911468",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Square Slim LED Panel 24W - CCT - OSRAM CHIP DURIS E 2835 - Cutout 205mm",
                       "options":  [
@@ -3168,7 +3168,7 @@
                       "product_id":  11095,
                       "reference":  "FLACT100W-NW-91921",
                       "barcode":  "8435612907799",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Floodlight 100W - ACTION PRO - OSRAM CHIP DURIS E2835",
                       "options":  [
@@ -3182,7 +3182,7 @@
                       "product_id":  11095,
                       "reference":  "FLACT100W-CW-91922",
                       "barcode":  "8435612907805",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Floodlight 100W - ACTION PRO - OSRAM CHIP DURIS E2835",
                       "options":  [
@@ -3196,7 +3196,7 @@
                       "product_id":  11093,
                       "reference":  "FLACT200W-NW-91923",
                       "barcode":  "8435612907744",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Floodlight 200W - ACTION PRO - OSRAM CHIP DURIS E2835",
                       "options":  [
@@ -3210,7 +3210,7 @@
                       "product_id":  11093,
                       "reference":  "FLACT200W-CW-91924",
                       "barcode":  "8435612907751",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Floodlight 200W - ACTION PRO - OSRAM CHIP DURIS E2835",
                       "options":  [
@@ -3224,7 +3224,7 @@
                       "product_id":  11091,
                       "reference":  "FLACT50W-CW-91920",
                       "barcode":  "8435612907546",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Floodlight 50W - ACTION PRO - OSRAM CHIP DURIS E2835",
                       "options":  [
@@ -3238,7 +3238,7 @@
                       "product_id":  11090,
                       "reference":  "FLACT30W-NW-91917",
                       "barcode":  "8435612907478",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Floodlight 30W - ACTION PRO - OSRAM CHIP DURIS E2835",
                       "options":  [
@@ -3252,7 +3252,7 @@
                       "product_id":  11090,
                       "reference":  "FLACT30W-CW-91918",
                       "barcode":  "8435612907485",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Floodlight 30W - ACTION PRO - OSRAM CHIP DURIS E2835",
                       "options":  [
@@ -3266,7 +3266,7 @@
                       "product_id":  11089,
                       "reference":  "FLACT10W-NW-91915",
                       "barcode":  "8435612907393",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Floodlight 10W - ACTION PRO - OSRAM CHIP DURIS E2835",
                       "options":  [
@@ -3280,7 +3280,7 @@
                       "product_id":  11089,
                       "reference":  "FLACT10W-CW-91916",
                       "barcode":  "8435612907423",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Floodlight 10W - ACTION PRO - OSRAM CHIP DURIS E2835",
                       "options":  [
@@ -3294,7 +3294,7 @@
                       "product_id":  11077,
                       "reference":  "FL7375-E3-RF",
                       "barcode":  "8435612907072",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Controller 3-in-1 RGB + RGBW + RGBCCT - RF 2.4 GHz - 12-24V",
                       "options":  [
@@ -3308,7 +3308,7 @@
                       "product_id":  11068,
                       "reference":  "92058-C1",
                       "barcode":  "8435612906952",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Black Remote Control - CCT Light Remote - 4 Zones",
                       "options":  [
@@ -3322,7 +3322,7 @@
                       "product_id":  11067,
                       "reference":  "92062-FUT092",
                       "barcode":  "8435612906938",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "RF Remote Control for LED Single Color + RGB + CCT + 4 Zones",
                       "options":  [
@@ -3336,7 +3336,7 @@
                       "product_id":  11066,
                       "reference":  "92057-FUT007",
                       "barcode":  "8435612906914",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "RF Remote Control for LED Single Color / CCT 4 Zones",
                       "options":  [
@@ -3364,7 +3364,7 @@
                       "product_id":  11057,
                       "reference":  "92111-C6",
                       "barcode":  "8435612906433",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "SPI C6 Remote Control - for Digital SPI LED Controller RGB - RGBW - RGBIC - (2.4GHz)",
                       "options":  [
@@ -3378,7 +3378,7 @@
                       "product_id":  11056,
                       "reference":  "92110-SPIR3",
                       "barcode":  "8435612906426",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Digital SPI LED Controller for RGB + RGBW + RGBIC LED Strips - 2.4GHz - 5-24V",
                       "options":  [
@@ -3392,7 +3392,7 @@
                       "product_id":  11028,
                       "reference":  "WIP65-92067-10mm",
                       "barcode":  "8435612905320",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "KIT Silicone Glue + Connector Cable for LED COB + SMD strips - 10mm - 12mm - IP65",
                       "options":  [
@@ -3434,7 +3434,7 @@
                       "product_id":  11027,
                       "reference":  "CTLIP65-8MM-92068",
                       "barcode":  "8435612905221",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pack 2 L Connectors for LED COB + SMD strips - 8mm - 10mm - IP65",
                       "options":  [
@@ -3448,7 +3448,7 @@
                       "product_id":  11026,
                       "reference":  "CTLIP20-10MM-92077",
                       "barcode":  "8435612905139",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pack 10 Transparent L Connectors for joining LED COB + SMD strips - 8mm - 10mm - IP20",
                       "options":  [
@@ -3462,7 +3462,7 @@
                       "product_id":  11026,
                       "reference":  "CTLIP20-8MM-92074",
                       "barcode":  "8435612904026",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pack 10 Transparent L Connectors for joining LED COB + SMD strips - 8mm - 10mm - IP20",
                       "options":  [
@@ -3476,7 +3476,7 @@
                       "product_id":  11025,
                       "reference":  "CTIIP20-10MM-92076",
                       "barcode":  "8435612905108",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pack 10 Transparent Connectors for joining LED COB + SMD strips - 8mm - 10mm - IP20",
                       "options":  [
@@ -3490,7 +3490,7 @@
                       "product_id":  11025,
                       "reference":  "CTIIP20-8MM-92073",
                       "barcode":  "8435612905115",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pack 10 Transparent Connectors for joining LED COB + SMD strips - 8mm - 10mm - IP20",
                       "options":  [
@@ -3504,7 +3504,7 @@
                       "product_id":  11002,
                       "reference":  "91733",
                       "barcode":  "8435612901780",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Wall Light 12W - SATURNO - Indoor Wall - 3500K",
                       "options":  [
@@ -3532,7 +3532,7 @@
                       "product_id":  10872,
                       "reference":  "SP672D-15W-RGB-91863",
                       "barcode":  "8435770810436",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip 24V RGB | 5m | COB | 672LED/m | 15W/M | IP20",
                       "options":  [
@@ -3658,7 +3658,7 @@
                       "product_id":  10651,
                       "reference":  "91816",
                       "barcode":  "8435612976504",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Fixed Waterproof Circular Ring - CURVED EFFECT - GU10-MR16 - IP65 - BLACK",
                       "options":  [
@@ -3700,7 +3700,7 @@
                       "product_id":  10640,
                       "reference":  "91814",
                       "barcode":  "8435612976344",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Fixed Watertight Circular Housing GU10-MR16 - IP65 - BLACK",
                       "options":  [
@@ -3714,7 +3714,7 @@
                       "product_id":  10602,
                       "reference":  "91810",
                       "barcode":  "8435612972674",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Fixed Ring for dichroic round Black GU10-MR16",
                       "options":  [
@@ -3756,7 +3756,7 @@
                       "product_id":  10567,
                       "reference":  "91808",
                       "barcode":  "8435612971745",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular Ring - Black - Adjustable for GU10 LED",
                       "options":  [
@@ -3798,7 +3798,7 @@
                       "product_id":  10561,
                       "reference":  "91802",
                       "barcode":  "8435612971462",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Housing Square Adjustable BLACK for GU10 LED",
                       "options":  [
@@ -3812,7 +3812,7 @@
                       "product_id":  10558,
                       "reference":  "91801",
                       "barcode":  "8435612971417",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Housing Square Adjustable WHITE for GU10 LED",
                       "options":  [
@@ -3826,7 +3826,7 @@
                       "product_id":  10542,
                       "reference":  "91734",
                       "barcode":  "8435612969155",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Wall Light 12W - VEGA - Interior Wall - 3500K",
                       "options":  [
@@ -3840,7 +3840,7 @@
                       "product_id":  10541,
                       "reference":  "91732",
                       "barcode":  "8435612969148",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Wall Light 8W - RIGEL - Interior Wall - 3500K",
                       "options":  [
@@ -3854,7 +3854,7 @@
                       "product_id":  10525,
                       "reference":  "91789",
                       "barcode":  "8435612968868",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Pendant Lamp - BJORN - for E27 LED",
                       "options":  [
@@ -3868,7 +3868,7 @@
                       "product_id":  10524,
                       "reference":  "91788",
                       "barcode":  "8435612968875",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Pendant Lamp - ARDALA  - for E27 LED",
                       "options":  [
@@ -3882,7 +3882,7 @@
                       "product_id":  10523,
                       "reference":  "91787",
                       "barcode":  "8435612968714",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Pendant Lamp - BOLBRO  - for E27 LED",
                       "options":  [
@@ -3896,7 +3896,7 @@
                       "product_id":  10522,
                       "reference":  "91785",
                       "barcode":  "8435612968882",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Pendant Lamp - HABO - for E27 LED",
                       "options":  [
@@ -3910,7 +3910,7 @@
                       "product_id":  10520,
                       "reference":  "91744",
                       "barcode":  "8435612968905",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Pendant Lamp - KROKOM - 24W - CRI88",
                       "options":  [
@@ -3924,7 +3924,7 @@
                       "product_id":  10519,
                       "reference":  "91743",
                       "barcode":  "8435612968738",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Pendant Lamp - NYBRO - 48W - CRI88",
                       "options":  [
@@ -3938,7 +3938,7 @@
                       "product_id":  10518,
                       "reference":  "91742",
                       "barcode":  "8435612968721",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Pendant Lamp - TORSTED - 24W - CRI88",
                       "options":  [
@@ -3952,7 +3952,7 @@
                       "product_id":  10516,
                       "reference":  "91740",
                       "barcode":  "8435612968936",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Pendant Lamp - SKAGEN - for E27 LED",
                       "options":  [
@@ -3966,7 +3966,7 @@
                       "product_id":  10515,
                       "reference":  "91739",
                       "barcode":  "8435612968950",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Black LED Wall Light - LERUM - For E27 LED",
                       "options":  [
@@ -3980,7 +3980,7 @@
                       "product_id":  10494,
                       "reference":  "DL-91216",
                       "barcode":  "8435612968486",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pendant Lamp - KOSTA - for LED E27",
                       "options":  [
@@ -4022,7 +4022,7 @@
                       "product_id":  10489,
                       "reference":  "DL-91196",
                       "barcode":  "8435612968646",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Floor Lamp - HORSENS  - for E27 LED",
                       "options":  [
@@ -4050,7 +4050,7 @@
                       "product_id":  10487,
                       "reference":  "DL-91209",
                       "barcode":  "8435612968622",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pendant Lamp - BILLUND - for LED E27",
                       "options":  [
@@ -4064,7 +4064,7 @@
                       "product_id":  10486,
                       "reference":  "DL-91208",
                       "barcode":  "8435612968615",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pendant Lamp - KOLDING - for LED E27",
                       "options":  [
@@ -4078,7 +4078,7 @@
                       "product_id":  10476,
                       "reference":  "DL-91199",
                       "barcode":  "8435612968523",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Wall light  - SON - For 2XE14 LED",
                       "options":  [
@@ -4092,7 +4092,7 @@
                       "product_id":  10465,
                       "reference":  "GLS-GU10-8W-91167",
                       "barcode":  "8435612967984",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED GU10 8W HIGH LUMINOSITY - Glass - 24º -  SMD1A1A  - DIMMABLE TRIAC",
                       "options":  [
@@ -4106,7 +4106,7 @@
                       "product_id":  10465,
                       "reference":  "GLS-GU10-8W-91168",
                       "barcode":  "8435612968004",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED GU10 8W HIGH LUMINOSITY - Glass - 24º -  SMD1A1A  - DIMMABLE TRIAC",
                       "options":  [
@@ -4120,7 +4120,7 @@
                       "product_id":  10465,
                       "reference":  "GLS-GU10-8W-91166",
                       "barcode":  "8435612967991",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED GU10 8W HIGH LUMINOSITY - Glass - 24º -  SMD1A1A  - DIMMABLE TRIAC",
                       "options":  [
@@ -4134,7 +4134,7 @@
                       "product_id":  10451,
                       "reference":  "SP320D12W-CW-91691",
                       "barcode":  "8435612967731",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip COB 24V | 320 LED/m | 5m | FLIP CHIP | 1200Lm/M | 12W/M | CRI90 | IP20",
                       "options":  [
@@ -4148,7 +4148,7 @@
                       "product_id":  10451,
                       "reference":  "SP320D12W-GW-91689",
                       "barcode":  "8435612967724",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip COB 24V | 320 LED/m | 5m | FLIP CHIP | 1200Lm/M | 12W/M | CRI90 | IP20",
                       "options":  [
@@ -4162,7 +4162,7 @@
                       "product_id":  10451,
                       "reference":  "SP320D12W-NW-91690",
                       "barcode":  "8435612974876",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip COB 24V | 320 LED/m | 5m | FLIP CHIP | 1200Lm/M | 12W/M | CRI90 | IP20",
                       "options":  [
@@ -4176,7 +4176,7 @@
                       "product_id":  10451,
                       "reference":  "SP320D12W-WW-91362",
                       "barcode":  "8435612974456",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip COB 24V | 320 LED/m | 5m | FLIP CHIP | 1200Lm/M | 12W/M | CRI90 | IP20",
                       "options":  [
@@ -4190,7 +4190,7 @@
                       "product_id":  10407,
                       "reference":  "LBH12W-NW-91243",
                       "barcode":  "8435612967274",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "12W LED Ceiling  Light  -PURELIGHT- Indoor Outdoor - IP65",
                       "options":  [
@@ -4204,7 +4204,7 @@
                       "product_id":  10407,
                       "reference":  "LBH12W-WW-91242",
                       "barcode":  "8435612967281",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "12W LED Ceiling  Light  -PURELIGHT- Indoor Outdoor - IP65",
                       "options":  [
@@ -4232,7 +4232,7 @@
                       "product_id":  10386,
                       "reference":  "LPN6W-CCT-91257",
                       "barcode":  "8435612967137",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Downlight + LED Ceiling Light - Circular - MOSS White LUMILEDS - 6W ADJUSTABLE - Selectable CCT Color",
                       "options":  [
@@ -4246,7 +4246,7 @@
                       "product_id":  10373,
                       "reference":  "91674",
                       "barcode":  "8435612966949",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Pack of 50 Staples for LED strip IP65 220V",
                       "options":  [
@@ -4260,7 +4260,7 @@
                       "product_id":  10342,
                       "reference":  "LSPL7W-CCT-91270",
                       "barcode":  "8435612965959",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "7W Black Round LED Downlight - Adjustable - UGR19 - CCT Selectable Color",
                       "options":  [
@@ -4274,7 +4274,7 @@
                       "product_id":  10330,
                       "reference":  "LBL36W-CCT-91237",
                       "barcode":  "8435612965577",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Linear LED Batten- Strip - 36W - BERGEN - Black - PC - CCT - 119cm",
                       "options":  [
@@ -4288,7 +4288,7 @@
                       "product_id":  10327,
                       "reference":  "FLOSR200W-CW-91938",
                       "barcode":  "8435612965348",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "200W LED Outdoor Floodlight - Avant Pro - Osram Chip OSRAM CHIP DURIS E 2835 - 5 Years",
                       "options":  [
@@ -4302,7 +4302,7 @@
                       "product_id":  10326,
                       "reference":  "FLOSR100W-CW-91935",
                       "barcode":  "8435612914438",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "100W LED Outdoor Floodlight - Avant Pro - OSRAM CHIP DURIS E 2835 - 5 Years",
                       "options":  [
@@ -4316,7 +4316,7 @@
                       "product_id":  10325,
                       "reference":  "FLOSR50W-CW-91932",
                       "barcode":  "8435612965263",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "50W LED Outdoor Floodlight - Avant Pro - OSRAM CHIP DURIS E 2835 - 5 Years",
                       "options":  [
@@ -4330,7 +4330,7 @@
                       "product_id":  10304,
                       "reference":  "SP182D16W24V-91153-UND-27K",
                       "barcode":  "8435612963986",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip 24V | 182xLED/m | 5m | SMD2835 | 11200Lm| 16W/M | IP20",
                       "options":  [
@@ -4345,7 +4345,7 @@
                       "product_id":  10304,
                       "reference":  "SP182D16W24V-91154-UND-4K",
                       "barcode":  "8435612963993",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip 24V | 182xLED/m | 5m | SMD2835 | 11200Lm| 16W/M | IP20",
                       "options":  [
@@ -4360,7 +4360,7 @@
                       "product_id":  10304,
                       "reference":  "SP182D16W24V-91155-UND-6K",
                       "barcode":  "8435612964006",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip 24V | 182xLED/m | 5m | SMD2835 | 11200Lm| 16W/M | IP20",
                       "options":  [
@@ -4375,7 +4375,7 @@
                       "product_id":  10303,
                       "reference":  "SP120D12W24V-91149-UND-27K",
                       "barcode":  "8435612965041",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip 24V | 120xLED/m | 5m | SMD2835 | 1680Lm | 12W/M | IP20",
                       "options":  [
@@ -4390,7 +4390,7 @@
                       "product_id":  10303,
                       "reference":  "SP120D12W24V-91150-UND-4K",
                       "barcode":  "8435612965058",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip 24V | 120xLED/m | 5m | SMD2835 | 1680Lm | 12W/M | IP20",
                       "options":  [
@@ -4405,7 +4405,7 @@
                       "product_id":  10303,
                       "reference":  "SP120D12W24V-91151-UND-57K",
                       "barcode":  "8435612965065",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Strip 24V | 120xLED/m | 5m | SMD2835 | 1680Lm | 12W/M | IP20",
                       "options":  [
@@ -4434,7 +4434,7 @@
                       "product_id":  10285,
                       "reference":  "CL24WOSR-SEN-CCT-91133",
                       "barcode":  "8435612964518",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Ceiling Light 24W 20W 16W | SMD2835 OSRAM CHIP 3CCT 150Lm/W | Radar Motion Sensor | IP20",
                       "options":  [
@@ -4448,7 +4448,7 @@
                       "product_id":  10282,
                       "reference":  "SC-CW-91710-57K",
                       "barcode":  "8435612964419",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "INTEGRATED SQUARE LED CONNECTOR - ARTISTIC - 2W OSRAM CHIP - Exclusive and Customizable Ceilings",
                       "options":  [
@@ -4462,7 +4462,7 @@
                       "product_id":  10282,
                       "reference":  "SC-NW-91709-4K",
                       "barcode":  "8435612964426",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "INTEGRATED SQUARE LED CONNECTOR - ARTISTIC - 2W OSRAM CHIP - Exclusive and Customizable Ceilings",
                       "options":  [
@@ -4476,7 +4476,7 @@
                       "product_id":  10281,
                       "reference":  "TC-NW-91707-4K",
                       "barcode":  "8435612964389",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Conector TRIANGULAR - ARTISTIC - 1.5W OSRAM CHIP - Techos exclusivos y personalizables",
                       "options":  [
@@ -4490,7 +4490,7 @@
                       "product_id":  10281,
                       "reference":  "TC-CW-91708-57K",
                       "barcode":  "8435612964396",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Conector TRIANGULAR - ARTISTIC - 1.5W OSRAM CHIP - Techos exclusivos y personalizables",
                       "options":  [
@@ -4504,7 +4504,7 @@
                       "product_id":  10273,
                       "reference":  "COLKIT-UNIV-SL",
                       "barcode":  "8435612964198",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Universal Pendant Kit - Silver - with 3m cable - Pack of 2 units",
                       "options":  [
@@ -4532,7 +4532,7 @@
                       "product_id":  10249,
                       "reference":  "GU1010WOSR-NW-91137",
                       "barcode":  "8435612962682",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Spot LED SMD 10W 110° GU10 -1200Lm- OSRAM CHIP DURIS E 2835",
                       "options":  [
@@ -4546,7 +4546,7 @@
                       "product_id":  10249,
                       "reference":  "GU1010WOSR-CW-91138",
                       "barcode":  "8435612962699",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Spot LED SMD 10W 110° GU10 -1200Lm- OSRAM CHIP DURIS E 2835",
                       "options":  [
@@ -4560,7 +4560,7 @@
                       "product_id":  10249,
                       "reference":  "GU1010WOSR-WW-91136",
                       "barcode":  "8435612965782",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Spot LED SMD 10W 110° GU10 -1200Lm- OSRAM CHIP DURIS E 2835",
                       "options":  [
@@ -4574,7 +4574,7 @@
                       "product_id":  10247,
                       "reference":  "CL24W-91123-CCT",
                       "barcode":  "8435612961050",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Circular LED Ceiling Light 24W - 20W - 16W - OSRAM CHIP - CCT",
                       "options":  [
@@ -4588,7 +4588,7 @@
                       "product_id":  10223,
                       "reference":  "91129-6W",
                       "barcode":  "8435612960718",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Downlight LED 6W RGB+CCT - Remote Control - Lumileds Chip",
                       "options":  [
@@ -4602,7 +4602,7 @@
                       "product_id":  10212,
                       "reference":  "91889",
                       "barcode":  "8435612961906",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Power Supply 24V 400W 16.6A TECMO - GXTronic",
                       "options":  [
@@ -4616,7 +4616,7 @@
                       "product_id":  26269,
                       "reference":  "91886",
                       "barcode":  "8435770892067",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Power Supply 24V 150W 6.25A | Aluminum IP20 | GXtronic",
                       "options":  [
@@ -4630,7 +4630,7 @@
                       "product_id":  10211,
                       "reference":  "91887",
                       "barcode":  "8435612961784",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "24V 200W 2.5A Power Supply - Aluminum IP20 - GXtronic",
                       "options":  [
@@ -4644,7 +4644,7 @@
                       "product_id":  10208,
                       "reference":  "91885",
                       "barcode":  "8435612961838",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "24V 100W 2.5A Power Supply - Aluminum IP20 - GXtronic",
                       "options":  [
@@ -4658,7 +4658,7 @@
                       "product_id":  10207,
                       "reference":  "91884",
                       "barcode":  "8435612961746",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "24V 60W 2.5A Power Supply - Aluminum IP20 - GXtronic",
                       "options":  [
@@ -4672,7 +4672,7 @@
                       "product_id":  10716,
                       "reference":  "SSP-WW-91799",
                       "barcode":  "8435612980822",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Kit - Solar LED Strip - For outdoor use - 5 meters - 2700K - IP66",
                       "options":  [
@@ -4686,7 +4686,7 @@
                       "product_id":  10173,
                       "reference":  "LB50W-91121-4K",
                       "barcode":  "8435612960640",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Lamp bulb -  50W - 130Lm/W - E27 - IP20",
                       "options":  [
@@ -4714,7 +4714,7 @@
                       "product_id":  10034,
                       "reference":  "SBOSR50W-NW-91705",
                       "barcode":  "8435612956766",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Batten - ARTISTIC - 50W - OSRAM CHIP - Exclusive and Customizable Ceilings - 150cm",
                       "options":  [
@@ -4728,7 +4728,7 @@
                       "product_id":  10034,
                       "reference":  "SBOSR50W-CW-91706",
                       "barcode":  "8435612956773",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Batten - ARTISTIC - 50W - OSRAM CHIP - Exclusive and Customizable Ceilings - 150cm",
                       "options":  [
@@ -4770,7 +4770,7 @@
                       "product_id":  10029,
                       "reference":  "SBOSR40W-NW-91703",
                       "barcode":  "8435612956681",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Batten - ARTISTIC - 40W - OSRAM CHIP - Exclusive and Customizable Ceilings - 120cm",
                       "options":  [
@@ -4784,25 +4784,11 @@
                       "product_id":  10029,
                       "reference":  "SBOSR40W-CW-91704",
                       "barcode":  "8435612956674",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "LED Batten - ARTISTIC - 40W - OSRAM CHIP - Exclusive and Customizable Ceilings - 120cm",
                       "options":  [
                                       "Color temperature: Cold White - 6000K"
-                                  ],
-                      "listed":  true
-                  },
-                  {
-                      "id":  7191,
-                      "model":  "FLB45W-911147-3K",
-                      "product_id":  3603,
-                      "reference":  "FLB45W-911147-3K",
-                      "barcode":  "8435612955554",
-                      "price":  null,
-                      "currency":  null,
-                      "name":  "LED Lamp Bulb 45W - High Luminosity",
-                      "options":  [
-
                                   ],
                       "listed":  true
                   },
@@ -4840,7 +4826,7 @@
                       "product_id":  3476,
                       "reference":  "G125DIM8W-90922-22K-UND",
                       "barcode":  "8435612954489",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "8W LED Bulb Filament Vintage E27 G125 - Dimmable",
                       "options":  [
@@ -4854,7 +4840,7 @@
                       "product_id":  3473,
                       "reference":  "A60DIM8W-90919-22K-UND",
                       "barcode":  "8435612951006",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "8W LED Bulbs Filament  E27 A60 - Dimmable",
                       "options":  [
@@ -4868,7 +4854,7 @@
                       "product_id":  3471,
                       "reference":  "A60FM8W-90917-4K-UND",
                       "barcode":  "8435612950955",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "8W LED Bulbs Filament  E27 A60",
                       "options":  [
@@ -4883,7 +4869,7 @@
                       "product_id":  3470,
                       "reference":  "C35FM4W-90915-27K-UND",
                       "barcode":  "8435612950924",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "4W  LED Bulb Candle Filament E14 C35",
                       "options":  [
@@ -4897,7 +4883,7 @@
                       "product_id":  3469,
                       "reference":  "G45FM4W-90913-27K-UND",
                       "barcode":  "8435612950894",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "4W LED Bulb Filament E27 G45",
                       "options":  [
@@ -4912,7 +4898,7 @@
                       "product_id":  3469,
                       "reference":  "G45FM4W-90914-4K-UND",
                       "barcode":  "8435612950900",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "4W LED Bulb Filament E27 G45",
                       "options":  [
@@ -4941,7 +4927,7 @@
                       "product_id":  3437,
                       "reference":  "90935-8-UND",
                       "barcode":  null,
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Connector for COB + SMD LED Strips - 8mm - 10mm - IP65",
                       "options":  [
@@ -4970,7 +4956,7 @@
                       "product_id":  3436,
                       "reference":  "90931-8-UND",
                       "barcode":  "8435612949966",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Connector for COB + SMD LED strips - 8mm - 10mm - IP65",
                       "options":  [
@@ -5026,7 +5012,7 @@
                       "product_id":  2941,
                       "reference":  "DW40WPHL-CCT-90644",
                       "barcode":  "8435612928367",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "40W LED Downlight Round - Philips CertaDrive - CCT - UGR17- CRI+90  - IP54",
                       "options":  [
@@ -5054,7 +5040,7 @@
                       "product_id":  2880,
                       "reference":  "90640",
                       "barcode":  "8435612931152",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Solar garden light 4500K with motion sensor",
                       "options":  [
@@ -5082,7 +5068,7 @@
                       "product_id":  2822,
                       "reference":  "90626-BLACK",
                       "barcode":  "8435612930377",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Round adjustable ring for GU10 MR16 LED dichroic light bulb",
                       "options":  [
@@ -5096,7 +5082,7 @@
                       "product_id":  2821,
                       "reference":  "90629-WHITE",
                       "barcode":  "8435612930292",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Round ring for GU10 MR16 LED dichroic light bulb",
                       "options":  [
@@ -5110,7 +5096,7 @@
                       "product_id":  2821,
                       "reference":  "90628-NICKEL",
                       "barcode":  "8435612930308",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Round ring for GU10 MR16 LED dichroic light bulb",
                       "options":  [
@@ -5124,7 +5110,7 @@
                       "product_id":  2817,
                       "reference":  "90632-NICKEL",
                       "barcode":  "8435612930209",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Round ring for GU10 MR16 LED dichroic light bulb",
                       "options":  [
@@ -5138,7 +5124,7 @@
                       "product_id":  2817,
                       "reference":  "90631-BLACK",
                       "barcode":  "8435612930193",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Round ring for GU10 MR16 LED dichroic light bulb",
                       "options":  [
@@ -5264,7 +5250,7 @@
                       "product_id":  1250,
                       "reference":  "NEON76672",
                       "barcode":  "8400000018296",
-                      "price": null,
+                      "price":  null,
                       "currency":  "EUR",
                       "name":  "Retaining clip - CIRCULAR for NEON LED 16mm",
                       "options":  [
