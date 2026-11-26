@@ -8497,7 +8497,7 @@
                                      ],
                       "variant_count":  1,
                       "models":  [
-                                     "ST-H9804M"
+                                     "6612"
                                  ],
                       "price_from":  null,
                       "currency":  "EUR",
@@ -8520,7 +8520,7 @@
                                      ],
                       "variant_count":  1,
                       "models":  [
-                                     "ST-H9820S"
+                                     "6613"
                                  ],
                       "price_from":  null,
                       "currency":  "EUR",
@@ -8543,7 +8543,7 @@
                                      ],
                       "variant_count":  1,
                       "models":  [
-                                     "ST-H9805M"
+                                     "6614"
                                  ],
                       "price_from":  null,
                       "currency":  "EUR",
@@ -8566,7 +8566,7 @@
                                      ],
                       "variant_count":  1,
                       "models":  [
-                                     "ST-H9805S-2"
+                                     "6615"
                                  ],
                       "price_from":  null,
                       "currency":  "EUR",
@@ -8578,7 +8578,7 @@
                   {
                       "id":  900116,
                       "name":  "Γύψινο χωνευτό σώμα χωρίς πλαίσιο (trimless) διπλό τετράγωνο 215x120mm GU10",
-                      "reference":  "6616",
+                      "reference":  "6617",
                       "brand":  null,
                       "image":  "img/900116_0.jpg",
                       "categories":  [
@@ -8589,7 +8589,7 @@
                                      ],
                       "variant_count":  1,
                       "models":  [
-                                     "ST-H9801S-2"
+                                     "6617"
                                  ],
                       "price_from":  null,
                       "currency":  "EUR",

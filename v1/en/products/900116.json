@@ -2,7 +2,7 @@
     "id":  900116,
     "lang":  "en",
     "name":  "Gypsum Trimless Recessed Housing Double Square 215x120mm GU10",
-    "reference":  "6616",
+    "reference":  "6617",
     "short_description":  "\u003cp\u003eMaterial GYPSUM; Color WHITE; Cut 220*125; Size ∅215*120*60MM\u003c/p\u003e",
     "description":  "\u003ch2\u003eGypsum Trimless Recessed Housing Double Square 215x120mm GU10\u003c/h2\u003e\u003cp\u003eGypsum Trimless Recessed Housing Double Square 215x120mm GU10. NO LIGHTS INCLUDED.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eMaterial\u003c/td\u003e\u003ctd\u003eGYPSUM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eColor\u003c/td\u003e\u003ctd\u003eWHITE\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCut\u003c/td\u003e\u003ctd\u003e220*125\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e∅215*120*60MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eChip/Light\u003c/td\u003e\u003ctd\u003eGU10\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
     "brand":  null,
@@ -76,7 +76,7 @@
                      {
                          "id":  14352,
                          "name":  "REFERENCE",
-                         "value":  "6616",
+                         "value":  "6617",
                          "icon":  null
                      }
                  ],
@@ -86,8 +86,8 @@
     "variants":  [
                      {
                          "id":  9001161,
-                         "model":  "ST-H9801S-2",
-                         "reference":  "6616",
+                         "model":  "6617",
+                         "reference":  "6617",
                          "barcode":  null,
                          "is_default":  true,
                          "price":  null,
