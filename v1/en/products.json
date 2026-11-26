@@ -1,6 +1,6 @@
 {
     "lang":  "en",
-    "count":  389,
+    "count":  383,
     "items":  [
                   {
                       "id":  900040,
@@ -7157,32 +7157,6 @@
                       "source_url":  "https://www.factorled.com/en/10173-led-lamp-bulb-50w-130lm-w-e27-ip20.html"
                   },
                   {
-                      "id":  10132,
-                      "name":  "Housing PAR56 Recessed for LED Swimming Pool Spotlight",
-                      "reference":  "580000",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/10132/image_1920",
-                      "categories":  [
-                                         "Featured",
-                                         "LED Bulb Accessories",
-                                         "Outdoor LED Floodlights",
-                                         "LED Flood light accessories",
-                                         "LED pool lighting",
-                                         "PAR LED Bulbs \u0026 Lamps",
-                                         "Pool Light Accessories"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "580000"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 10881
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/10132-housing-par56-recessed-for-led-swimming-pool-spotlight.html"
-                  },
-                  {
                       "id":  10034,
                       "name":  "LED Batten - ARTISTIC - 50W - OSRAM CHIP - Exclusive and Customizable Ceilings - 150cm",
                       "reference":  "SBOSR50W-CW-91706",
@@ -7619,28 +7593,6 @@
                       "source_url":  "https://www.factorled.com/en/3436-connector-for-cob-smd-led-strips-8mm-10mm-ip65.html"
                   },
                   {
-                      "id":  3419,
-                      "name":  "LED module - 15W - GU10 / MR16 for Ring Downlight - CRI+92 - UGR13",
-                      "reference":  "15WUGR13-90926-3K",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/3419/image_1920",
-                      "categories":  [
-                                         "LED Bulbs \u0026 Lamps",
-                                         "LED Bulbs by Base Type",
-                                         "GU10 \u0026 MR16 LED Bulbs"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "15WUGR13-90926-3K"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 6828
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/3419-led-module-15w-gu10-mr16-for-ring-downlight-cri-92-ugr13.html"
-                  },
-                  {
                       "id":  3389,
                       "name":  "5W LED Downlight - Black - Bridgelux Chip -  UGR13",
                       "reference":  "SPL5WB-90792-3K",
@@ -7948,54 +7900,6 @@
                       "source_url":  "https://www.factorled.com/en/2600-led-bulb-15w-e27-a60-180deg-osram-chip-duris-e-2835.html"
                   },
                   {
-                      "id":  1673,
-                      "name":  "RGB PAR56 45W LED Lamp Pool Light - G53",
-                      "reference":  "8210",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/1673/image_1920",
-                      "categories":  [
-                                         "Featured",
-                                         "LED Bulbs \u0026 Lamps",
-                                         "LED pool lighting",
-                                         "Submersible LED Lamps",
-                                         "PAR LED Bulbs \u0026 Lamps"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "8210"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 2752
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/1673-rgb-par56-45w-led-lamp-pool-light-g53.html"
-                  },
-                  {
-                      "id":  1672,
-                      "name":  "PAR56 45W LED Lamp Pool Light - G53",
-                      "reference":  "8211",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/1672/image_1920",
-                      "categories":  [
-                                         "Featured",
-                                         "LED Bulbs \u0026 Lamps",
-                                         "LED pool lighting",
-                                         "Submersible LED Lamps",
-                                         "PAR LED Bulbs \u0026 Lamps"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "8211-4K"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 3681
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/1672-par56-45w-led-lamp-pool-light-g53.html"
-                  },
-                  {
                       "id":  1478,
                       "name":  "12W LED Wall Light VIBORG Outdoor",
                       "reference":  "90437-3K",
@@ -8017,33 +7921,6 @@
                                                  2478
                                              ],
                       "source_url":  "https://www.factorled.com/en/1478-12w-led-wall-light-viborg-outdoor.html"
-                  },
-                  {
-                      "id":  1472,
-                      "name":  "Downlight LED 24W  Frameless QUASAR - OSRAM CHIP DURIS E 2835 - CCT",
-                      "reference":  "90803",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/1472/image_1920",
-                      "categories":  [
-                                         "Featured",
-                                         "Downlight and Ceiling Lights LED",
-                                         "LED Downlight Spotlights",
-                                         "Circular Recessed Downlight",
-                                         "Office Lighting",
-                                         "Office Ceiling Lighting",
-                                         "Brands",
-                                         "Osram"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "90803"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 2471
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/1472-downlight-led-24w-frameless-quasar-osram-chip-duris-e-2835-cct.html"
                   },
                   {
                       "id":  1404,
@@ -9782,29 +9659,6 @@
                                                  9000651
                                              ],
                       "source_url":  "https://ledfactory.gr/en/catalog/connector-with-cable-for-rgbcct-led-strips-10mm"
-                  },
-                  {
-                      "id":  10885,
-                      "name":  "50W LED Streetlight FRIGG - CHIP LUMILEDS 140Lm/W",
-                      "reference":  "90611-4K",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/10885/image_1920",
-                      "categories":  [
-                                         "Featured",
-                                         "Professional Lighting",
-                                         "Street Lighting",
-                                         "LED Streetlights - Residential Use"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "90611-4K"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 15242
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/10885-50w-led-streetlight-frigg-chip-lumileds-140lm-w.html"
                   }
               ]
 }

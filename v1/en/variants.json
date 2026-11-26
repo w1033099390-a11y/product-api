@@ -1,6 +1,6 @@
 {
     "lang":  "en",
-    "count":  447,
+    "count":  441,
     "items":  [
                   {
                       "id":  9000401,
@@ -4695,20 +4695,6 @@
                       "listed":  true
                   },
                   {
-                      "id":  10881,
-                      "model":  "580000",
-                      "product_id":  10132,
-                      "reference":  "580000",
-                      "barcode":  "8435612958869",
-                      "price":  null,
-                      "currency":  null,
-                      "name":  "Housing PAR56 Recessed for LED Swimming Pool Spotlight",
-                      "options":  [
-
-                                  ],
-                      "listed":  true
-                  },
-                  {
                       "id":  10743,
                       "model":  "917057",
                       "product_id":  10034,
@@ -4965,20 +4951,6 @@
                       "listed":  true
                   },
                   {
-                      "id":  6828,
-                      "model":  "15WUGR13-90926-3K",
-                      "product_id":  3419,
-                      "reference":  "15WUGR13-90926-3K",
-                      "barcode":  "8435612948280",
-                      "price":  null,
-                      "currency":  null,
-                      "name":  "LED module - 15W - GU10 / MR16 for Ring Downlight - CRI+92 - UGR13",
-                      "options":  [
-                                      "Color temperature: Warm White - 3000K"
-                                  ],
-                      "listed":  true
-                  },
-                  {
                       "id":  6676,
                       "model":  "907928",
                       "product_id":  3389,
@@ -5175,34 +5147,6 @@
                       "listed":  true
                   },
                   {
-                      "id":  2752,
-                      "model":  "8210",
-                      "product_id":  1673,
-                      "reference":  "8210",
-                      "barcode":  "8435612913417",
-                      "price":  null,
-                      "currency":  null,
-                      "name":  "RGB PAR56 45W LED Lamp Pool Light - G53",
-                      "options":  [
-
-                                  ],
-                      "listed":  true
-                  },
-                  {
-                      "id":  3681,
-                      "model":  "8211-4K",
-                      "product_id":  1672,
-                      "reference":  "8211-4K",
-                      "barcode":  "8435612916838",
-                      "price":  null,
-                      "currency":  null,
-                      "name":  "PAR56 45W LED Lamp Pool Light - G53",
-                      "options":  [
-                                      "Color temperature: Natural White - 4000K"
-                                  ],
-                      "listed":  true
-                  },
-                  {
                       "id":  2478,
                       "model":  "90437-3K",
                       "product_id":  1478,
@@ -5211,20 +5155,6 @@
                       "price":  null,
                       "currency":  null,
                       "name":  "12W LED Wall Light VIBORG Outdoor",
-                      "options":  [
-
-                                  ],
-                      "listed":  true
-                  },
-                  {
-                      "id":  2471,
-                      "model":  "90803",
-                      "product_id":  1472,
-                      "reference":  "90803",
-                      "barcode":  "8435612912625",
-                      "price":  null,
-                      "currency":  null,
-                      "name":  "Downlight LED 24W  Frameless QUASAR - OSRAM CHIP DURIS E 2835 - CCT",
                       "options":  [
 
                                   ],
@@ -6277,20 +6207,6 @@
                       "name":  "Connector with Cable for RGB+CCT LED Strips 10mm",
                       "options":  [
 
-                                  ],
-                      "listed":  true
-                  },
-                  {
-                      "id":  15242,
-                      "model":  "90611-4K",
-                      "product_id":  10885,
-                      "reference":  "90611-4K",
-                      "barcode":  "8435770821043",
-                      "price":  null,
-                      "currency":  null,
-                      "name":  "50W LED Streetlight FRIGG - CHIP LUMILEDS 140Lm/W",
-                      "options":  [
-                                      "Color temperature: Natural White - 4000K"
                                   ],
                       "listed":  true
                   }

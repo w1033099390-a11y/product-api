@@ -1,6 +1,6 @@
 {
     "lang":  "el",
-    "count":  389,
+    "count":  383,
     "items":  [
                   {
                       "id":  900040,
@@ -7157,32 +7157,6 @@
                       "source_url":  "https://www.factorled.com/en/10173-led-lamp-bulb-50w-130lm-w-e27-ip20.html"
                   },
                   {
-                      "id":  10132,
-                      "name":  "Χωνευτό περίβλημα PAR56 για προβολέα πισίνας LED",
-                      "reference":  "580000",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/10132/image_1920",
-                      "categories":  [
-                                         "Προτεινόμενα",
-                                         "Αξεσουάρ λαμπών LED",
-                                         "Προβολείς LED εξωτερικού χώρου",
-                                         "Αξεσουάρ προβολέων LED",
-                                         "Φωτισμός πισίνας LED",
-                                         "Λάμπες LED PAR",
-                                         "Αξεσουάρ φωτισμού πισίνας"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "580000"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 10881
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/10132-housing-par56-recessed-for-led-swimming-pool-spotlight.html"
-                  },
-                  {
                       "id":  10034,
                       "name":  "Γραμμικό φωτιστικό LED - ARTISTIC - 50W - OSRAM CHIP - Αποκλειστικές και προσαρμόσιμες οροφές - 150cm",
                       "reference":  "SBOSR50W-CW-91706",
@@ -7619,28 +7593,6 @@
                       "source_url":  "https://www.factorled.com/en/3436-connector-for-cob-smd-led-strips-8mm-10mm-ip65.html"
                   },
                   {
-                      "id":  3419,
-                      "name":  "Μονάδα LED - 15W - GU10 / MR16 για δαχτυλίδι Downlight - CRI+92 - UGR13",
-                      "reference":  "15WUGR13-90926-3K",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/3419/image_1920",
-                      "categories":  [
-                                         "Λάμπες LED \u0026 Φωτιστικά",
-                                         "Λάμπες LED ανά τύπο βάσης",
-                                         "Λάμπες LED GU10 \u0026 MR16"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "15WUGR13-90926-3K"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 6828
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/3419-led-module-15w-gu10-mr16-for-ring-downlight-cri-92-ugr13.html"
-                  },
-                  {
                       "id":  3389,
                       "name":  "Downlight LED 5W - Μαύρο - Chip Bridgelux -  UGR13",
                       "reference":  "SPL5WB-90792-3K",
@@ -7948,54 +7900,6 @@
                       "source_url":  "https://www.factorled.com/en/2600-led-bulb-15w-e27-a60-180deg-osram-chip-duris-e-2835.html"
                   },
                   {
-                      "id":  1673,
-                      "name":  "Λάμπα LED πισίνας RGB PAR56 45W - G53",
-                      "reference":  "8210",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/1673/image_1920",
-                      "categories":  [
-                                         "Προτεινόμενα",
-                                         "Λάμπες LED \u0026 Φωτιστικά",
-                                         "Φωτισμός πισίνας LED",
-                                         "Υποβρύχιες λάμπες LED",
-                                         "Λάμπες LED PAR"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "8210"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 2752
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/1673-rgb-par56-45w-led-lamp-pool-light-g53.html"
-                  },
-                  {
-                      "id":  1672,
-                      "name":  "Λάμπα LED PAR56 45W για πισίνα - G53",
-                      "reference":  "8211",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/1672/image_1920",
-                      "categories":  [
-                                         "Προτεινόμενα",
-                                         "Λάμπες LED \u0026 Φωτιστικά",
-                                         "Φωτισμός πισίνας LED",
-                                         "Υποβρύχιες λάμπες LED",
-                                         "Λάμπες LED PAR"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "8211-4K"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 3681
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/1672-par56-45w-led-lamp-pool-light-g53.html"
-                  },
-                  {
                       "id":  1478,
                       "name":  "Απλίκα LED 12W VIBORG εξωτερικού χώρου",
                       "reference":  "90437-3K",
@@ -8017,33 +7921,6 @@
                                                  2478
                                              ],
                       "source_url":  "https://www.factorled.com/en/1478-12w-led-wall-light-viborg-outdoor.html"
-                  },
-                  {
-                      "id":  1472,
-                      "name":  "Downlight LED 24W  χωρίς πλαίσιο QUASAR - OSRAM CHIP DURIS E 2835 - CCT",
-                      "reference":  "90803",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/1472/image_1920",
-                      "categories":  [
-                                         "Προτεινόμενα",
-                                         "Downlight και Πλαφονιέρες LED",
-                                         "Σποτ Downlight LED",
-                                         "Κυκλικό χωνευτό Downlight",
-                                         "Φωτισμός γραφείου",
-                                         "Φωτισμός οροφής γραφείου",
-                                         "Μάρκες",
-                                         "Osram"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "90803"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 2471
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/1472-downlight-led-24w-frameless-quasar-osram-chip-duris-e-2835-cct.html"
                   },
                   {
                       "id":  1404,
@@ -9782,29 +9659,6 @@
                                                  9000651
                                              ],
                       "source_url":  "https://ledfactory.gr/el/catalog/connector-with-cable-for-rgbcct-led-strips-10mm"
-                  },
-                  {
-                      "id":  10885,
-                      "name":  "Φωτιστικό δρόμου LED 50W FRIGG - CHIP LUMILEDS 140Lm/W",
-                      "reference":  "90611-4K",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/10885/image_1920",
-                      "categories":  [
-                                         "Προτεινόμενα",
-                                         "Επαγγελματικός φωτισμός",
-                                         "Φωτισμός δρόμου",
-                                         "Φωτιστικά δρόμου LED - Οικιακή χρήση"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "90611-4K"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 15242
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/10885-50w-led-streetlight-frigg-chip-lumileds-140lm-w.html"
                   }
               ]
 }

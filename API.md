@@ -1,6 +1,6 @@
 # Product Catalogue API
 
-Product data for 389 LED lighting products, in **English (`en`)** and **Greek (`el`)**.
+Product data for 383 LED lighting products, in **English (`en`)** and **Greek (`el`)**.
 Stock levels are not included. Prices are not published in this online version (`price` and `price_from` are always `null`).
 
 The API is a set of static JSON files (UTF-8). Every endpoint is a plain `GET` with no authentication.
