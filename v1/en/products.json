@@ -1,6 +1,6 @@
 {
     "lang":  "en",
-    "count":  387,
+    "count":  388,
     "items":  [
                   {
                       "id":  900040,
@@ -8184,6 +8184,29 @@
                                                  96
                                              ],
                       "source_url":  "https://www.factorled.com/en/61-hanging-kit-for-single-phase-track-light.html"
+                  },
+                  {
+                      "id":  900136,
+                      "name":  "Gypsum Trimless Recessed Housing Square 120x120mm GU10 - Square Recess",
+                      "reference":  "6616",
+                      "brand":  null,
+                      "image":  "img/900136_0.jpg",
+                      "categories":  [
+                                         "Featured",
+                                         "Indoor Lighting",
+                                         "Downlight and Ceiling Lights LED",
+                                         "Accesorios Downlight LED"
+                                     ],
+                      "variant_count":  1,
+                      "models":  [
+                                     "6616"
+                                 ],
+                      "price_from":  null,
+                      "currency":  "EUR",
+                      "listed_variant_ids":  [
+                                                 9001361
+                                             ],
+                      "source_url":  null
                   },
                   {
                       "id":  900133,

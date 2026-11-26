@@ -1,6 +1,6 @@
 {
     "lang":  "el",
-    "count":  445,
+    "count":  446,
     "items":  [
                   {
                       "id":  9000401,
@@ -5311,6 +5311,20 @@
                       "name":  "Κιτ ανάρτησης για σποτ μονοφασικής ράγας",
                       "options":  [
                                       "Επιλογές: Μαύρο"
+                                  ],
+                      "listed":  true
+                  },
+                  {
+                      "id":  9001361,
+                      "model":  "6616",
+                      "product_id":  900136,
+                      "reference":  "6616",
+                      "barcode":  null,
+                      "price":  null,
+                      "currency":  "EUR",
+                      "name":  "Γύψινο χωνευτό σώμα χωρίς πλαίσιο (trimless) τετράγωνο 120x120mm GU10 - Τετράγωνη εσοχή",
+                      "options":  [
+
                                   ],
                       "listed":  true
                   },
