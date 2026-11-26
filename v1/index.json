@@ -1,11 +1,11 @@
 {
-    "generated_at":  "2026-11-26T15:55:59",
+    "generated_at":  "2026-11-26T16:11:24",
     "source":  "https://www.factorled.com",
     "languages":  [
                       "en",
                       "el"
                   ],
-    "product_count":  385,
+    "product_count":  387,
     "link_count":  193,
     "note":  "Prices are own selling prices from prices.csv (null when not set). Stock is not included.",
     "endpoints":  [

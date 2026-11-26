@@ -1,6 +1,6 @@
 {
     "lang":  "el",
-    "count":  385,
+    "count":  387,
     "items":  [
                   {
                       "id":  900040,
@@ -1499,6 +1499,60 @@
                                                  39151
                                              ],
                       "source_url":  "https://www.factorled.com/en/26817-led-garden-bollard-aero-12w-3cct-round-adjustable-osram-ip65.html"
+                  },
+                  {
+                      "id":  11896,
+                      "name":  "Πλαφονιέρα LED Επιφανείας | BORDERLESS | 18W - 21W - 24W | 3CCT",
+                      "reference":  "CL24-CCT-91477",
+                      "brand":  "GXTRONIC",
+                      "image":  "https://www.factorled.com/web/image/product.template/11896/image_1920",
+                      "categories":  [
+                                         "Προτεινόμενα",
+                                         "Φωτισμός εσωτερικού χώρου",
+                                         "Πλαφονιέρες και φωτιστικά LED επιφανείας",
+                                         "Κυκλική πλαφονιέρα",
+                                         "Βιομηχανικές πλαφονιέρες",
+                                         "Φωτισμός γραφείου",
+                                         "Φωτισμός οροφής γραφείου",
+                                         "Πλαφονιέρες γραφείου"
+                                     ],
+                      "variant_count":  1,
+                      "models":  [
+
+                                 ],
+                      "price_from":  null,
+                      "currency":  null,
+                      "listed_variant_ids":  [
+
+                                             ],
+                      "source_url":  "https://www.factorled.com/en/11896-surface-mount-led-ceiling-light-borderless-18w-21w-24w-3cct.html"
+                  },
+                  {
+                      "id":  11897,
+                      "name":  "Πλαφονιέρα LED Επιφανείας | BORDERLESS | 32W - 42W - 48W | 3CCT",
+                      "reference":  "CL48-CCT-91478",
+                      "brand":  "GXTRONIC",
+                      "image":  "https://www.factorled.com/web/image/product.template/11897/image_1920",
+                      "categories":  [
+                                         "Προτεινόμενα",
+                                         "Φωτισμός εσωτερικού χώρου",
+                                         "Πλαφονιέρες και φωτιστικά LED επιφανείας",
+                                         "Κυκλική πλαφονιέρα",
+                                         "Βιομηχανικές πλαφονιέρες",
+                                         "Φωτισμός γραφείου",
+                                         "Φωτισμός οροφής γραφείου",
+                                         "Πλαφονιέρες γραφείου"
+                                     ],
+                      "variant_count":  1,
+                      "models":  [
+
+                                 ],
+                      "price_from":  null,
+                      "currency":  null,
+                      "listed_variant_ids":  [
+
+                                             ],
+                      "source_url":  "https://www.factorled.com/en/11897-surface-mount-led-ceiling-light-borderless-32w-42w-48w-3cct.html"
                   },
                   {
                       "id":  26793,

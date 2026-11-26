@@ -1,6 +1,6 @@
 {
     "lang":  "en",
-    "count":  443,
+    "count":  445,
     "items":  [
                   {
                       "id":  9000401,
@@ -1183,6 +1183,34 @@
 
                                   ],
                       "listed":  true
+                  },
+                  {
+                      "id":  22977,
+                      "model":  null,
+                      "product_id":  11896,
+                      "reference":  "CL24-CCT-91477",
+                      "barcode":  "8435612988538",
+                      "price":  null,
+                      "currency":  null,
+                      "name":  "Surface Mount LED Ceiling Light | BORDERLESS | 18W - 21W - 24W | 3CCT",
+                      "options":  [
+
+                                  ],
+                      "listed":  false
+                  },
+                  {
+                      "id":  22978,
+                      "model":  null,
+                      "product_id":  11897,
+                      "reference":  "CL48-CCT-91478",
+                      "barcode":  "8435612988576",
+                      "price":  null,
+                      "currency":  null,
+                      "name":  "Surface Mount LED Ceiling Light | BORDERLESS | 32W - 42W - 48W | 3CCT",
+                      "options":  [
+
+                                  ],
+                      "listed":  false
                   },
                   {
                       "id":  39095,
