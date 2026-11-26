@@ -1,5 +1,5 @@
 {
-    "count":  190,
+    "count":  193,
     "items":  [
                   {
                       "row":  1,
@@ -1618,6 +1618,36 @@
                       "variant_id":  19437,
                       "variant_ids":  [
                                           19437
+                                      ],
+                      "found":  true
+                  },
+                  {
+                      "row":  182,
+                      "source_url":  "https://www.factorled.com/es/95-neon-led-24v/11435-neon-led-flexible-24v-13w-m-bobina-50m-especial-rotulos-6x12mm-corte-cada-1cm-az",
+                      "product_id":  11435,
+                      "variant_id":  19438,
+                      "variant_ids":  [
+                                          19438
+                                      ],
+                      "found":  true
+                  },
+                  {
+                      "row":  183,
+                      "source_url":  "https://www.factorled.com/es/95-neon-led-24v/11434-neon-led-flexible-24v-13w-m-bobina-50m-especial-rotulos-6x12mm-corte-cada-1cm-ve",
+                      "product_id":  11434,
+                      "variant_id":  19425,
+                      "variant_ids":  [
+                                          19425
+                                      ],
+                      "found":  true
+                  },
+                  {
+                      "row":  184,
+                      "source_url":  "https://www.factorled.com/es/95-neon-led-24v/11433-neon-led-flexible-24v-13w-m-bobina-50m-especial-rotulos-6x12mm-corte-cada-1cm-ro",
+                      "product_id":  11433,
+                      "variant_id":  19424,
+                      "variant_ids":  [
+                                          19424
                                       ],
                       "found":  true
                   },

@@ -1,6 +1,6 @@
 {
     "lang":  "el",
-    "count":  440,
+    "count":  443,
     "items":  [
                   {
                       "id":  9000401,
@@ -2597,6 +2597,48 @@
                       "price": null,
                       "currency":  "EUR",
                       "name":  "Εύκαμπτο LED Neon 24V 13W/m - Ρολό 50M - Ειδικό για επιγραφές - 6x12mm - Κοπή ανά 1cm - Κίτρινο",
+                      "options":  [
+
+                                  ],
+                      "listed":  true
+                  },
+                  {
+                      "id":  19438,
+                      "model":  "921818",
+                      "product_id":  11435,
+                      "reference":  "92181",
+                      "barcode":  "8435612957770",
+                      "price": null,
+                      "currency":  "EUR",
+                      "name":  "Ευέλικτο LED Neon 24V 13W/m - Ρολό 50M - Ειδικό για Επιγραφές - 6x12mm - Κοπή ανά 1cm - Μπλε",
+                      "options":  [
+
+                                  ],
+                      "listed":  true
+                  },
+                  {
+                      "id":  19425,
+                      "model":  "921801",
+                      "product_id":  11434,
+                      "reference":  "92180",
+                      "barcode":  "8435612960541",
+                      "price": null,
+                      "currency":  "EUR",
+                      "name":  "Εύκαμπτο LED Neon 24V 13W/m - Μπομπίνα 50M - Ειδικό για Επιγραφές - 6x12mm - Κοπή ανά 1cm - Πράσινο",
+                      "options":  [
+                                      "Θερμοκρασία χρώματος: Πράσινο"
+                                  ],
+                      "listed":  true
+                  },
+                  {
+                      "id":  19424,
+                      "model":  "921795",
+                      "product_id":  11433,
+                      "reference":  "92179",
+                      "barcode":  "8435612956926",
+                      "price": null,
+                      "currency":  "EUR",
+                      "name":  "Ευέλικτο LED Neon 24V 13W/m - Ρολό 50M - Ειδικό για Επιγραφές - 6x12mm - Κοπή ανά 1cm - Κόκκινο",
                       "options":  [
 
                                   ],

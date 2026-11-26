@@ -1,6 +1,6 @@
 {
     "lang":  "el",
-    "count":  382,
+    "count":  385,
     "items":  [
                   {
                       "id":  900040,
@@ -3827,6 +3827,72 @@
                                                  19437
                                              ],
                       "source_url":  "https://www.factorled.com/en/11437-flexible-led-neon-24v-13w-m-50m-roll-special-for-signs-6x12mm-cut-every-1cm-yellow.html"
+                  },
+                  {
+                      "id":  11435,
+                      "name":  "Ευέλικτο LED Neon 24V 13W/m - Ρολό 50M - Ειδικό για Επιγραφές - 6x12mm - Κοπή ανά 1cm - Μπλε",
+                      "reference":  "92181",
+                      "brand":  null,
+                      "image":  "https://www.factorled.com/web/image/product.template/11435/image_1920",
+                      "categories":  [
+                                         "Προτεινόμενα",
+                                         "LED Neon",
+                                         "Εύκαμπτο LED Neon 24V"
+                                     ],
+                      "variant_count":  1,
+                      "models":  [
+                                     "921818"
+                                 ],
+                      "price_from": null,
+                      "currency":  "EUR",
+                      "listed_variant_ids":  [
+                                                 19438
+                                             ],
+                      "source_url":  "https://www.factorled.com/en/11435-flexible-led-neon-24v-13w-m-50m-roll-special-for-signs-6x12mm-cut-every-1cm-blue.html"
+                  },
+                  {
+                      "id":  11434,
+                      "name":  "Εύκαμπτο LED Neon 24V 13W/m - Μπομπίνα 50M - Ειδικό για Επιγραφές - 6x12mm - Κοπή ανά 1cm - Πράσινο",
+                      "reference":  "92180",
+                      "brand":  null,
+                      "image":  "https://www.factorled.com/web/image/product.template/11434/image_1920",
+                      "categories":  [
+                                         "Προτεινόμενα",
+                                         "LED Neon",
+                                         "Εύκαμπτο LED Neon 24V"
+                                     ],
+                      "variant_count":  1,
+                      "models":  [
+                                     "921801"
+                                 ],
+                      "price_from": null,
+                      "currency":  "EUR",
+                      "listed_variant_ids":  [
+                                                 19425
+                                             ],
+                      "source_url":  "https://www.factorled.com/en/11434-flexible-led-neon-24v-13w-m-50m-roll-special-for-signs-6x12mm-cut-every-1cm-green.html"
+                  },
+                  {
+                      "id":  11433,
+                      "name":  "Ευέλικτο LED Neon 24V 13W/m - Ρολό 50M - Ειδικό για Επιγραφές - 6x12mm - Κοπή ανά 1cm - Κόκκινο",
+                      "reference":  "92179",
+                      "brand":  null,
+                      "image":  "https://www.factorled.com/web/image/product.template/11433/image_1920",
+                      "categories":  [
+                                         "Προτεινόμενα",
+                                         "LED Neon",
+                                         "Εύκαμπτο LED Neon 24V"
+                                     ],
+                      "variant_count":  1,
+                      "models":  [
+                                     "921795"
+                                 ],
+                      "price_from": null,
+                      "currency":  "EUR",
+                      "listed_variant_ids":  [
+                                                 19424
+                                             ],
+                      "source_url":  "https://www.factorled.com/en/11433-flexible-led-neon-24v-13w-m-50m-roll-special-for-signs-6x12mm-cut-every-1cm-red.html"
                   },
                   {
                       "id":  11429,
