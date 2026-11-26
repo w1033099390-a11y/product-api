@@ -1,0 +1,209 @@
+{
+    "id":  10708,
+    "lang":  "en",
+    "name":  "Pendant Lamp - VINTAGE LINEN ROPE - for E27",
+    "reference":  "91750",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eHanging\u003c/strong\u003e \u003cstrong\u003eRope\u003c/strong\u003e \u003cstrong\u003eLamp\u003c/strong\u003e made of \u003cstrong\u003elinen\u003c/strong\u003e for mounting on ceilings, \u003cstrong\u003eE27\u003c/strong\u003e socket, combine them with our vintage filament bulbs to create retro environments. \u003c/p\u003e\n\u003cp\u003eThis braided rope textile lamp is easy to install and comes with all the necessary accessories for assembly.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eBULBS NOT INCLUDED.\u003c/strong\u003e\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003eLinen Pendant Lamp E27\u003c/h2\u003e\n\u003cp\u003eThe \u003cstrong\u003elinen rope pendant lamp \u003c/strong\u003ewith\u003cstrong\u003e E27\u003c/strong\u003e socket is a unique and elegant lighting piece that fits well with a variety of decorative styles, events or parties, from rustic to modern. This lamp is composed of a braided linen cord that extends from the ceiling and terminates in an E27 socket to hold the bulb.\u003c/p\u003e\n\u003cp\u003eThe E27 socket is one of the most common socket types and is used all over the world. It is easy to install and can accommodate a wide variety of bulbs, including LED, fluorescent and halogen bulbs.\u003c/p\u003e\n\u003cp\u003eThe linen rope pendant light with E27 socket is an excellent choice for those who want pleasant, natural lighting that creates a soft, relaxing ambiance. The \u003cstrong\u003elinen rope\u003c/strong\u003e creates an attractive visual effect and the E27 socket allows for easy customization of the light, allowing the right bulb to be used for the desired ambiance.\u003c/p\u003e\n\u003cp\u003eIn conclusion, this E27 socket \u003cstrong\u003eceiling pendant\u003c/strong\u003e rope light is an elegant and unique lamp that can add a touch of style and personality to any interior space. \u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003ch2\u003eUses of E27 Linen Rope Pendant Lamp:\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eHomes\u003c/li\u003e\n\u003cli\u003eStores\u003c/li\u003e\n\u003cli\u003eBars\u003c/li\u003e\n\u003cli\u003eCafeterias\u003c/li\u003e\n\u003cli\u003eRestaurants\u003c/li\u003e\n\u003cli\u003eHotels\u003c/li\u003e\n\u003cli\u003eEvents\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003eIn FactorLED we ensure that our products have QUALITY guarantee and offer all the necessary elements for DISTRIBUTION, IMPORT or WHOLESALE, including the technical data sheet of each LED product.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  12,
+                           "name":  "LED Bulb Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "LED Bulb Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  177,
+                           "name":  "Vintage LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "Decorative LED Bulbs",
+                                        "Vintage LED Bulbs"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  807,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC85-265V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  1154,
+                         "name":  "Base",
+                         "value":  "E27",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/14/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1637,
+                         "name":  "Construction Material",
+                         "value":  "Lino-Lihno-Lin-Linen",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  10206,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø2xH150 cm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  11934,
+                         "model":  "4746",
+                         "reference":  "91750",
+                         "barcode":  "8435612980020",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  9,
+                                               "width":  13,
+                                               "height":  18
+                                           },
+                         "weight_kg":  0.42,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/10708/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/10708/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/10708/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/10708/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/10708/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/10708/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39525,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39525/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39525/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39525/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39525/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39525/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39525/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39526,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39526/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39526/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39526/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39526/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39526/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39526/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39527,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39527/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39527/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39527/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39527/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39527/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39527/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39528,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39528/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39528/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39528/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39528/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39528/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39528/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39529,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39529/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39529/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39529/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39529/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39529/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39529/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39530,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39530/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39530/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39530/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39530/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39530/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39530/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39531,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39531/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39531/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39531/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39531/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39531/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39531/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2025-12-01T09:07:22",
+    "source_url":  "https://www.factorled.com/en/10708-pendant-lamp-vintage-linen-rope-for-e27.html"
+}

@@ -1,0 +1,137 @@
+{
+    "id":  26680,
+    "lang":  "en",
+    "name":  "I-Type Connector for 10mm RGB COB LED Strip | 24V IP20",
+    "reference":  "FL8042",
+    "short_description":  "\u003cp\u003e\n\u003cstrong\u003eType I press-fit connector for 10 mm RGB COB LED strip\u003c/strong\u003e, 4-pin, 24V IP20, compatible with reference 91863. It joins LED strip sections quickly and safely with no soldering or screws required, ensuring a firm, reliable connection. Ideal for professional LED lighting installations, it simplifies assembly, maintenance and extension of RGB COB systems with a clean, precise finish.\n\n\u003c/p\u003e",
+    "description":  "\u003ch2\u003eType I Press-Fit Connector for 10 mm RGB COB LED Strip | 4-Pin | 24V IP20 | Solderless | Fast, Professional Connection\u003c/h2\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eThe \u003cstrong\u003eType I press-fit connector for 10 mm, 4-pin RGB COB LED strip\u003c/strong\u003e is a professional accessory designed to create fast, secure and precise joints between sections of \u003cstrong\u003e24V IP20 RGB COB LED strip\u003c/strong\u003e. Compatible with \u003cstrong\u003ereference 91863\u003c/strong\u003e, it connects different LED strip sections without soldering, screws or special tools, simplifying installation and guaranteeing a clean, fully reliable finish.\u003c/p\u003e\u003cp\u003eIts \u003cstrong\u003epress-fit connection\u003c/strong\u003e system has been developed to provide firm, stable retention, ensuring excellent electrical contact between the LED strip conductors. Thanks to this mechanism, installers can make connections in a matter of seconds, significantly reducing assembly times and avoiding the common errors associated with manual soldering.\u003c/p\u003e\u003cp\u003eDesigned specifically for \u003cstrong\u003e10 mm, 4-pin RGB COB LED strips\u003c/strong\u003e, this connector maintains stable transmission of both power and RGB signals, ensuring correct operation of the different colour channels and uniform lighting throughout the installation. Its compatibility with \u003cstrong\u003e24V DC\u003c/strong\u003e systems makes it an ideal solution for high-performance decorative and architectural lighting projects.\u003c/p\u003e\u003cp\u003eBy eliminating the need to solder, this connector simplifies both new installations and the maintenance, repair or extension of existing LED systems. LED strip sections can be replaced or modified quickly, minimising intervention times and reducing labour costs.\u003c/p\u003e\u003cp\u003eIts compact design allows discreet integration inside aluminium profiles and other linear lighting systems, maintaining a professional finish without affecting the aesthetics of the installation. It also provides a robust mechanical connection that improves the reliability of the assembly, even in installations subject to continuous use.\u003c/p\u003e\u003cp\u003eThis accessory is particularly suited to \u003cstrong\u003eindoor IP20 installations\u003c/strong\u003e, where a practical, safe and high-quality solution is required for connecting RGB COB LED strips.\u003c/p\u003e\u003ch3\u003eRecommended uses and applications\u003c/h3\u003e\u003cp\u003eIdeal for LED lighting installations in:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003e10 mm RGB COB LED strips\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eIndoor decorative lighting\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eLED aluminium profiles\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eFurniture and interior design\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eCoves and decorative ceilings\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eShop windows and display cases\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eCommercial and retail premises\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eResidential and professional LED lighting projects\u003c/strong\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eIn short, the \u003cstrong\u003eType I press-fit connector for 10 mm, 4-pin RGB COB LED strip\u003c/strong\u003e is an essential accessory for faster, cleaner and safer installations. Its \u003cstrong\u003esolderless connection\u003c/strong\u003e system, its compatibility with \u003cstrong\u003e24V IP20 RGB COB LED strips\u003c/strong\u003e and its press-fit assembly guarantee a reliable, long-lasting joint while reducing installation and maintenance times. A professional solution that optimises the installer\u0027s work and ensures excellent results in any LED lighting project.\u003c/p\u003e\u003cp\u003e\n\n\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  35,
+                           "name":  "LED Strip Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip Accessories"
+                                    ]
+                       }
+                   ],
+    "features":  [
+
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  38850,
+                         "model":  null,
+                         "reference":  "FL8042",
+                         "barcode":  "8435770894771",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  2,
+                                               "width":  1,
+                                               "height":  1
+                                           },
+                         "weight_kg":  0.01,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/26680/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/26680/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/26680/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/26680/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/26680/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/26680/image_128"
+                                 }
+                   },
+                   {
+                       "id":  117002,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/117002/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/117002/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/117002/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/117002/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/117002/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/117002/image_128"
+                                 }
+                   },
+                   {
+                       "id":  117003,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/117003/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/117003/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/117003/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/117003/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/117003/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/117003/image_128"
+                                 }
+                   },
+                   {
+                       "id":  117004,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/117004/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/117004/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/117004/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/117004/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/117004/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/117004/image_128"
+                                 }
+                   },
+                   {
+                       "id":  117005,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/117005/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/117005/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/117005/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/117005/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/117005/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/117005/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  true,
+    "published_at":  "2026-07-30T12:32:41",
+    "source_url":  "https://www.factorled.com/en/26680-i-type-connector-for-10mm-rgb-cob-led-strip-24v-ip20.html"
+}

@@ -1,0 +1,137 @@
+{
+    "id":  900127,
+    "lang":  "en",
+    "name":  "LED Wall Light Outdoor IP65 - GU10 x2",
+    "reference":  "91725",
+    "short_description":  "\u003cp\u003eLED Wall Light Outdoor IP65 - GU10 x2. LED wall light, IP65 protection type, so its use is resistant to any sudden change of temperature, both in winter and summer. This Indoor outdoor wall light is especially suitable for lighting outdoor areas, giving them a modern design. Create relaxing atmospheres to enjoy your garden, entrances, porches, etc... The GU10 lamp is sold separately\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Wall Light Outdoor IP65 - GU10 x2\u003c/h2\u003e\u003cp\u003eLED wall light, IP65 protection type, so its use is resistant to any sudden change of temperature, both in winter and summer. This Indoor outdoor wall light is especially suitable for lighting outdoor areas, giving them a modern design. Create relaxing atmospheres to enjoy your garden, entrances, porches, etc... The GU10 lamp is sold separately\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eProtection rating\u003c/td\u003e\u003ctd\u003eIP65\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  38,
+                           "name":  "LED Outdoor and Garden Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "91725",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001271,
+                         "model":  "91725",
+                         "reference":  "91725",
+                         "barcode":  "8435612969032",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900127_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900127_0.jpg",
+                                     "1024":  "img/900127_0.jpg",
+                                     "512":  "img/900127_0.jpg",
+                                     "256":  "img/900127_0.jpg",
+                                     "128":  "img/900127_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900127_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900127_1.jpg",
+                                     "1024":  "img/900127_1.jpg",
+                                     "512":  "img/900127_1.jpg",
+                                     "256":  "img/900127_1.jpg",
+                                     "128":  "img/900127_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900127_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900127_2.jpg",
+                                     "1024":  "img/900127_2.jpg",
+                                     "512":  "img/900127_2.jpg",
+                                     "256":  "img/900127_2.jpg",
+                                     "128":  "img/900127_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900127_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900127_3.jpg",
+                                     "1024":  "img/900127_3.jpg",
+                                     "512":  "img/900127_3.jpg",
+                                     "256":  "img/900127_3.jpg",
+                                     "128":  "img/900127_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900127_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900127_4.jpg",
+                                     "1024":  "img/900127_4.jpg",
+                                     "512":  "img/900127_4.jpg",
+                                     "256":  "img/900127_4.jpg",
+                                     "128":  "img/900127_4.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-wall-light-outdoor-ip65-gu10-x2-91725"
+}

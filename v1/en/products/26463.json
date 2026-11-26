@@ -1,0 +1,293 @@
+{
+    "id":  26463,
+    "lang":  "en",
+    "name":  "Solar LED Floodlight EcoLite 40 1200Lm 3CCT | PIR Sensor + Remote Control | IP65",
+    "reference":  "FLSS40W-3CCT-91560",
+    "short_description":  "\u003cp\u003eThe \u003cstrong\u003eEcoLite 40W Solar LED Floodlight\u003c/strong\u003e offers powerful, efficient outdoor lighting up to \u003cstrong\u003e1200 lumens\u003c/strong\u003e thanks to its high-brightness SMD LEDs and \u003cstrong\u003eselectable 3CCT system (3000K / 4000K / 6500K)\u003c/strong\u003e. Incorporates \u003cstrong\u003ePIR motion sensor\u003c/strong\u003e with up to 3 meters detection and \u003cstrong\u003eremote control\u003c/strong\u003e. \u003cstrong\u003e4W 5V monocrystalline solar panel\u003c/strong\u003e and \u003cstrong\u003e4,000 mAh 3.2V lithium battery\u003c/strong\u003e. Made of \u003cstrong\u003eresistant ABS\u003c/strong\u003e with \u003cstrong\u003eIP65 protection\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eEcoLite 40 1200Lm Solar LED Floodlight Selectable 3CCT (3000K / 4000K / 6500K)\u0026nbsp;| PIR Sensor + Remote Control | IP65\u003c/h2\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eThe \u003cstrong\u003eEcoLite 40W Solar LED Floodlight\u003c/strong\u003e is an efficient, modern and sustainable outdoor lighting solution, designed to deliver high performance with zero energy consumption. Equipped with \u003cstrong\u003ehigh-brightness SMD\u003c/strong\u003e LEDs and \u003cstrong\u003eselectable 3CCT technology (3000K / 4000K / 6500K)\u003c/strong\u003e, it lets you choose between warm, neutral or cool light depending on the ambience and lighting needs. With up to \u003cstrong\u003e1200 lumens\u003c/strong\u003e, it is ideal for illuminating gardens, patios, terraces, entrances, plots, pathways and all kinds of outdoor areas.\u003c/p\u003e\u003cp\u003eThis solar LED floodlight features a practical \u003cstrong\u003ePIR motion sensor\u003c/strong\u003e with a detection range of up to \u003cstrong\u003e3 metres\u003c/strong\u003e, optimising energy savings and improving outdoor security. It also includes a \u003cstrong\u003eremote control\u003c/strong\u003e, making it easy to configure different operating modes, light intensity and energy-saving options quickly and conveniently.\u003c/p\u003e\u003cp\u003eThanks to its efficient \u003cstrong\u003e4W 5V monocrystalline solar panel\u003c/strong\u003e and rechargeable \u003cstrong\u003e4,000 mAh (3.2V)\u003c/strong\u003e lithium battery, the EcoLite 40W provides up to \u003cstrong\u003e12 hours of autonomy\u003c/strong\u003e without any electrical connection. Its solar-powered operation helps reduce electricity consumption and promotes more ecological and sustainable lighting.\u003c/p\u003e\u003cp\u003eBuilt with \u003cstrong\u003ehigh-resistance ABS\u003c/strong\u003e and featuring \u003cstrong\u003eIP65 waterproof and dustproof\u003c/strong\u003e protection, this solar LED floodlight is ready to withstand rain, humidity, dust and adverse weather conditions, guaranteeing maximum durability and outdoor performance all year round.\u003c/p\u003e\u003cp\u003eThe \u003cstrong\u003eEcoLite 40W\u003c/strong\u003e is perfect for use in:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\nGardens and patios\n\u003c/li\u003e\n\u003cli\u003e\nHome entrances and garages\n\u003c/li\u003e\n\u003cli\u003e\nPlots and estates\n\u003c/li\u003e\n\u003cli\u003e\nPaths and walkways\n\u003c/li\u003e\n\u003cli\u003e\nTerraces and balconies\n\u003c/li\u003e\n\u003cli\u003e\nOutdoor security lighting\n\u003c/li\u003e\n\u003cli\u003e\nAreas without access to the electricity grid\n\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eA practical, efficient and easy-to-install option for those looking for a \u003cstrong\u003epowerful, durable and low-consumption outdoor solar LED floodlight\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\n\n\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  38,
+                           "name":  "LED Outdoor and Garden Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  98,
+                           "name":  "Solar LED Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Solar LED Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  231,
+                           "name":  "Solar LED Floodlights",
+                           "path":  [
+                                        "Featured",
+                                        "Solar LED Lighting",
+                                        "Solar LED Floodlights"
+                                    ]
+                       },
+                       {
+                           "id":  88,
+                           "name":  "Floodlights SOLAR and Eco series",
+                           "path":  [
+                                        "Featured",
+                                        "Solar LED Lighting",
+                                        "Floodlights SOLAR and Eco series"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  746,
+                         "name":  "Rated Power",
+                         "value":  "40W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  918,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1200Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1013,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "SMD 2835",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1172,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1618,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +50ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1636,
+                         "name":  "Construction Material",
+                         "value":  "ABS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  5743,
+                         "name":  "Colour",
+                         "value":  "3CCT SELECT 3000K-4000K-6500K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  8668,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "30000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  15851,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS, IP65",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  15853,
+                         "name":  "Dimensions (mm)",
+                         "value":  "147 x 98 x 236 mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  15854,
+                         "name":  "Material of the Battery",
+                         "value":  "Litio LiFePO4 3,2V 4000 mAh",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/27/icon"
+                     },
+                     {
+                         "id":  15855,
+                         "name":  "Solar Panel",
+                         "value":  "Monocristalino 4W 5V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/59/icon"
+                     },
+                     {
+                         "id":  15857,
+                         "name":  "Charging time",
+                         "value":  "12 horas (autonomía máx.)",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/87/icon"
+                     },
+                     {
+                         "id":  15858,
+                         "name":  "Product Weight",
+                         "value":  "1,1 kg",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/44/icon"
+                     },
+                     {
+                         "id":  15913,
+                         "name":  "Range (m)",
+                         "value":  "3 m (PIR sensor)",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/42/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  38606,
+                         "model":  "91560",
+                         "reference":  "FLSS40W-3CCT-91560",
+                         "barcode":  "8435770894122",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  14.7,
+                                               "width":  9.8,
+                                               "height":  23.6
+                                           },
+                         "weight_kg":  1.1,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/26463/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/26463/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/26463/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/26463/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/26463/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/26463/image_128"
+                                 }
+                   },
+                   {
+                       "id":  116988,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/116988/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/116988/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/116988/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/116988/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/116988/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/116988/image_128"
+                                 }
+                   },
+                   {
+                       "id":  116994,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/116994/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/116994/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/116994/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/116994/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/116994/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/116994/image_128"
+                                 }
+                   },
+                   {
+                       "id":  116989,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/116989/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/116989/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/116989/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/116989/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/116989/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/116989/image_128"
+                                 }
+                   },
+                   {
+                       "id":  116990,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/116990/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/116990/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/116990/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/116990/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/116990/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/116990/image_128"
+                                 }
+                   },
+                   {
+                       "id":  116991,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/116991/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/116991/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/116991/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/116991/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/116991/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/116991/image_128"
+                                 }
+                   },
+                   {
+                       "id":  116992,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/116992/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/116992/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/116992/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/116992/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/116992/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/116992/image_128"
+                                 }
+                   },
+                   {
+                       "id":  116993,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/116993/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/116993/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/116993/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/116993/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/116993/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/116993/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+                          {
+                              "id":  284,
+                              "name":  "User Manual",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/284/file/User Manual.pdf"
+                          }
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2026-07-21T12:30:02",
+    "source_url":  "https://www.factorled.com/en/26463-solar-led-floodlight-ecolite-40-1200lm-3cct-pir-sensor-remote-control-ip65.html"
+}

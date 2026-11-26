@@ -1,0 +1,424 @@
+{
+    "id":  11467,
+    "lang":  "en",
+    "name":  "LED G9 Bulb 4.2W - Lumileds Chip 470Lm - 360º",
+    "reference":  "G9-4.2W-CW-91128-PACK20",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eLED\u003c/strong\u003e \u003cstrong\u003eCOB G9 Bulb\u003c/strong\u003e 4.2W power, with high energy efficiency that makes this bulb a very environmentally-friendly product. It offers instant ignition and a long lifespan. Perfect to replace old incandescent bulbs achieving 80% energy savings.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED G9 Bulb 4.2W - Lumileds Chip 470Lm - 360º\u003c/h2\u003e\n\u003cp\u003eLED G9 capsule bulb. 4.2W, 470lm, Lumileds chip, 360º beam angle. Ideal replacement for halogen G9.\u003c/p\u003e\n\u003ch3\u003eUses: Decorative lighting, chandeliers, wall sconces.\u003c/h3\u003e",
+    "brand":  {
+                  "id":  4,
+                  "name":  "LUMILEDS",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/4/logo?unique=1793097311"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "LED Bulbs by Base Type",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type"
+                                    ]
+                       },
+                       {
+                           "id":  9,
+                           "name":  "G4 \u0026 G9 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "G4 \u0026 G9 LED Bulbs"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1048,
+                         "name":  "Beam Angle (º)",
+                         "value":  "360º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1140,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "140 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1160,
+                         "name":  "Base",
+                         "value":  "G9",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/14/icon"
+                     },
+                     {
+                         "id":  1170,
+                         "name":  "Certifications",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1643,
+                         "name":  "Construction Material",
+                         "value":  "Thermoplastic",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1810,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "E",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  3186,
+                         "name":  "REFERENCE",
+                         "value":  "G9-4.2W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  4611,
+                         "name":  "Rated Power",
+                         "value":  "4,2W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  5371,
+                         "name":  "Colour",
+                         "value":  "2700K-4000K-6500K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  6509,
+                         "name":  "Luminosity-Lm",
+                         "value":  "470Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  7363,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "SMD LUMILEDS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  8635,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "25000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  10006,
+                         "name":  "Dimensions (mm)",
+                         "value":  "52xØ19 mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  2,
+                        "name":  "Color temperature",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  75,
+                                           "name":  "Cold White - 6500K",
+                                           "color":  "#C9DBFF",
+                                           "icon":  null
+                                       }
+                                   ]
+                    },
+                    {
+                        "id":  16,
+                        "name":  "Purchase more and pay less",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  208,
+                                           "name":  "UNITS",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  19492,
+                         "model":  "911284",
+                         "reference":  "G9-4.2W-CW-91128-UND",
+                         "barcode":  "8435612959699",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  2,
+                                               "width":  5.5,
+                                               "height":  2
+                                           },
+                         "weight_kg":  0.01,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  75,
+                                             "value":  "Cold White - 6500K"
+                                         },
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Purchase more and pay less",
+                                             "value_id":  208,
+                                             "value":  "UNITS"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11467/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11467/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11467/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11467/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11467/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11467/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82719,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82719/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82719/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82719/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82719/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82719/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82719/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82720,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82720/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82720/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82720/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82720/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82720/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82720/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82721,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82721/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82721/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82721/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82721/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82721/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82721/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82722,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82722/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82722/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82722/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82722/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82722/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82722/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82723,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82723/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82723/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82723/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82723/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82723/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82723/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82724,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82724/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82724/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82724/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82724/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82724/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82724/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82725,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82725/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82725/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82725/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82725/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82725/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82725/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82726,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82726/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82726/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82726/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82726/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82726/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82726/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82727,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82727/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82727/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82727/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82727/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82727/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82727/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82728,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82728/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82728/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82728/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82728/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82728/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82728/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82729,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82729/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82729/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82729/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82729/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82729/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82729/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82730,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82730/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82730/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82730/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82730/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82730/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82730/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82731,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82731/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82731/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82731/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82731/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82731/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82731/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  20,
+    "is_new":  false,
+    "published_at":  "2025-02-03T15:42:51.006951",
+    "source_url":  "https://www.factorled.com/en/11467-led-g9-bulb-4-2w-lumileds-chip-470lm-360.html"
+}

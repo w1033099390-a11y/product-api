@@ -1,0 +1,486 @@
+{
+    "id":  11521,
+    "lang":  "el",
+    "name":  "Σποτ LED 40W GRAZ Μαύρο BRIDGELUX Chip Μονοφασικό για ράγα CRI +98 - CCT",
+    "reference":  "TRB40W-3CCT-92017",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eΜονοφασικό σποτ LED για ράγα\u003c/strong\u003e ισχύος \u003cstrong\u003e40W\u003c/strong\u003e, αυτό το μοντέλο GRAZ σε μαύρο χαρακτηρίζεται από: \u003cstrong\u003eΙσχυρό φως, επιλογή 3CCT, CRI92, και κατασκευή με Bridgelux Chip.\u003c/strong\u003e Επαγγελματικός και ευέλικτος φωτισμός για εμπορικούς και οικιακούς χώρους.\u003cbr\u003e\u003cbr\u003eΙδανικό ως φως έμφασης σε οποιοδήποτε σύστημα φωτισμού με ράγα, ιδανικό για την ανάδειξη συγκεκριμένων στοιχείων, με κύρια γωνία δέσμης 100º.\u003c/p\u003e\u003cp\u003e\u003cbr\u003eΕπιπλέον, το φινίρισμα με \u003cstrong\u003eβαφή AkzoNobel\u003c/strong\u003e, παγκόσμια εταιρεία εξειδικευμένη σε βαφές και επικαλύψεις υψηλής ποιότητας, πιστοποιεί ότι αυτό το προϊόν διαθέτει βαφή υψηλής ποιότητας.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΣποτ LED 40W GRAZ Μαύρο BRIDGELUX Chip Μονοφασικό για ράγα CRI+98 - CCT\u003c/h2\u003e\n\u003cp\u003eΜονοφασικό σποτ ράγας GRAZ 40W μαύρο. Chip Bridgelux, επιλογή CCT, CRI+98.\u003c/p\u003e\n\u003ch3\u003eΧρήσεις: Καταστήματα, προθήκες, μουσεία.\u003c/h3\u003e",
+    "brand":  {
+                  "id":  6,
+                  "name":  "BRIDGELUX",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/6/logo?unique=1793096554"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  27,
+                           "name":  "Φωτισμός για καταστήματα και λιανική",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική"
+                                    ]
+                       },
+                       {
+                           "id":  29,
+                           "name":  "Ράγα φωτισμού LED",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική",
+                                        "Ράγα φωτισμού LED"
+                                    ]
+                       },
+                       {
+                           "id":  83,
+                           "name":  "Σειρά μονοφασικής ράγας",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική",
+                                        "Ράγα φωτισμού LED",
+                                        "Σειρά μονοφασικής ράγας"
+                                    ]
+                       },
+                       {
+                           "id":  137,
+                           "name":  "Μαύρη μονοφασική ράγα",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική",
+                                        "Ράγα φωτισμού LED",
+                                        "Σειρά μονοφασικής ράγας",
+                                        "Μαύρη μονοφασική ράγα"
+                                    ]
+                       },
+                       {
+                           "id":  293,
+                           "name":  "Φωτισμός γραφείου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Φωτισμός γραφείου"
+                                    ]
+                       },
+                       {
+                           "id":  299,
+                           "name":  "Πλαφονιέρα ιδιωτικού γραφείου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Φωτισμός γραφείου",
+                                        "Φωτισμός οροφής γραφείου",
+                                        "Πλαφονιέρα ιδιωτικού γραφείου"
+                                    ]
+                       },
+                       {
+                           "id":  304,
+                           "name":  "Σποτ γραφείου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Φωτισμός γραφείου",
+                                        "Σποτ γραφείου"
+                                    ]
+                       },
+                       {
+                           "id":  322,
+                           "name":  "Εμπορικός φωτισμός",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Εμπορικός φωτισμός"
+                                    ]
+                       },
+                       {
+                           "id":  320,
+                           "name":  "Φωτισμός καταστημάτων λιανικής",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Εμπορικός φωτισμός",
+                                        "Φωτισμός καταστημάτων λιανικής"
+                                    ]
+                       },
+                       {
+                           "id":  328,
+                           "name":  "Μάρκες",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Μάρκες"
+                                    ]
+                       },
+                       {
+                           "id":  327,
+                           "name":  "Bridgelux",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Μάρκες",
+                                        "Bridgelux"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  746,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "40W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  850,
+                         "name":  "Χρώμα",
+                         "value":  "ΕΠΙΛΟΓΗ 3000K-4000K-6000K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  875,
+                         "name":  "CRI - Δείκτης χρωματικής απόδοσης",
+                         "value":  "92",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Ενεργειακή κλάση (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1009,
+                         "name":  "Φωτεινή ροή (Lm)",
+                         "value":  "4400Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1035,
+                         "name":  "Αριθμός \u0026 τύπος LED",
+                         "value":  "SMD 3030- (4Cores) BRIDGELUX CHIP 2240DS-C30",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  1073,
+                         "name":  "Γωνία δέσμης (º)",
+                         "value":  "100º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1082,
+                         "name":  "Φωτεινή απόδοση LED (Lm/W)",
+                         "value":  "130 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1128,
+                         "name":  "Φωτεινή απόδοση (Lm/W)",
+                         "value":  "110 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1597,
+                         "name":  "Συντελεστής ισχύος (PF)",
+                         "value":  "0.92",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/19/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Συχνότητα (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "Κύκλοι ON/OFF",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Χρόνος εκκίνησης (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1639,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Αλουμίνιο +PMMA",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1811,
+                         "name":  "Ενεργειακή κλάση (2023 - UE-2019/2015)",
+                         "value":  "F",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  3589,
+                         "name":  "Κωδικός",
+                         "value":  "TRB40W-GRAZ-92017",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  8673,
+                         "name":  "Διάρκεια ζωής LED (ώρες)",
+                         "value":  "35000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  10117,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "Τροφοδοτικό (Driver): 140 x 52 x 85 mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  11003,
+                         "name":  "Εύρος θερμοκρασίας (ºC)",
+                         "value":  "-20ºC ~ +40ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  11604,
+                         "name":  "Άλλες πληροφορίες",
+                         "value":  "Βαφή:  AkzoNobel  Interpon 600 C33883",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/25/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  20920,
+                         "model":  "920170",
+                         "reference":  "TRB40W-3CCT-92017",
+                         "barcode":  "8435612967007",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  10,
+                                               "width":  20,
+                                               "height":  22
+                                           },
+                         "weight_kg":  1.5,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11521/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11521/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11521/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11521/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11521/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11521/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55005,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55005/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55005/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55005/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55005/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55005/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55005/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55006,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55006/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55006/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55006/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55006/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55006/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55006/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55007,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55007/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55007/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55007/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55007/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55007/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55007/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55008,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55008/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55008/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55008/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55008/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55008/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55008/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55009,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55009/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55009/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55009/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55009/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55009/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55009/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55010,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55010/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55010/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55010/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55010/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55010/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55010/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55011,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55011/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55011/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55011/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55011/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55011/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55011/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55012,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55012/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55012/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55012/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55012/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55012/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55012/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55013,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55013/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55013/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55013/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55013/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55013/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55013/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55014,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55014/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55014/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55014/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55014/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55014/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55014/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55015,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55015/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55015/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55015/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55015/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55015/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55015/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55016,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55016/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55016/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55016/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55016/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55016/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55016/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55017,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55017/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55017/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55017/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55017/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55017/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55017/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+                          {
+                              "id":  67,
+                              "name":  "IES Foco Carril GRAZ",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/67/file/40W-4000K.ies"
+                          },
+                          {
+                              "id":  68,
+                              "name":  "IES PDF Foco Carril GRAZ",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/68/file/40W-4000K-EN.pdf"
+                          }
+                      ],
+    "master_box_qty":  10,
+    "is_new":  false,
+    "published_at":  "2025-03-25T08:27:03.697813",
+    "source_url":  "https://www.factorled.com/en/11521-led-spotlight-40w-graz-black-bridgelux-chip-single-phase-track-cri-98-cct.html"
+}

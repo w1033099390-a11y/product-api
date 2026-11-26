@@ -1,0 +1,152 @@
+{
+    "id":  900125,
+    "lang":  "en",
+    "name":  "Philips CERTA Driver for LED Luminaires 42W 1050mA",
+    "reference":  "DRIVER42W-1050MA",
+    "short_description":  "\u003cp\u003ePhilips CERTA Driver for LED Luminaires 42W 1050mA. The Philips Certa 42W Driver guarantees maximum efficiency, stability, and safety in professional LED luminaires. Designed with AC220-240V input and DC30-42V 1050mA output, offers reliable and durable performance, ideal for commercial, industrial, or architectural lighting projects. Its optimized design ensures constant power supply.\u003c/p\u003e",
+    "description":  "\u003ch2\u003ePhilips CERTA Driver for LED Luminaires 42W 1050mA\u003c/h2\u003e\u003cp\u003eThe Philips Certa 42W Driver guarantees maximum efficiency, stability, and safety in professional LED luminaires. Designed with AC220-240V input and DC30-42V 1050mA output, offers reliable and durable performance, ideal for commercial, industrial, or architectural lighting projects. Its optimized design ensures constant power supply.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  51,
+                           "name":  "Power Supplies and Drivers",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Power Supplies and Drivers"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "DRIVER42W-1050MA",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001251,
+                         "model":  "DRIVER42W-1050MA",
+                         "reference":  "DRIVER42W-1050MA",
+                         "barcode":  "8435612987616",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900125_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900125_0.jpg",
+                                     "1024":  "img/900125_0.jpg",
+                                     "512":  "img/900125_0.jpg",
+                                     "256":  "img/900125_0.jpg",
+                                     "128":  "img/900125_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900125_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900125_1.jpg",
+                                     "1024":  "img/900125_1.jpg",
+                                     "512":  "img/900125_1.jpg",
+                                     "256":  "img/900125_1.jpg",
+                                     "128":  "img/900125_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900125_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900125_2.jpg",
+                                     "1024":  "img/900125_2.jpg",
+                                     "512":  "img/900125_2.jpg",
+                                     "256":  "img/900125_2.jpg",
+                                     "128":  "img/900125_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900125_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900125_3.jpg",
+                                     "1024":  "img/900125_3.jpg",
+                                     "512":  "img/900125_3.jpg",
+                                     "256":  "img/900125_3.jpg",
+                                     "128":  "img/900125_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900125_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900125_4.jpg",
+                                     "1024":  "img/900125_4.jpg",
+                                     "512":  "img/900125_4.jpg",
+                                     "256":  "img/900125_4.jpg",
+                                     "128":  "img/900125_4.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900125_5.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900125_5.jpg",
+                                     "1024":  "img/900125_5.jpg",
+                                     "512":  "img/900125_5.jpg",
+                                     "256":  "img/900125_5.jpg",
+                                     "128":  "img/900125_5.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/philips-certa-driver-for-led-luminaires-42w-1050ma-driver42w-1050ma"
+}

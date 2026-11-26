@@ -1,0 +1,108 @@
+{
+    "id":  900065,
+    "lang":  "en",
+    "name":  "Connector with Cable for RGB+CCT LED Strips 10mm",
+    "reference":  "SPRGBCCT10MM",
+    "short_description":  "\u003cp\u003eSize 10MM\u003c/p\u003e",
+    "description":  "\u003ch2\u003eConnector with Cable for RGB+CCT LED Strips 10mm\u003c/h2\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e10MM\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Indoor Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  35,
+                           "name":  "LED Strip Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip Accessories"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "10MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "SPRGBCCT10MM",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000651,
+                         "model":  "SPRGBCCT10MM",
+                         "reference":  "SPRGBCCT10MM",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900065_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900065_0.jpg",
+                                     "1024":  "img/900065_0.jpg",
+                                     "512":  "img/900065_0.jpg",
+                                     "256":  "img/900065_0.jpg",
+                                     "128":  "img/900065_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/connector-with-cable-for-rgbcct-led-strips-10mm"
+}

@@ -1,0 +1,345 @@
+{
+    "id":  3471,
+    "lang":  "el",
+    "name":  "Λάμπα LED Filament 8W E27 A60",
+    "reference":  "A60FM8W-90916-27K-100",
+    "short_description":  "\u003cp\u003eΑυτή η λάμπα Filament A60 έχει ισχύ 8W και ντουί E27. Μπορείτε να αντικαταστήσετε εύκολα τις συμβατικές λάμπες πυράκτωσης και άνθρακα και, χάρη στην τεχνολογία LED, να μειώσετε την κατανάλωση ρεύματος διατηρώντας ένα κλασικό σχέδιο.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΛάμπα LED Filament 8W E27 A60\u003c/h2\u003e\n\u003cp\u003e\u003cbr /\u003eΑυτή η λάμπα LED Filament διαθέτει ντουί E27 και ισχύ 8W. Προσφέρει ζεστές ατμόσφαιρες\u003c/p\u003e\n\u003cp\u003eΣας επιτρέπει να εξοικονομήσετε στην κατανάλωση ενέργειας χάρη στην τεχνολογία LED, καθώς και στα κόστη συντήρησης και αντικατάστασης. Θα σεβαστείτε το περιβάλλον χωρίς να παραιτηθείτε από το κλασικό σχέδιο των συμβατικών λαμπών. Διαθέτει επίσης φωτεινή απόδοση 100lm/W.\u003c/p\u003e\n\u003cp\u003eΕίναι μια λάμπα πολλαπλών χρήσεων, καθώς μπορείτε να τη χρησιμοποιήσετε τόσο στο σπίτι όσο και στον χώρο εργασίας σας, δημιουργώντας πρωτότυπες ατμόσφαιρες με ρετρό touch, χωρίς να ξεχνάμε την 2ετή εγγύησή μας.\u003c/p\u003e\n\u003ch2\u003eΧρήσεις της λάμπας LED Filament 8W E27 A60\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eΔιακοσμητικός φωτισμός\u003c/li\u003e\n\u003cli\u003eΕστιατόρια\u003c/li\u003e\n\u003cli\u003eΞενοδοχεία\u003c/li\u003e\n\u003cli\u003eΔωμάτια\u003c/li\u003e\n\u003cli\u003eΕπιτραπέζια φωτιστικά ή φωτιστικά κομοδίνου\u003c/li\u003e\n\u003cli\u003eΣαλόνια\u003c/li\u003e\n\u003cli\u003eChillout\u003c/li\u003e\n\u003c/ul\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "Λάμπες LED \u0026 Φωτιστικά",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "Λάμπες LED ανά τύπο βάσης",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά τύπο βάσης"
+                                    ]
+                       },
+                       {
+                           "id":  5,
+                           "name":  "Λάμπες LED E27",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά τύπο βάσης",
+                                        "Λάμπες LED E27"
+                                    ]
+                       },
+                       {
+                           "id":  120,
+                           "name":  "Filament",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Διακοσμητικές λάμπες LED",
+                                        "Filament"
+                                    ]
+                       },
+                       {
+                           "id":  178,
+                           "name":  "Λάμπες LED ανά μέγεθος",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά μέγεθος"
+                                    ]
+                       },
+                       {
+                           "id":  179,
+                           "name":  "Λάμπες LED A60",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά μέγεθος",
+                                        "Λάμπες LED A60"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  779,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "8W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  860,
+                         "name":  "Χρώμα",
+                         "value":  "2700K-4000K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Δείκτης χρωματικής απόδοσης",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Ενεργειακή κλάση (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1040,
+                         "name":  "Γωνία δέσμης (º)",
+                         "value":  "180º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1084,
+                         "name":  "Φωτεινή απόδοση LED (Lm/W)",
+                         "value":  "125 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1145,
+                         "name":  "Φωτεινή απόδοση (Lm/W)",
+                         "value":  "120 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1154,
+                         "name":  "Βάση",
+                         "value":  "E27",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/14/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Συχνότητα (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Εύρος θερμοκρασίας (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "Κύκλοι ON/OFF",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Χρόνος εκκίνησης (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1651,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Γυαλί",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1810,
+                         "name":  "Ενεργειακή κλάση (2023 - UE-2019/2015)",
+                         "value":  "E",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  3814,
+                         "name":  "Κωδικός",
+                         "value":  "A60FM8W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  6766,
+                         "name":  "Φωτεινή ροή (Lm)",
+                         "value":  "950Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  9541,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "ø60x106mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  2,
+                        "name":  "Θερμοκρασία χρώματος",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  4,
+                                           "name":  "Ουδέτερο λευκό - 4000K",
+                                           "color":  "#FFE9C4",
+                                           "icon":  null
+                                       }
+                                   ]
+                    },
+                    {
+                        "id":  16,
+                        "name":  "Αγοράστε περισσότερα και πληρώστε λιγότερο",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  208,
+                                           "name":  "Τεμάχια",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  6938,
+                         "model":  "909175",
+                         "reference":  "A60FM8W-90917-4K-UND",
+                         "barcode":  "8435612950955",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  6.5,
+                                               "width":  11,
+                                               "height":  6.5
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Θερμοκρασία χρώματος",
+                                             "value_id":  4,
+                                             "value":  "Ουδέτερο λευκό - 4000K"
+                                         },
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Αγοράστε περισσότερα και πληρώστε λιγότερο",
+                                             "value_id":  208,
+                                             "value":  "Τεμάχια"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/3471/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/3471/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/3471/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/3471/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/3471/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/3471/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72633,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72633/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72633/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72633/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72633/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72633/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72633/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72634,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72634/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72634/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72634/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72634/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72634/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72634/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72635,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72635/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72635/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72635/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72635/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72635/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72635/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72636,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72636/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72636/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72636/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72636/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72636/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72636/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72637,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72637/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72637/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72637/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72637/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72637/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72637/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+                   {
+                       "id":  113936,
+                       "name":  "Bombilla LED Filamento 8W E27 A60",
+                       "video_url":  "https://youtu.be/BnscidSs8DM"
+                   }
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-02-06T10:19:19.202985",
+    "source_url":  "https://www.factorled.com/en/3471-8w-led-bulbs-filament-e27-a60.html"
+}

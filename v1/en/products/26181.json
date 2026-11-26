@@ -1,0 +1,243 @@
+{
+    "id":  26181,
+    "lang":  "en",
+    "name":  "Waterproof Power Supply 24V 200W IP68 | GXtronic | 2 Outputs",
+    "reference":  "200W24V-91437",
+    "short_description":  "\u003cp\u003eThe \u003cstrong\u003eGXtronic IP68 Waterproof Professional Power Supply 24VDC\u003c/strong\u003e is the ideal solution for high-demand projects. With \u003cstrong\u003e200W power and 8.3A output\u003c/strong\u003e, offers stable, efficient performance thanks to its \u003cstrong\u003epower factor above 0.95\u003c/strong\u003e. Designed to work \u003cstrong\u003e24/7\u003c/strong\u003e. Its \u003cstrong\u003eIP68 protection\u003c/strong\u003e makes it fully water and dust resistant, perfect for \u003cstrong\u003eoutdoor installations\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eWaterproof Power Supply 24V 200W IP68 | GXtronic | 2 Outputs\u003c/h2\u003e\n\u003cp\u003eGXtronic IP68 waterproof professional power supply 24VDC. 200W, 8.3A output. Power factor \u003e0.95. Designed for 24/7 operation. Water and dust resistant.\u003c/p\u003e",
+    "brand":  {
+                  "id":  8,
+                  "name":  "GXTRONIC",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/8/logo?unique=1793096995"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  51,
+                           "name":  "Power Supplies and Drivers",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Power Supplies and Drivers"
+                                    ]
+                       },
+                       {
+                           "id":  55,
+                           "name":  "24V Power",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Power Supplies and Drivers",
+                                        "24V Power"
+                                    ]
+                       },
+                       {
+                           "id":  328,
+                           "name":  "Brands",
+                           "path":  [
+                                        "Featured",
+                                        "Brands"
+                                    ]
+                       },
+                       {
+                           "id":  336,
+                           "name":  "GXTronic",
+                           "path":  [
+                                        "Featured",
+                                        "Brands",
+                                        "GXTronic"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  782,
+                         "name":  "Rated Power",
+                         "value":  "200W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1175,
+                         "name":  "IP",
+                         "value":  "IP68",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1602,
+                         "name":  "Power Factor (PF)",
+                         "value":  "0.95",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/19/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1628,
+                         "name":  "Construction Material",
+                         "value":  "Aluminum",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1720,
+                         "name":  "Surge Protector",
+                         "value":  "6K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/30/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  7975,
+                         "name":  "Dimmable",
+                         "value":  "No",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/11/icon"
+                     },
+                     {
+                         "id":  15677,
+                         "name":  "REFERENCE",
+                         "value":  "200W24V-91438",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  15678,
+                         "name":  "Dimensions (mm)",
+                         "value":  "215*70*32mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  15679,
+                         "name":  "Other Information",
+                         "value":  "Iout: 8.3A",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/25/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  38040,
+                         "model":  "915749",
+                         "reference":  "200W24V-91437",
+                         "barcode":  "8435770891329",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  30.5,
+                                               "width":  8.5,
+                                               "height":  4
+                                           },
+                         "weight_kg":  0.88,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/26181/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/26181/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/26181/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/26181/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/26181/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/26181/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114267,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114267/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114267/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114267/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114267/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114267/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114267/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114268,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114268/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114268/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114268/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114268/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114268/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114268/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114269,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114269/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114269/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114269/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114269/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114269/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114269/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114270,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114270/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114270/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114270/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114270/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114270/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114270/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  24,
+    "is_new":  false,
+    "published_at":  "2026-02-24T12:12:12.758691",
+    "source_url":  "https://www.factorled.com/en/26181-waterproof-power-supply-24v-200w-ip68-gxtronic-2-outputs.html"
+}

@@ -1,0 +1,291 @@
+{
+    "id":  11002,
+    "lang":  "en",
+    "name":  "LED Wall Light 12W - SATURNO - Indoor Wall - 3500K",
+    "reference":  "91733",
+    "short_description":  "\u003cdiv id=\"short_description_block\"\u003e\n\u003cdiv id=\"short_description_content\" class=\"rte align_justify\"\u003e\n\u003cp\u003e\u003cspan style=\"color:#000000;background-color:#ffffff;\"\u003e\u003cstrong\u003eLED Wall Light 12\u003c/strong\u003e\u003c/span\u003e\u003cb\u003eW - SATURNO\u003c/b\u003e in Aluminum with LED cord. With its warm \u003cstrong\u003e3500K\u003c/strong\u003e light and modern design, this wall light is the perfect solution to bring life to your indoor walls. Enjoy soft lighting and save energy at the same time. Renew your spaces and create a cozy atmosphere. Bring Life to Your Walls.\u003c/p\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003eSATURNO 12W LED Wall Light - Indoor Wall - 3500K\u003c/h2\u003e\n\u003cp\u003eIlluminate your interior spaces in a unique, elegant way with our stellar LED Wall Light. Combines LED efficiency with an attractive design highlighting modern aesthetics. Warm 3500K light creates a cozy, pleasant atmosphere.\u003c/p\u003e\n\u003ch4\u003eKey Features:\u003c/h4\u003e\n\u003cp\u003e1. \u003cstrong\u003eHigh-Quality Construction:\u003c/strong\u003e Made of high-quality aluminum with illuminating textile cord, creating a captivating visual effect.\u003c/p\u003e\n\u003cp\u003e2. \u003cstrong\u003eLED Lighting by Cord:\u003c/strong\u003e Unique cord lighting feature adds originality and creativity. The illuminated textile cord becomes a decorative element itself.\u003c/p\u003e\n\u003cp\u003e3. \u003cstrong\u003eIdeal for Indoors:\u003c/strong\u003e IP20 protection, perfect for indoor installation.\u003c/p\u003e\n\u003cp\u003e4. \u003cstrong\u003eEnvironmental Protection:\u003c/strong\u003e Low-consumption LED technology reduces your carbon footprint.\u003c/p\u003e\n\u003ch2 style=\"text-align:center;\"\u003eUses of SATURNO 12W LED Wall Light\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eAmbient Decoration:\u003c/strong\u003e Use as centerpiece decoration on walls\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eVarious Applications:\u003c/strong\u003e Main lighting in living room or wall lamp in bedroom\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eRestaurants or Cafes:\u003c/strong\u003e Adds warmth and style\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eBedroom Reading Light:\u003c/strong\u003e Mount next to the headboard for reading comfort\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eFactorLED guarantees QUALITY warranty with technical data sheets.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  58,
+                           "name":  "LED Wall Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Wall Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  206,
+                           "name":  "Decorative LED Wall Lights",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Wall Lamps",
+                                        "Decorative LED Wall Lights"
+                                    ]
+                       },
+                       {
+                           "id":  56,
+                           "name":  "LED Decoration",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Decoration"
+                                    ]
+                       },
+                       {
+                           "id":  317,
+                           "name":  "Restaurant Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Restaurant Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  318,
+                           "name":  "Bar Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Bar Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  321,
+                           "name":  "Hotel Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Hotel Lighting"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "12W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  807,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC85-265V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  918,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1200Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1040,
+                         "name":  "Beam Angle (º)",
+                         "value":  "180º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1121,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "100 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  11227,
+                         "name":  "On/Off Cycles",
+                         "value":  "25.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  16456,
+                         "name":  "Colour",
+                         "value":  "3500K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  18610,
+                         "model":  "91733",
+                         "reference":  "91733",
+                         "barcode":  "8435612901780",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  15,
+                                               "width":  41,
+                                               "height":  32
+                                           },
+                         "weight_kg":  1.3,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11002/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11002/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11002/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11002/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11002/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11002/image_128"
+                                 }
+                   },
+                   {
+                       "id":  96048,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/96048/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/96048/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/96048/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/96048/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/96048/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/96048/image_128"
+                                 }
+                   },
+                   {
+                       "id":  96049,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/96049/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/96049/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/96049/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/96049/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/96049/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/96049/image_128"
+                                 }
+                   },
+                   {
+                       "id":  96050,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/96050/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/96050/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/96050/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/96050/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/96050/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/96050/image_128"
+                                 }
+                   },
+                   {
+                       "id":  96051,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/96051/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/96051/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/96051/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/96051/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/96051/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/96051/image_128"
+                                 }
+                   },
+                   {
+                       "id":  96052,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/96052/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/96052/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/96052/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/96052/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/96052/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/96052/image_128"
+                                 }
+                   },
+                   {
+                       "id":  96053,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/96053/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/96053/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/96053/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/96053/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/96053/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/96053/image_128"
+                                 }
+                   },
+                   {
+                       "id":  96054,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/96054/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/96054/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/96054/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/96054/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/96054/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/96054/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2024-05-10T09:59:32.470769",
+    "source_url":  "https://www.factorled.com/en/11002-led-wall-light-12w-saturno-indoor-wall-3500k.html"
+}

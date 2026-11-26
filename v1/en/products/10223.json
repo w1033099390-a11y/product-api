@@ -1,0 +1,420 @@
+{
+    "id":  10223,
+    "lang":  "en",
+    "name":  "Downlight LED 6W RGB+CCT - Remote Control - Lumileds Chip",
+    "reference":  "91129-6W",
+    "short_description":  "\u003cp\u003eA \u003cstrong\u003e6W RGB+CCT LED Downlight\u003c/strong\u003e with remote control and Lumileds chips is a modern and versatile lighting solution that combines cutting-edge technology with a sleek and functional design.\u003c/p\u003e\n\u003cp\u003eThis type of downlight is equipped with high-quality \u003cstrong\u003eLumileds chips\u003c/strong\u003e, ensuring powerful, efficient, and long-lasting illumination.\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003e6W RGB+CCT LED Downlight - Remote Control - Lumileds Chip\u003c/h2\u003e\n\u003cp\u003eA \u003cstrong\u003e6W RGB+CCT LED Downlight\u003c/strong\u003e with\u003cstrong\u003e remote control\u003c/strong\u003e and Lumileds chips is a modern and versatile lighting solution that combines cutting-edge technology with a sleek and functional design. This type of downlight is equipped with high-quality \u003cstrong\u003eLumileds chips\u003c/strong\u003e, ensuring powerful, efficient, and long-lasting illumination.\u003c/p\u003e\n\u003cp\u003eThe \"RGB+CCT\" feature refers to the capability of this downlight to produce a wide range of colors and light tones. With this system, you can select individual colors (red, green, and blue) and mix them to create a variety of shades. Additionally, the downlight also offers control over the color temperature (CCT), allowing you\u003cstrong\u003e to adjust the light from warm to cool tones\u003c/strong\u003e according to your specific preferences or needs.\u003c/p\u003e\n\u003cp\u003eThe included remote control makes handling and customizing the lighting easy. With it, you can change the color, adjust the intensity, modify the color temperature, and even select different lighting modes such as flashing, smooth transition, or automatic color change.\u003c/p\u003e\n\u003cp\u003eThe design of the downlight is compact and discreet, making it an ideal choice for both residential and commercial spaces. Its recessed installation in the ceiling provides an elegant and unobstructed appearance, allowing for uniform and glare-free illumination.\u003c/p\u003e\n\u003ch2\u003eThe usability and benefits of a 6W RGB+CCT Downlight with remote control and Lumileds chips are as follows:\u003c/h2\u003e\n\u003col\u003e\n\u003cli\u003eVersatility in lighting: This downlight allows you to select from a wide range of colors and light tones, giving you the ability to adapt the lighting to different environments, moods, or activities. You can choose soft and warm colors to create a relaxing atmosphere or vibrant and bright colors to highlight and enhance certain elements.\u003c/li\u003e\n\u003cli\u003eAdjustable color temperature: With the option to control the color temperature, you can adjust the lighting from warm tones resembling sunset light to cool tones resembling daylight. This is particularly useful in spaces where functional lighting is needed, such as offices or kitchens.\u003c/li\u003e\n\u003cli\u003eConvenient remote control: The included remote control makes it easy to manage and customize the lighting from anywhere in the room. You can change the color, intensity, and color temperature with the press of a button, without the need to approach the downlight or install additional switches.\u003c/li\u003e\n\u003cli\u003eEnergy efficiency: Thanks to the high-quality Lumileds chips, this downlight offers powerful illumination with a low power consumption of only 6W. This means you can enjoy bright and vibrant lighting without worrying about excessive energy consumption and associated costs.\u003c/li\u003e\n\u003cli\u003eDurability and long lifespan: Lumileds chips are known for their durability and long lifespan. This means the downlight requires minimal maintenance and will provide you with years of reliable and high-quality lighting.\u003c/li\u003e\n\u003cli\u003eAesthetic and elegant design: The recessed design of the downlight provides an aesthetically pleasing and discreet appearance. It seamlessly integrates into the ceiling without obstructing the view or disrupting the room\u0027s decor.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eIn our online store, we ensure that our products are of high QUALITY and provide all the necessary elements for DISTRIBUTION, IMPORT, or WHOLESALE, including the technical specifications of each LED product.\u003c/p\u003e",
+    "brand":  {
+                  "id":  4,
+                  "name":  "LUMILEDS",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/4/logo?unique=1793097311"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  19,
+                           "name":  "Downlight and Ceiling Lights LED",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Downlight and Ceiling Lights LED"
+                                    ]
+                       },
+                       {
+                           "id":  20,
+                           "name":  "LED Downlight Spotlights",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Downlight and Ceiling Lights LED",
+                                        "LED Downlight Spotlights"
+                                    ]
+                       },
+                       {
+                           "id":  129,
+                           "name":  "Circular Recessed Downlight",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Downlight and Ceiling Lights LED",
+                                        "LED Downlight Spotlights",
+                                        "Circular Recessed Downlight"
+                                    ]
+                       },
+                       {
+                           "id":  293,
+                           "name":  "Office Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  295,
+                           "name":  "Office Ceiling Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting",
+                                        "Office Ceiling Lighting"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  770,
+                         "name":  "Rated Power",
+                         "value":  "6W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  852,
+                         "name":  "Colour",
+                         "value":  "RGB+CCT",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1014,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "COB",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  1120,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "90 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1177,
+                         "name":  "IP",
+                         "value":  "IP44",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1186,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "100000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1660,
+                         "name":  "Construction Material",
+                         "value":  "PMMA",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1743,
+                         "name":  "Control modes",
+                         "value":  "CONTROL + INFRARED",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/36/icon"
+                     },
+                     {
+                         "id":  1764,
+                         "name":  "Driver included",
+                         "value":  "YES",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/39/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1811,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "F",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  2619,
+                         "name":  "REFERENCE",
+                         "value":  "91129-6W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  6286,
+                         "name":  "Luminosity-Lm",
+                         "value":  "520Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  7770,
+                         "name":  "Beam Angle (º)",
+                         "value":  "Primary -120º - Secondary 180º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  9510,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø84 x H34mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  10914,
+                         "name":  "Power Factor (PF)",
+                         "value":  "0.65",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/19/icon"
+                     },
+                     {
+                         "id":  12242,
+                         "name":  "Cut-out Size (mm)",
+                         "value":  "Ø68mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/26/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  11040,
+                         "model":  "911291",
+                         "reference":  "91129-6W",
+                         "barcode":  "8435612960718",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  9,
+                                               "height":  9
+                                           },
+                         "weight_kg":  0.14,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/10223/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/10223/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/10223/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/10223/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/10223/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/10223/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39995,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39995/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39995/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39995/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39995/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39995/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39995/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39996,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39996/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39996/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39996/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39996/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39996/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39996/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39997,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39997/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39997/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39997/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39997/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39997/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39997/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39998,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39998/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39998/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39998/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39998/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39998/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39998/image_128"
+                                 }
+                   },
+                   {
+                       "id":  39999,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/39999/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/39999/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/39999/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/39999/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/39999/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/39999/image_128"
+                                 }
+                   },
+                   {
+                       "id":  40000,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/40000/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/40000/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/40000/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/40000/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/40000/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/40000/image_128"
+                                 }
+                   },
+                   {
+                       "id":  40001,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/40001/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/40001/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/40001/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/40001/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/40001/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/40001/image_128"
+                                 }
+                   },
+                   {
+                       "id":  40002,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/40002/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/40002/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/40002/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/40002/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/40002/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/40002/image_128"
+                                 }
+                   },
+                   {
+                       "id":  40003,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/40003/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/40003/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/40003/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/40003/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/40003/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/40003/image_128"
+                                 }
+                   },
+                   {
+                       "id":  40004,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/40004/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/40004/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/40004/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/40004/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/40004/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/40004/image_128"
+                                 }
+                   },
+                   {
+                       "id":  40005,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/40005/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/40005/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/40005/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/40005/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/40005/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/40005/image_128"
+                                 }
+                   },
+                   {
+                       "id":  40006,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/40006/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/40006/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/40006/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/40006/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/40006/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/40006/image_128"
+                                 }
+                   },
+                   {
+                       "id":  40007,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/40007/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/40007/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/40007/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/40007/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/40007/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/40007/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+                   {
+                       "id":  113890,
+                       "name":  "Downlight LED 6W RGB+CCT - Control Remoto - Chip Lumileds",
+                       "video_url":  "https://youtu.be/e2aIPgKwfkY"
+                   }
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-07-11T12:07:20.677841",
+    "source_url":  "https://www.factorled.com/en/10223-downlight-led-6w-rgb-cct-control-remoto-chip-lumileds.html"
+}

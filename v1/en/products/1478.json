@@ -1,0 +1,375 @@
+{
+    "id":  1478,
+    "lang":  "en",
+    "name":  "12W LED Wall Light VIBORG Outdoor",
+    "reference":  "90437-3K",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eWall light LED VIBORG 12W\u003c/strong\u003e, type of protection \u003cstrong\u003eIP65\u003c/strong\u003e, so its use has resistance to any sudden change of temperature, both in winter and summer. This\u003cstrong\u003e black outdoor wall lamp\u003c/strong\u003e is especially suitable for lighting outdoor areas giving them a modern design. Create relaxing environments to enjoy your garden, entrances, porches, etc...\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003e12W LED Wall Light VIBORG Outdoor\u003c/h2\u003e\n\u003cp\u003eOur \u003cstrong\u003e12W LED wall light\u003c/strong\u003e allows you to obtain a personalised lighting thanks to customised installation, according to the required ambiance. It presents a warm and cosy light. It is perfect for \u003cstrong\u003eindoors\u003c/strong\u003e and \u003cstrong\u003eoutdoors\u003c/strong\u003e, thanks to its IP65, which makes it resistant to rain splashes.\u003c/p\u003e\n\u003cp\u003eThese LED wall lights reduce energy consumption by up to 80% compared to the old halogen lamps, in addition to the fact that their materials are less polluting for the planet. \u003c/p\u003e\n\u003ch2\u003eUses 12W LED Wall Light VIBORG Outdoor\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eWalls\u003c/li\u003e\n\u003cli\u003eCorridors\u003c/li\u003e\n\u003cli\u003eRooms\u003c/li\u003e\n\u003cli\u003eHotels\u003c/li\u003e\n\u003cli\u003eEntrances\u003c/li\u003e\n\u003cli\u003ePorches\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cimg src=\"https://www.factorled.com/img/cms/Ambientadas/Sensor-Crepuscular-Factorled.jpg\" alt=\"\" width=\"700\" height=\"394\" /\u003e\u003c/p\u003e\n\u003cp\u003eIn Factorled we ensure that our products have QUALITY guarantee and offer all the necessary elements for DISTRIBUTION, IMPORT OR WHOLESALE, including the technical data sheet of each LED product.\u003c/p\u003e",
+    "brand":  {
+                  "id":  6,
+                  "name":  "BRIDGELUX",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/6/logo?unique=1793096554"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  56,
+                           "name":  "LED Decoration",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Decoration"
+                                    ]
+                       },
+                       {
+                           "id":  220,
+                           "name":  "Outdoor LED Wall Lights",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting",
+                                        "Outdoor LED Wall Lights"
+                                    ]
+                       },
+                       {
+                           "id":  86,
+                           "name":  "Take advantage of our Offers",
+                           "path":  [
+                                        "Featured",
+                                        "Take advantage of our Offers"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "12W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  842,
+                         "name":  "Colour",
+                         "value":  "3000K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1040,
+                         "name":  "Beam Angle (º)",
+                         "value":  "180º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1101,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "140 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1145,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "120 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1172,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1639,
+                         "name":  "Construction Material",
+                         "value":  "Aluminium +PMMA",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1758,
+                         "name":  "Impact Protection (IK)",
+                         "value":  "IK10",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/38/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  6491,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1440Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  7199,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "COB Bridgelux",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  10624,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø100x70mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  14417,
+                         "name":  "REFERENCE",
+                         "value":  "U179",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  2478,
+                         "model":  "90437-3K",
+                         "reference":  "90437-3K",
+                         "barcode":  "8435612911321",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  9,
+                                               "width":  11,
+                                               "height":  11
+                                           },
+                         "weight_kg":  0.43,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/1478/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/1478/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/1478/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/1478/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/1478/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/1478/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70337,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70337/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70337/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70337/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70337/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70337/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70337/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70338,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70338/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70338/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70338/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70338/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70338/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70338/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70339,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70339/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70339/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70339/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70339/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70339/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70339/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70340,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70340/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70340/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70340/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70340/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70340/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70340/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70341,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70341/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70341/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70341/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70341/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70341/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70341/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70342,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70342/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70342/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70342/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70342/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70342/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70342/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70343,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70343/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70343/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70343/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70343/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70343/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70343/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70344,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70344/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70344/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70344/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70344/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70344/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70344/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70345,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70345/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70345/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70345/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70345/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70345/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70345/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70346,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70346/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70346/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70346/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70346/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70346/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70346/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70347,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70347/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70347/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70347/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70347/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70347/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70347/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70348,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70348/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70348/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70348/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70348/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70348/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70348/image_128"
+                                 }
+                   },
+                   {
+                       "id":  70349,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/70349/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/70349/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/70349/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/70349/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/70349/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/70349/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2021-02-10T17:32:04.428825",
+    "source_url":  "https://www.factorled.com/en/1478-12w-led-wall-light-viborg-outdoor.html"
+}

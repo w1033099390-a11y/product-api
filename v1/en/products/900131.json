@@ -1,0 +1,149 @@
+{
+    "id":  900131,
+    "lang":  "en",
+    "name":  "Led Solar Garden Light - IP65 - 4000K",
+    "reference":  "91107",
+    "short_description":  "\u003cp\u003eLed Solar Garden Light - IP65 - 4000K. Garden Solar Light with integrated battery, ideal for enhancing your gardens efficiently and durably with solar energy. The lamp comes with a spike that can be driven into the ground to secure it in the garden. It consists of two elegant 36º lenses. It is a simple and eco-friendly lighting solution that requires no electricity or wiring.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLed Solar Garden Light - IP65 - 4000K\u003c/h2\u003e\u003cp\u003eGarden Solar Light with integrated battery, ideal for enhancing your gardens efficiently and durably with solar energy. The lamp comes with a spike that can be driven into the ground to secure it in the garden. It consists of two elegant 36º lenses. It is a simple and eco-friendly lighting solution that requires no electricity or wiring.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eProtection rating\u003c/td\u003e\u003ctd\u003eIP65\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  98,
+                           "name":  "Solar LED Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Solar LED Lighting"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "91107",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001311,
+                         "model":  "91107",
+                         "reference":  "91107",
+                         "barcode":  "8435612956445",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900131_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900131_0.jpg",
+                                     "1024":  "img/900131_0.jpg",
+                                     "512":  "img/900131_0.jpg",
+                                     "256":  "img/900131_0.jpg",
+                                     "128":  "img/900131_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900131_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900131_1.jpg",
+                                     "1024":  "img/900131_1.jpg",
+                                     "512":  "img/900131_1.jpg",
+                                     "256":  "img/900131_1.jpg",
+                                     "128":  "img/900131_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900131_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900131_2.jpg",
+                                     "1024":  "img/900131_2.jpg",
+                                     "512":  "img/900131_2.jpg",
+                                     "256":  "img/900131_2.jpg",
+                                     "128":  "img/900131_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900131_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900131_3.jpg",
+                                     "1024":  "img/900131_3.jpg",
+                                     "512":  "img/900131_3.jpg",
+                                     "256":  "img/900131_3.jpg",
+                                     "128":  "img/900131_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900131_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900131_4.jpg",
+                                     "1024":  "img/900131_4.jpg",
+                                     "512":  "img/900131_4.jpg",
+                                     "256":  "img/900131_4.jpg",
+                                     "128":  "img/900131_4.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900131_5.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900131_5.jpg",
+                                     "1024":  "img/900131_5.jpg",
+                                     "512":  "img/900131_5.jpg",
+                                     "256":  "img/900131_5.jpg",
+                                     "128":  "img/900131_5.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-solar-garden-light-ip65-4000k-91107"
+}

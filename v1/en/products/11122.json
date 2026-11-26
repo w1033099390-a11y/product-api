@@ -1,0 +1,268 @@
+{
+    "id":  11122,
+    "lang":  "en",
+    "name":  "Pack Digital SPI LED Controller RGB - RGBW - RGBIC - 5-24V + Remote Control",
+    "reference":  "PACK-SPIR3-C6",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eDigital SPI Controller Pack 2.4GHz (5-24V) + 2.4GHz remote control\u003c/strong\u003e, ideal for digital LED strips (RGB, RGBW or monochromatic). Control each LED individually, adjusting speed, brightness, direction, length, and dynamic modes. Save up to 4 custom scenes. Enjoy smart animations and customize colors and pixels for detailed effects.\u003c/p\u003e\n\u003cp\u003eThis pack is ideal for creative and professional lighting projects, supporting 20 editable dynamic modes and providing a stable, fast signal.\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003ePack Digital SPI LED Controller RGB - RGBW - RGBIC - 5-24V + Remote Control\u003c/h2\u003e\n\u003cp\u003eThe 3-in-1 SPI LED Controller 2.4GHz pack with remote control - latest innovation in LED lighting control.\u003c/p\u003e\n\u003ch2\u003eKey Features:\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eSPI Signal Transmission\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e2.4G Wireless Remote Control:\u003c/strong\u003e 30m radius\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eWide IC Compatibility:\u003c/strong\u003e Single color, RGB, RGBW\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eFull Control:\u003c/strong\u003e Speed, brightness, direction, dynamic modes. 4 custom scenes\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eSmart Animations\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eColor Customization and Pixel Control\u003c/strong\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"color:#2445a2;\"\u003e\u003cem\u003eThis controller is ONLY compatible with 5m LED strip (1 roll).\u003c/em\u003e\u003c/span\u003e\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  37,
+                           "name":  "LED controllers",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED controllers"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  855,
+                         "name":  "Colour",
+                         "value":  "RGB+WW",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  5097,
+                         "name":  "Nominal Voltage",
+                         "value":  "TRI-C1: 240V - :FUT007: 3V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  9732,
+                         "name":  "Dimensions (mm)",
+                         "value":  "SPIR3: 74.5 x 36 x H17mm C6: 140 x 45 x 8 mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  14328,
+                         "name":  "REFERENCE",
+                         "value":  "PACK-SPIR3-C6",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  18847,
+                         "model":  "PACK-SPIR3-C6",
+                         "reference":  "PACK-SPIR3-C6",
+                         "barcode":  "8435612911529",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  15,
+                                               "width":  10,
+                                               "height":  10
+                                           },
+                         "weight_kg":  0.5,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11122/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11122/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11122/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11122/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11122/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11122/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109252,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109252/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109252/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109252/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109252/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109252/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109252/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109253,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109253/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109253/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109253/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109253/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109253/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109253/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109254,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109254/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109254/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109254/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109254/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109254/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109254/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109255,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109255/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109255/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109255/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109255/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109255/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109255/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109256,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109256/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109256/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109256/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109256/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109256/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109256/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109257,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109257/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109257/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109257/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109257/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109257/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109257/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109258,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109258/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109258/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109258/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109258/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109258/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109258/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109259,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109259/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109259/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109259/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109259/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109259/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109259/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109260,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109260/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109260/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109260/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109260/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109260/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109260/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109261,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109261/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109261/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109261/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109261/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109261/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109261/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109262,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109262/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109262/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109262/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109262/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109262/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109262/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109263,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109263/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109263/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109263/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109263/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109263/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109263/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109264,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109264/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109264/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109264/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109264/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109264/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109264/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2024-07-19T10:49:35.954406",
+    "source_url":  "https://www.factorled.com/en/11122-pack-digital-spi-led-controller-rgb-rgbw-rgbic-5-24v-remote-control.html"
+}

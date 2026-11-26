@@ -1,0 +1,138 @@
+{
+    "id":  900042,
+    "lang":  "en",
+    "name":  "iKinetic AR25 RF433 Triac Dimmer 230V - Trailing Edge - LED max. 200W - Built-in",
+    "reference":  "AR25",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eCompact trailing-edge (Triac) dimmer for 100-240V dimmable LED lamps: LED up to 200W (1A), resistive loads up to 300W. Dim with the wireless switches or a wired push switch.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePart of the iKinetic RF433 wireless lighting control system: pair the receiver with iKinetic kinetic (battery-free) wall switches such as IK01 and place the switch anywhere - no new wiring needed. Encrypted RF transmission, memory for up to 10 switches per receiver, settings kept after a power cut.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eiKinetic AR25 RF433 Triac Dimmer 230V - Trailing Edge - LED max. 200W - Built-in\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eCompact trailing-edge (Triac) dimmer for 100-240V dimmable LED lamps: LED up to 200W (1A), resistive loads up to 300W. Dim with the wireless switches or a wired push switch.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePart of the iKinetic RF433 wireless lighting control system: pair the receiver with iKinetic kinetic (battery-free) wall switches such as IK01 and place the switch anywhere - no new wiring needed. Encrypted RF transmission, memory for up to 10 switches per receiver, settings kept after a power cut.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eType\u003c/td\u003e\u003ctd\u003eTriac dimmer, trailing edge\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eChannels\u003c/td\u003e\u003ctd\u003e1\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eInput voltage\u003c/td\u003e\u003ctd\u003e100-240V AC, 50/60Hz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOutput voltage\u003c/td\u003e\u003ctd\u003e100-240V AC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOutput current\u003c/td\u003e\u003ctd\u003eMax. 1A\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLoad\u003c/td\u003e\u003ctd\u003eLED max. 200W @ 230V; resistive max. 300W (2A)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eRadio frequency\u003c/td\u003e\u003ctd\u003eRF433MHz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWall switch\u003c/td\u003e\u003ctd\u003ePush switch (S1 / Sx)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eTerminals\u003c/td\u003e\u003ctd\u003eScrew-free, 0.4-2.5mm²\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection\u003c/td\u003e\u003ctd\u003eIP20\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWorking temperature\u003c/td\u003e\u003ctd\u003eTa -20 ~ +40ºC (Tc 85ºC)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eDimensions\u003c/td\u003e\u003ctd\u003e44.3 x 49.9 x 20.6mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWarranty\u003c/td\u003e\u003ctd\u003e5 years\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003cp\u003eThis is the RF433-only version. Install at least 20 cm away from metal surfaces and strong electromagnetic sources; switch off the power before wiring. Switches are sold separately.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  78,
+                           "name":  "Home automation",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Home automation"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC100-240V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "LED max. 200W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1745,
+                         "name":  "Control modes",
+                         "value":  "RF433 + push switch",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +40ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "44.3 x 49.9 x 20.6mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "Triac trailing-edge dimmer - 1A - resistive max. 300W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "AR25",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000421,
+                         "model":  "AR25",
+                         "reference":  "AR25",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  4.43,
+                                               "width":  4.99,
+                                               "height":  2.06
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  {
+                   "id":  null,
+                   "main":  true,
+                   "url":  "img/900042_0.jpg",
+                   "sizes":  {
+                                 "1920":  "img/900042_0.jpg",
+                                 "1024":  "img/900042_0.jpg",
+                                 "512":  "img/900042_0.jpg",
+                                 "256":  "img/900042_0.jpg",
+                                 "128":  "img/900042_0.jpg"
+                             }
+               },
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:03:57",
+    "source_url":  null
+}

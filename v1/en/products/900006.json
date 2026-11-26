@@ -1,0 +1,141 @@
+{
+    "id":  900006,
+    "lang":  "en",
+    "name":  "Aluminium Profile P6114 - Plaster-in Trimless 61x14mm - 2m - Opal PC Diffuser + End Caps",
+    "reference":  "P6114",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003ePlaster-in (trimless) aluminium profile\u003c/strong\u003e for LED strips, 61 x 14 mm. The perforated wings are plastered over so only the light line stays visible in the ceiling or wall.\u003c/p\u003e\u003cp\u003eSet of \u003cstrong\u003e2 m aluminium + 2 m opal PC diffuser + 4 end caps\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eAluminium Profile P6114 - Plaster-in Trimless 61x14mm - 2m - Opal PC Diffuser + End Caps\u003c/h2\u003e\u003cp\u003eRecessed plaster-in profile with perforated wings for a seamless, frameless line of light in plasterboard ceilings and walls.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eMaterial\u003c/td\u003e\u003ctd\u003eAluminium + opal PC diffuser\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProfile size (W x H)\u003c/td\u003e\u003ctd\u003e61 x 14mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLength\u003c/td\u003e\u003ctd\u003e2m\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSet contents\u003c/td\u003e\u003ctd\u003e2m aluminium profile, 2m opal PC diffuser, 4 end caps\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eInstallation\u003c/td\u003e\u003ctd\u003ePlaster-in / trimless installation\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "path":  [
+                                        "Featured"
+                                    ],
+                           "name":  "Featured",
+                           "id":  3
+                       },
+                       {
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ],
+                           "name":  "LED Strips and Flexible Neon",
+                           "id":  31
+                       },
+                       {
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "Aluminum profiles LED"
+                                    ],
+                           "name":  "Aluminum profiles LED",
+                           "id":  36
+                       }
+                   ],
+    "features":  [
+                     {
+                         "icon":  null,
+                         "name":  "Construction Material",
+                         "id":  1642,
+                         "value":  "Aluminium + opal PC diffuser"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Dimensions (mm)",
+                         "id":  10710,
+                         "value":  "2000mm x 61 x 14mm"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Other Information",
+                         "id":  11689,
+                         "value":  "Plaster-in / trimless installation"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "REFERENCE",
+                         "id":  14352,
+                         "value":  "P6114"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "values":  [
+                                       {
+                                           "color":  null,
+                                           "name":  "Profile + PC diffuser, 2m",
+                                           "id":  null,
+                                           "icon":  null
+                                       }
+                                   ],
+                        "name":  "Version",
+                        "id":  3,
+                        "display_type":  "radio"
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000061,
+                         "model":  "P6114",
+                         "reference":  "P6114",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "width":  null,
+                                               "height":  null,
+                                               "length":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900006_1.jpg",
+                         "options":  [
+                                         {
+                                             "value":  "Profile + PC diffuser, 2m",
+                                             "value_id":  null,
+                                             "option":  "Version",
+                                             "option_id":  3
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900006_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900006_0.jpg",
+                                     "1024":  "img/900006_0.jpg",
+                                     "512":  "img/900006_0.jpg",
+                                     "256":  "img/900006_0.jpg",
+                                     "128":  "img/900006_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900006_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900006_1.jpg",
+                                     "1024":  "img/900006_1.jpg",
+                                     "512":  "img/900006_1.jpg",
+                                     "256":  "img/900006_1.jpg",
+                                     "128":  "img/900006_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:02",
+    "source_url":  null
+}

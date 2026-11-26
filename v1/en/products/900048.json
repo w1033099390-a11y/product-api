@@ -1,0 +1,238 @@
+{
+    "id":  900048,
+    "lang":  "en",
+    "name":  "iKinetic IK01 Kinetic Wireless Wall Switch RF433 - Battery-free - 1 / 2 / 3 Gang - Thin 86 Series - IP65 - Matt Grey",
+    "reference":  "IK01",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eSelf-powered wireless wall switch:\u003c/strong\u003e pressing the key generates the energy for the radio signal, so there is \u003cstrong\u003eno battery and no wiring\u003c/strong\u003e. Stick or screw it anywhere and pair it with iKinetic RF433 receivers (AR10, AR15, AR25, DD01, DD02, DD03).\u003c/p\u003e\u003cp\u003eThin 86-series design, IP65, matt grey, available with 1, 2 or 3 keys - each key works independently.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eiKinetic IK01 Kinetic Switch | RF433 | Battery-free\u003c/h2\u003e\u003cul\u003e\u003cli\u003eNo battery, no wiring: the key press powers the transmitter.\u003c/li\u003e\u003cli\u003eEach key works independently and can control its own receiver or channel.\u003c/li\u003e\u003cli\u003eOn/off: press once. Dimming (on AR25 / DD dimmers): press twice to start the dimming cycle, press again to set the brightness.\u003c/li\u003e\u003cli\u003eOne receiver stores up to 10 switches; one switch can control several receivers.\u003c/li\u003e\u003cli\u003eIP65 - suitable for bathrooms and humid rooms.\u003c/li\u003e\u003cli\u003ePairing: see the receiver user manual.\u003c/li\u003e\u003c/ul\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eModel\u003c/td\u003e\u003ctd\u003eIK01-1G-GY / IK01-2G-GY / IK01-3G-GY\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eType\u003c/td\u003e\u003ctd\u003eKinetic (self-powered) wireless switch\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eRadio frequency\u003c/td\u003e\u003ctd\u003eRF433MHz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePower supply\u003c/td\u003e\u003ctd\u003eNone - kinetic energy from the key press\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eKeys\u003c/td\u003e\u003ctd\u003e1 / 2 / 3\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSeries\u003c/td\u003e\u003ctd\u003eThin 86\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection\u003c/td\u003e\u003ctd\u003eIP65\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eColour\u003c/td\u003e\u003ctd\u003eMatt Grey\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCompatible receivers\u003c/td\u003e\u003ctd\u003eiKinetic AR10, AR15, AR25, DD01, DD02, DD03\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  78,
+                           "name":  "Home automation",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Home automation"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1745,
+                         "name":  "Control modes",
+                         "value":  "RF433 kinetic switch - battery-free",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1816,
+                         "name":  "Main colour",
+                         "value":  "Matt Grey",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "Thin 86 series - 1 / 2 / 3 keys - each key independent - pairs with iKinetic AR / DD receivers",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "IK01-1G-GY / IK01-2G-GY / IK01-3G-GY",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  3,
+                        "name":  "Version",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "1 gang",
+                                           "color":  null,
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  null,
+                                           "name":  "2 gang",
+                                           "color":  null,
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  null,
+                                           "name":  "3 gang",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    },
+                    {
+                        "id":  1,
+                        "name":  "Colour",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "Matt Grey",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000481,
+                         "model":  "IK01-1G-GY",
+                         "reference":  "IK01-1G-GY",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  null,
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Version",
+                                             "value_id":  null,
+                                             "value":  "1 gang"
+                                         },
+                                         {
+                                             "option_id":  1,
+                                             "option":  "Colour",
+                                             "value_id":  null,
+                                             "value":  "Matt Grey"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  9000482,
+                         "model":  "IK01-2G-GY",
+                         "reference":  "IK01-2G-GY",
+                         "barcode":  null,
+                         "is_default":  false,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  null,
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Version",
+                                             "value_id":  null,
+                                             "value":  "2 gang"
+                                         },
+                                         {
+                                             "option_id":  1,
+                                             "option":  "Colour",
+                                             "value_id":  null,
+                                             "value":  "Matt Grey"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  9000483,
+                         "model":  "IK01-3G-GY",
+                         "reference":  "IK01-3G-GY",
+                         "barcode":  null,
+                         "is_default":  false,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  null,
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Version",
+                                             "value_id":  null,
+                                             "value":  "3 gang"
+                                         },
+                                         {
+                                             "option_id":  1,
+                                             "option":  "Colour",
+                                             "value_id":  null,
+                                             "value":  "Matt Grey"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900048_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900048_0.jpg",
+                                     "1024":  "img/900048_0.jpg",
+                                     "512":  "img/900048_0.jpg",
+                                     "256":  "img/900048_0.jpg",
+                                     "128":  "img/900048_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900048_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900048_1.jpg",
+                                     "1024":  "img/900048_1.jpg",
+                                     "512":  "img/900048_1.jpg",
+                                     "256":  "img/900048_1.jpg",
+                                     "128":  "img/900048_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900048_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900048_2.jpg",
+                                     "1024":  "img/900048_2.jpg",
+                                     "512":  "img/900048_2.jpg",
+                                     "256":  "img/900048_2.jpg",
+                                     "128":  "img/900048_2.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  20,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:03:51",
+    "source_url":  null
+}

@@ -1,0 +1,331 @@
+{
+    "id":  3470,
+    "lang":  "el",
+    "name":  "Λάμπα LED 4W Filament κερί E14 C35",
+    "reference":  "C35FM4W-90915-27K-200",
+    "short_description":  "\u003cp\u003eΑυτή η λάμπα LED Filament 4W διαθέτει υψηλό δείκτη χρωματικής απόδοσης χωρίς να θυσιάζει την εξοικονόμηση ενέργειας 80%. Αποτελείται από διάφανο χρυσό γυαλί που της προσδίδει ζεστή απόχρωση φωτός και είναι σχεδιασμένη για εσωτερικό φωτισμό τόσο σε σπίτια όσο και σε επαγγελματικούς χώρους.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΛάμπα LED Filament κερί 4W E14 C35\u003c/h2\u003e\n\u003cp\u003eΗ λάμπα LED Filament μας διαθέτει ντουί E14 και ισχύ 4W, προσφέροντας θερμό φως, ενώ έχει και φωτεινή απόδοση 100lm/W.\u003c/p\u003e\n\u003cp\u003eΗ λάμπα αυτή έχει όμορφο επιμήκη σχεδιασμό σε σχήμα κεριού και χρυσό γυαλί, που προσφέρει ευχάριστη, ζεστή απόχρωση φωτός. Είναι σχεδιασμένη για εσωτερικό φωτισμό, τόσο σε σπίτια όσο και σε επαγγελματικούς χώρους, έχει μεγάλη διάρκεια ζωής και χάρη στην τεχνολογία LED μπορούμε να εξοικονομήσουμε έως και 80% στον λογαριασμό ρεύματος, καθώς και στο κόστος συντήρησης.\u003c/p\u003e\n\u003ch2\u003eΧρήσεις της λάμπας LED Filament κερί 4W E14 C35\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eΔιακοσμητικός φωτισμός\u003c/li\u003e\n\u003cli\u003eΕστιατόρια\u003c/li\u003e\n\u003cli\u003eΞενοδοχεία\u003c/li\u003e\n\u003cli\u003eΔωμάτια\u003c/li\u003e\n\u003cli\u003eΕπιτραπέζια φωτιστικά γραφείου ή κομοδίνου\u003c/li\u003e\n\u003cli\u003eΣαλόνια\u003c/li\u003e\n\u003cli\u003eChillout\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cbr /\u003eΣτη FactorLED δεσμευόμαστε να διασφαλίζουμε την ΠΟΙΟΤΗΤΑ των προϊόντων μας και προσφέρουμε τα απαραίτητα στοιχεία για ΔΙΑΝΟΜΗ, ΕΙΣΑΓΩΓΗ ή ΧΟΝΔΡΙΚΗ πώληση, συμπεριλαμβανομένου του τεχνικού φυλλαδίου κάθε προϊόντος LED.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "Λάμπες LED \u0026 Φωτιστικά",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "Λάμπες LED ανά τύπο βάσης",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά τύπο βάσης"
+                                    ]
+                       },
+                       {
+                           "id":  6,
+                           "name":  "Λάμπες LED E14",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά τύπο βάσης",
+                                        "Λάμπες LED E14"
+                                    ]
+                       },
+                       {
+                           "id":  120,
+                           "name":  "Filament",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Διακοσμητικές λάμπες LED",
+                                        "Filament"
+                                    ]
+                       },
+                       {
+                           "id":  188,
+                           "name":  "Λάμπες LED κεράκι C37",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά μέγεθος",
+                                        "Λάμπες LED κεράκι C37"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  728,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "4W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  849,
+                         "name":  "Χρώμα",
+                         "value":  "2700K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Δείκτης χρωματικής απόδοσης",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Ενεργειακή κλάση (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  952,
+                         "name":  "Φωτεινή ροή (Lm)",
+                         "value":  "480Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1048,
+                         "name":  "Γωνία δέσμης (º)",
+                         "value":  "360º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1080,
+                         "name":  "Φωτεινή απόδοση LED (Lm/W)",
+                         "value":  "100 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1121,
+                         "name":  "Φωτεινή απόδοση (Lm/W)",
+                         "value":  "100 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1153,
+                         "name":  "Βάση",
+                         "value":  "E14",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/14/icon"
+                     },
+                     {
+                         "id":  1168,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, RoHS, TÜV",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Συχνότητα (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Εύρος θερμοκρασίας (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "Κύκλοι ON/OFF",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Χρόνος εκκίνησης (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1651,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Γυαλί",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1810,
+                         "name":  "Ενεργειακή κλάση (2023 - UE-2019/2015)",
+                         "value":  "E",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  2652,
+                         "name":  "Κωδικός",
+                         "value":  "C35FM4W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  8761,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "Ø35x100 mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  16,
+                        "name":  "Αγοράστε περισσότερα και πληρώστε λιγότερο",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  208,
+                                           "name":  "Τεμάχια",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  6936,
+                         "model":  "909151",
+                         "reference":  "C35FM4W-90915-27K-UND",
+                         "barcode":  "8435612950924",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  6.5,
+                                               "width":  11,
+                                               "height":  6.5
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Αγοράστε περισσότερα και πληρώστε λιγότερο",
+                                             "value_id":  208,
+                                             "value":  "Τεμάχια"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/3470/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/3470/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/3470/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/3470/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/3470/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/3470/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42154,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42154/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42154/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42154/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42154/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42154/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42154/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42155,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42155/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42155/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42155/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42155/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42155/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42155/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42156,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42156/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42156/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42156/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42156/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42156/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42156/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42157,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42157/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42157/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42157/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42157/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42157/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42157/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42158,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42158/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42158/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42158/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42158/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42158/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42158/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42159,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42159/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42159/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42159/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42159/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42159/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42159/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-02-06T10:19:05.882788",
+    "source_url":  "https://www.factorled.com/en/3470-4w-led-bulb-candle-filament-e14-c35.html"
+}

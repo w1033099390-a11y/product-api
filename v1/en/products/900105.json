@@ -1,0 +1,140 @@
+{
+    "id":  900105,
+    "lang":  "en",
+    "name":  "LED Bulkhead 12W IP65 192x90mm 2700K/4000K",
+    "reference":  "912441",
+    "short_description":  "\u003cp\u003ePower 12W; Select 2700K/4000K; Lumen 1000Lm; Beam Angle 120°\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Bulkhead 12W IP65 192x90mm 2700K/4000K\u003c/h2\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e12W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSelect\u003c/td\u003e\u003ctd\u003e2700K/4000K\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLumen\u003c/td\u003e\u003ctd\u003e1000Lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam Angle\u003c/td\u003e\u003ctd\u003e120°\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e192*90*45MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003e80\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection rating\u003c/td\u003e\u003ctd\u003eIP65\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWarranty\u003c/td\u003e\u003ctd\u003e3 years\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Indoor Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  58,
+                           "name":  "LED Wall Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Wall Lamps"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  4217,
+                         "name":  "Rated Power",
+                         "value":  "12W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  15001,
+                         "name":  "Colour Temperature (K)",
+                         "value":  "2700K/4000K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1000Lm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120°",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "192*90*45MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "912441",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001051,
+                         "model":  "912441",
+                         "reference":  "912441",
+                         "barcode":  "8435612912441",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900105_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900105_0.jpg",
+                                     "1024":  "img/900105_0.jpg",
+                                     "512":  "img/900105_0.jpg",
+                                     "256":  "img/900105_0.jpg",
+                                     "128":  "img/900105_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-bulkhead-12w-ip65-192x90mm-2700k4000k"
+}

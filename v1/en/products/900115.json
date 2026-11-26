@@ -1,0 +1,132 @@
+{
+    "id":  900115,
+    "lang":  "en",
+    "name":  "Wardrobe LED Sensor Switch Kit 12V/24V Type A",
+    "reference":  "DB2M0A",
+    "short_description":  "\u003cp\u003ePower 12V/60W 24V/100W; Lumen 2400Lm; Color WHITE/BLACK; Cut 12.4MM\u003c/p\u003e",
+    "description":  "\u003ch2\u003eWardrobe LED Sensor Switch Kit 12V/24V Type A\u003c/h2\u003e\u003cp\u003eWardrobe LED Sensor Switch Kit 12V/24V Type A. WARDROBE LIGHT.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e12V/60W 24V/100W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLumen\u003c/td\u003e\u003ctd\u003e2400Lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eColor\u003c/td\u003e\u003ctd\u003eWHITE/BLACK\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCut\u003c/td\u003e\u003ctd\u003e12.4MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e∅15*18.7MM\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Indoor Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  35,
+                           "name":  "LED Strip Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip Accessories"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  4217,
+                         "name":  "Rated Power",
+                         "value":  "12V/60W 24V/100W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "2400Lm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1819,
+                         "name":  "Main colour",
+                         "value":  "WHITE/BLACK",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "∅15*18.7MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "Cut: 12.4MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "DB2M0A",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001151,
+                         "model":  "DB2M0A",
+                         "reference":  "DB2M0A",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900115_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900115_0.jpg",
+                                     "1024":  "img/900115_0.jpg",
+                                     "512":  "img/900115_0.jpg",
+                                     "256":  "img/900115_0.jpg",
+                                     "128":  "img/900115_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/wardrobe-led-sensor-switch-kit-12v24v-type-a"
+}

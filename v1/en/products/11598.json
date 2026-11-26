@@ -1,0 +1,572 @@
+{
+    "id":  11598,
+    "lang":  "en",
+    "name":  "Circular LED Downlight 40W - Dimmable Lifud Driver - IP54 - CRI +90 UGR17",
+    "reference":  "LF-90644-0-10V",
+    "short_description":  "\u003cp style=\"text-align:left;\"\u003e\u003cstrong\u003e40W LED Downlight with LIFUD dimmable driver (TRIAC, 0-10V or DALI/PUSH)\u003c/strong\u003e, ideal for professional lighting. Offers high-quality light (CRI\u0026gt;90, UGR17) without glare, \u003cstrong\u003eIP54\u003c/strong\u003e protection, and 120º beam angle for uniform coverage.\u003c/p\u003e\n\u003cp style=\"text-align:left;\"\u003eThanks to its dimming capability, you can easily adjust light intensity according to the environment or need of the moment.\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003eCircular LED Downlight 40W - Dimmable Lifud Driver - IP54 - CRI +90 UGR17\u003c/h2\u003e\n\u003cp\u003eThe \u003cstrong\u003e40W LED Downlight\u003c/strong\u003e, fitted with a \u003cstrong\u003edimmable LIFUD driver\u003c/strong\u003e, is designed to meet the demands of professional projects requiring efficiency, versatility and high visual comfort. It is supplied \u003cstrong\u003eas standard with a Philips Certa driver\u003c/strong\u003e, which incorporates a \u003cstrong\u003ecolour temperature (CCT) selector\u003c/strong\u003e, allowing the user to choose between different light tones (warm, neutral or cool) and adapt the lighting to each space and time of day.\u003c/p\u003e\n\u003ch3\u003e\u003cstrong\u003eMain Features\u003c/strong\u003e\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eDimmable LIFUD Driver\u003c/strong\u003e: Available in three versions (TRIAC, 0–10V and DALI/PUSH), this driver allows the \u003cstrong\u003elight intensity\u003c/strong\u003e to be adjusted precisely and according to the specific needs of the environment.\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eCRI \u0026gt;90 and UGR\u0026lt;17\u003c/strong\u003e: Guarantees \u003cstrong\u003eexcellent colour rendering\u003c/strong\u003e, ideal for spaces where colour fidelity is essential (such as shops, offices, exhibition rooms or homes). In addition, its low glare index improves visual comfort even during prolonged use.\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e120º beam angle\u003c/strong\u003e: Provides uniform, effective lighting, \u003cstrong\u003eavoiding dark areas and unwanted shadows\u003c/strong\u003e, which contributes to a more pleasant visual experience.\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eIP54 protection\u003c/strong\u003e: Ensures resistance to dust and water splashes, extending its installation possibilities to more demanding environments such as kitchens, bathrooms or semi-outdoor areas.\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003e\u003cstrong\u003eDimming Options\u003c/strong\u003e\u003c/h3\u003e\n\u003cp\u003eFor projects where control of light intensity is required, the downlight can be supplied with a \u003cstrong\u003edimmable LIFUD driver\u003c/strong\u003e of your choice:\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eTRIAC Dimmable\u003c/strong\u003e: Model \u003cstrong\u003eLF40WTRIAC / LF-ABT040\u003c/strong\u003e\u003cbr\u003e Compatible with most phase-cut dimmers, ideal for domestic or basic commercial applications.\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e0–10V Dimmable\u003c/strong\u003e: Model \u003cstrong\u003eLF40W0-10V / LF-ABA040\u003c/strong\u003e\u003cbr\u003e Recommended for installations with analogue voltage controllers, widely used in offices and retail premises.\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eDALI/PUSH Dimmable\u003c/strong\u003e: Model \u003cstrong\u003eLF40WDALI / LF-ADD040\u003c/strong\u003e\u003cbr\u003e Perfect for home automation systems or professional installations requiring \u003cstrong\u003ecentralised lighting management\u003c/strong\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cblockquote\u003e\n\u003ch3\u003e\u003cstrong\u003eHow it is connected\u003c/strong\u003e\u003c/h3\u003e\n\u003cp\u003eThis\u0026nbsp;downlight is supplied with a \u003cstrong\u003eGXtronic driver with CCT selector\u003c/strong\u003e, allowing you to choose between 3000K, 4000K and 6000K from the initial connection. If the project requires dimming, the chosen LIFUD driver will be sent \u003cstrong\u003eseparately\u003c/strong\u003e. For correct installation:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eRed\u003c/strong\u003e: always positive (+)\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eWhite\u003c/strong\u003e: negative for 3000K\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eBlack\u003c/strong\u003e: negative for 6000K\n\u003c/li\u003e\n\u003cli\u003e\nFor \u003cstrong\u003e4000K\u003c/strong\u003e, both negatives must be joined together (white + black).\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e⚠️ \u003cstrong\u003eImportant\u003c/strong\u003e: LIFUD drivers do not include a CCT selector, but they do integrate \u003cstrong\u003eoutput Dip Switches\u003c/strong\u003e that allow the current — and therefore the \u003cstrong\u003efinal power of the downlight\u003c/strong\u003e — to be adjusted to the needs of the project.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch3\u003e\u003cstrong\u003eRecommended Applications\u003c/strong\u003e\u003c/h3\u003e\n\u003cp\u003e\u003cspan\u003eThis downlight is ideal for:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eShops and Retail\u003c/strong\u003e: \u003cspan\u003eEnhances products and spaces with high-quality lighting.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eExhibition Rooms and Showrooms\u003c/strong\u003e: \u003cspan\u003eProvides uniform lighting that brings out details and colours.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eReception Areas and Offices\u003c/strong\u003e: \u003cspan\u003eImproves visual comfort and productivity in working environments.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eKitchens, Dining Rooms and Living Rooms\u003c/strong\u003e: \u003cspan\u003eProvides adaptable, efficient lighting for the home.\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003e\u003cstrong\u003eAdditional Benefits\u003c/strong\u003e\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eEnergy Efficiency\u003c/strong\u003e: \u003cspan\u003eReduces energy consumption from first use thanks to high-performance LED technology.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eLong Service Life\u003c/strong\u003e: \u003cspan\u003eDesigned to offer an extended service life, minimising maintenance costs.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eCompatibility\u003c/strong\u003e: \u003cspan\u003eIntegrates easily into a wide range of electrical installations and lighting control systems.\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eAt FactorLED we guarantee that our products carry a QUALITY warranty and provide every element required for DISTRIBUTION, IMPORT or WHOLESALE, including the technical datasheet for each LED product.\u003c/p\u003e",
+    "brand":  {
+                  "id":  7,
+                  "name":  "LIFUD",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/7/logo?unique=1793097137"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  19,
+                           "name":  "Downlight and Ceiling Lights LED",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Downlight and Ceiling Lights LED"
+                                    ]
+                       },
+                       {
+                           "id":  20,
+                           "name":  "LED Downlight Spotlights",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Downlight and Ceiling Lights LED",
+                                        "LED Downlight Spotlights"
+                                    ]
+                       },
+                       {
+                           "id":  129,
+                           "name":  "Circular Recessed Downlight",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Downlight and Ceiling Lights LED",
+                                        "LED Downlight Spotlights",
+                                        "Circular Recessed Downlight"
+                                    ]
+                       },
+                       {
+                           "id":  293,
+                           "name":  "Office Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  295,
+                           "name":  "Office Ceiling Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting",
+                                        "Office Ceiling Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  328,
+                           "name":  "Brands",
+                           "path":  [
+                                        "Featured",
+                                        "Brands"
+                                    ]
+                       },
+                       {
+                           "id":  333,
+                           "name":  "Lifud",
+                           "path":  [
+                                        "Featured",
+                                        "Brands",
+                                        "Lifud"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  746,
+                         "name":  "Rated Power",
+                         "value":  "40W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  854,
+                         "name":  "Colour",
+                         "value":  "3000K-4000K-5700K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  865,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "85",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1009,
+                         "name":  "Luminosity-Lm",
+                         "value":  "4400Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1013,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "SMD 2835",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1076,
+                         "name":  "Dimmable",
+                         "value":  "YES",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/11/icon"
+                     },
+                     {
+                         "id":  1101,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "140 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1147,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "125 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1170,
+                         "name":  "Certifications",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1178,
+                         "name":  "IP",
+                         "value":  "IP54",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1183,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "40000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1626,
+                         "name":  "Construction Material",
+                         "value":  "Aluminiun+PC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1756,
+                         "name":  "Glare Rating (UGR)",
+                         "value":  "17",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/37/icon"
+                     },
+                     {
+                         "id":  1764,
+                         "name":  "Driver included",
+                         "value":  "YES",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/39/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1810,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "E",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  3835,
+                         "name":  "REFERENCE",
+                         "value":  "LF-90644",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  10553,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø225mm * H20mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  12512,
+                         "name":  "Cut-out Size (mm)",
+                         "value":  "Ø 200mm * H40mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/26/icon"
+                     },
+                     {
+                         "id":  12910,
+                         "name":  "Driver included",
+                         "value":  "Lifud Driver",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/39/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  45,
+                        "name":  "Driver",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  747,
+                                           "name":  "Dimmable 0–10V",
+                                           "color":  null,
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  745,
+                                           "name":  "DIMMABLE TRIAC",
+                                           "color":  null,
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  746,
+                                           "name":  "Dimmable DALI/PUSH",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  21080,
+                         "model":  "906440",
+                         "reference":  "LF-90644-0-10V",
+                         "barcode":  "8435770891497",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  25,
+                                               "width":  25,
+                                               "height":  10
+                                           },
+                         "weight_kg":  0.6,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  45,
+                                             "option":  "Driver",
+                                             "value_id":  747,
+                                             "value":  "Dimmable 0–10V"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  21079,
+                         "model":  null,
+                         "reference":  "LF-90644-DALI",
+                         "barcode":  "8435770891503",
+                         "is_default":  false,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  25,
+                                               "width":  25,
+                                               "height":  10
+                                           },
+                         "weight_kg":  0.6,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  45,
+                                             "option":  "Driver",
+                                             "value_id":  746,
+                                             "value":  "Dimmable DALI/PUSH"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  21081,
+                         "model":  null,
+                         "reference":  "LF-90644-TRIAC",
+                         "barcode":  "8435770891510",
+                         "is_default":  false,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  25,
+                                               "width":  25,
+                                               "height":  10
+                                           },
+                         "weight_kg":  0.6,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  45,
+                                             "option":  "Driver",
+                                             "value_id":  745,
+                                             "value":  "DIMMABLE TRIAC"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11598/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11598/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11598/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11598/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11598/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11598/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55878,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55878/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55878/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55878/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55878/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55878/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55878/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55879,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55879/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55879/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55879/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55879/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55879/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55879/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55880,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55880/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55880/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55880/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55880/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55880/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55880/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55881,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55881/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55881/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55881/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55881/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55881/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55881/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55882,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55882/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55882/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55882/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55882/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55882/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55882/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55883,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55883/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55883/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55883/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55883/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55883/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55883/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55884,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55884/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55884/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55884/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55884/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55884/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55884/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55885,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55885/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55885/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55885/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55885/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55885/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55885/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55886,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55886/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55886/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55886/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55886/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55886/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55886/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55887,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55887/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55887/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55887/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55887/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55887/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55887/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55888,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55888/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55888/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55888/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55888/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55888/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55888/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55889,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55889/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55889/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55889/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55889/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55889/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55889/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55890,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55890/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55890/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55890/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55890/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55890/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55890/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55891,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55891/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55891/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55891/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55891/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55891/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55891/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55892,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55892/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55892/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55892/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55892/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55892/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55892/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55893,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55893/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55893/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55893/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55893/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55893/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55893/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  20,
+    "is_new":  false,
+    "published_at":  "2025-05-30T09:36:30.054310",
+    "source_url":  "https://www.factorled.com/en/11598-circular-led-downlight-40w-dimmable-lifud-driver-ip54-cri-90-ugr17.html"
+}

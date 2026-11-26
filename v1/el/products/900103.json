@@ -1,0 +1,198 @@
+{
+    "id":  900103,
+    "lang":  "el",
+    "name":  "Ταινία LED COB 24V 512 LED/m 15W/m CRI90 5m IP20",
+    "reference":  "906822",
+    "short_description":  "\u003cp\u003eΙσχύς 15W/M; Επιλογή θερμοκρασίας χρώματος 2700K/3000K/4000K/6500K; Διαστάσεις 5M*8MM; Φωτεινή ροή 1250LM/W\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΤαινία LED COB 24V 512 LED/m 15W/m CRI90 5m IP20\u003c/h2\u003e\u003cp\u003eΤαινία LED COB 24V 512 LED/m 15W/m CRI90 5m IP20. COB 512 LED/M.\u003c/p\u003e\u003ch3\u003eΤεχνικά χαρακτηριστικά\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eΙσχύς\u003c/td\u003e\u003ctd\u003e15W/M\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΕπιλογή θερμοκρασίας χρώματος\u003c/td\u003e\u003ctd\u003e2700K/3000K/4000K/6500K\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΔιαστάσεις\u003c/td\u003e\u003ctd\u003e5M*8MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΦωτεινή ροή\u003c/td\u003e\u003ctd\u003e1250LM/W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΓωνία δέσμης\u003c/td\u003e\u003ctd\u003e180°\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003e90\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΒαθμός προστασίας\u003c/td\u003e\u003ctd\u003eIP20\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΕγγύηση\u003c/td\u003e\u003ctd\u003e3 έτη\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Φωτισμός εσωτερικού χώρου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "Ταινίες LED και εύκαμπτο Neon",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon"
+                                    ]
+                       },
+                       {
+                           "id":  87,
+                           "name":  "Ταινία LED 24V DC",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon",
+                                        "Ταινία LED 24V DC"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  4217,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "15W/M",
+                         "icon":  null
+                     },
+                     {
+                         "id":  15001,
+                         "name":  "Θερμοκρασία χρώματος (K)",
+                         "value":  "2700K/3000K/4000K/6500K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "5M*8MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Φωτεινή ροή (Lm)",
+                         "value":  "1250LM/W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Γωνία δέσμης (º)",
+                         "value":  "180°",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Δείκτης χρωματικής απόδοσης",
+                         "value":  "90",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "3",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "Κωδικός",
+                         "value":  "906822",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001031,
+                         "model":  "906822",
+                         "reference":  "906822",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900103_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900103_0.jpg",
+                                     "1024":  "img/900103_0.jpg",
+                                     "512":  "img/900103_0.jpg",
+                                     "256":  "img/900103_0.jpg",
+                                     "128":  "img/900103_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900103_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900103_1.jpg",
+                                     "1024":  "img/900103_1.jpg",
+                                     "512":  "img/900103_1.jpg",
+                                     "256":  "img/900103_1.jpg",
+                                     "128":  "img/900103_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900103_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900103_2.jpg",
+                                     "1024":  "img/900103_2.jpg",
+                                     "512":  "img/900103_2.jpg",
+                                     "256":  "img/900103_2.jpg",
+                                     "128":  "img/900103_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900103_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900103_3.jpg",
+                                     "1024":  "img/900103_3.jpg",
+                                     "512":  "img/900103_3.jpg",
+                                     "256":  "img/900103_3.jpg",
+                                     "128":  "img/900103_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900103_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900103_4.jpg",
+                                     "1024":  "img/900103_4.jpg",
+                                     "512":  "img/900103_4.jpg",
+                                     "256":  "img/900103_4.jpg",
+                                     "128":  "img/900103_4.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/el/catalog/led-strip-cob-24v-512-ledm-15wm-cri90-5m-ip20"
+}

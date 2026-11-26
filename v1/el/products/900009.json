@@ -1,0 +1,123 @@
+{
+    "id":  900009,
+    "lang":  "el",
+    "name":  "Προφίλ αλουμινίου ψύκτρα με πτερύγια - Ακατέργαστο (χωρίς ανοδίωση) - 2m",
+    "reference":  "92415",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eΠροφίλ αλουμινίου ψύκτρα με πτερύγια\u003c/strong\u003e, 2 m, παραδίδεται \u003cstrong\u003eακατέργαστο (χωρίς ανοδίωση)\u003c/strong\u003e. Τοποθετήστε ταινίες ή modules LED στην επίπεδη πλευρά και τα πτερύγια απάγουν τη θερμότητα.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΠροφίλ αλουμινίου ψύκτρα με πτερύγια - Ακατέργαστο (χωρίς ανοδίωση) - 2m\u003c/h2\u003e\u003cp\u003eΑκατέργαστη ράβδος αλουμινίου εξέλασης με πτερύγια ψύξης, για ταινίες και modules LED υψηλής ισχύος που χρειάζονται επιπλέον απαγωγή θερμότητας.\u003c/p\u003e\u003ch3\u003eΤεχνικά στοιχεία\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eΥλικό\u003c/td\u003e\u003ctd\u003eΑλουμίνιο, ακατέργαστο (χωρίς ανοδίωση)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΜήκος\u003c/td\u003e\u003ctd\u003e2m\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΠεριεχόμενο σετ\u003c/td\u003e\u003ctd\u003eΠροφίλ αλουμινίου 2m (χωρίς διαχύτη και τάπες)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΤοποθέτηση\u003c/td\u003e\u003ctd\u003eΑκατέργαστο φινίρισμα, τυπική συσκευασία\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ],
+                           "name":  "Προτεινόμενα",
+                           "id":  3
+                       },
+                       {
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon"
+                                    ],
+                           "name":  "Ταινίες LED και εύκαμπτο Neon",
+                           "id":  31
+                       },
+                       {
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon",
+                                        "Προφίλ αλουμινίου LED"
+                                    ],
+                           "name":  "Προφίλ αλουμινίου LED",
+                           "id":  36
+                       }
+                   ],
+    "features":  [
+                     {
+                         "icon":  null,
+                         "name":  "Υλικό κατασκευής",
+                         "id":  1642,
+                         "value":  "Αλουμίνιο, ακατέργαστο (χωρίς ανοδίωση)"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Άλλες πληροφορίες",
+                         "id":  11689,
+                         "value":  "Ακατέργαστο φινίρισμα, τυπική συσκευασία"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Κωδικός",
+                         "id":  14352,
+                         "value":  "92415"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "values":  [
+                                       {
+                                           "color":  null,
+                                           "name":  "Ακατέργαστο αλουμίνιο, 2m",
+                                           "id":  null,
+                                           "icon":  null
+                                       }
+                                   ],
+                        "name":  "Έκδοση",
+                        "id":  3,
+                        "display_type":  "radio"
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000091,
+                         "model":  "92415",
+                         "reference":  "92415",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "width":  null,
+                                               "height":  null,
+                                               "length":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "value":  "Ακατέργαστο αλουμίνιο, 2m",
+                                             "value_id":  null,
+                                             "option":  "Έκδοση",
+                                             "option_id":  3
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900009_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900009_0.jpg",
+                                     "1024":  "img/900009_0.jpg",
+                                     "512":  "img/900009_0.jpg",
+                                     "256":  "img/900009_0.jpg",
+                                     "128":  "img/900009_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:02",
+    "source_url":  null
+}

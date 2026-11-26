@@ -1,0 +1,120 @@
+{
+    "id":  900087,
+    "lang":  "en",
+    "name":  "Power Supply 24V 300W Aluminium IP20",
+    "reference":  "918887",
+    "short_description":  "\u003cp\u003eSize 181*48*27MM; Power 300W\u003c/p\u003e",
+    "description":  "\u003ch2\u003ePower Supply 24V 300W Aluminium IP20\u003c/h2\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e181*48*27MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e300W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection rating\u003c/td\u003e\u003ctd\u003eIP20\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  51,
+                           "name":  "Power Supplies and Drivers",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Power Supplies and Drivers"
+                                    ]
+                       },
+                       {
+                           "id":  55,
+                           "name":  "24V Power",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Power Supplies and Drivers",
+                                        "24V Power"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "181*48*27MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  4217,
+                         "name":  "Rated Power",
+                         "value":  "300W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "918887",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000871,
+                         "model":  "918887",
+                         "reference":  "918887",
+                         "barcode":  "8435612918887",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900087_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900087_0.jpg",
+                                     "1024":  "img/900087_0.jpg",
+                                     "512":  "img/900087_0.jpg",
+                                     "256":  "img/900087_0.jpg",
+                                     "128":  "img/900087_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/power-supply-24v-300w-aluminium-ip20"
+}

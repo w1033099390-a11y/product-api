@@ -1,0 +1,214 @@
+{
+    "id":  900004,
+    "lang":  "en",
+    "name":  "RGBW COB LED Strip 24V 15W/m IP20 - 560 LED/m - 5 Wires - White 4000K CRI90 - 12mm - 5m Roll",
+    "reference":  "SP560D15W",
+    "short_description":  "\u003cp\u003eFlexible \u003cstrong\u003e24V RGBW COB LED strip\u003c/strong\u003e with \u003cstrong\u003e560 chips per metre\u003c/strong\u003e: full colour from red, green and blue plus a separate \u003cstrong\u003e4000K white\u003c/strong\u003e channel with \u003cstrong\u003eCRI 90\u003c/strong\u003e. The COB design gives a continuous, dot-free line of light.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e5-wire\u003c/strong\u003e (+24V, R, G, B, W) for RGBW controllers. 12 mm wide, cut every 5 cm. Sold as a \u003cstrong\u003e5 m roll\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eRGBW COB LED Strip 24V 15W/m | 5 Wires | CRI90\u003c/h2\u003e\u003ch3\u003eFeatures\u003c/h3\u003e\u003cul\u003e\u003cli\u003eFlip-chip COB design: better resistance to current surges and lower thermal resistance, so heat leaves the chips quickly for longer life.\u003c/li\u003e\u003cli\u003e560 chips per metre give a continuous, even line of light with no visible dots.\u003c/li\u003e\u003cli\u003eConstant-voltage supply: each unit can be cut freely to suit different uses.\u003c/li\u003e\u003cli\u003eWide 180º beam for softer light.\u003c/li\u003e\u003cli\u003eSafety extra-low voltage (SELV) supply, safe to touch.\u003c/li\u003e\u003cli\u003eHidden current-limiting resistors for better protection during installation and use.\u003c/li\u003e\u003cli\u003e3-step MacAdam colour consistency on the white channel, well suited to project lighting.\u003c/li\u003e\u003c/ul\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eRated voltage\u003c/td\u003e\u003ctd\u003eDC24V\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eRated power\u003c/td\u003e\u003ctd\u003e15W/m (R 3W + G 3W + B 3W + W 6W)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLEDs\u003c/td\u003e\u003ctd\u003e560 chips/m - COB\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eChannels\u003c/td\u003e\u003ctd\u003eRGB + white 4000K, 5 wires (+24V, R, G, B, W)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLuminous flux\u003c/td\u003e\u003ctd\u003e480 lm/m\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI (white)\u003c/td\u003e\u003ctd\u003e\u0026gt;90\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWidth\u003c/td\u003e\u003ctd\u003e12mm (height 1.8mm)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCutting unit\u003c/td\u003e\u003ctd\u003e50mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCopper thickness\u003c/td\u003e\u003ctd\u003e2oz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam angle\u003c/td\u003e\u003ctd\u003e180º\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection\u003c/td\u003e\u003ctd\u003eIP20 (indoor, no coating)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWorking temperature\u003c/td\u003e\u003ctd\u003e-40 ~ +50ºC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eStorage temperature\u003c/td\u003e\u003ctd\u003e-40 ~ +80ºC\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003ch3\u003eColour channels\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003cth\u003eChannel\u003c/th\u003e\u003cth\u003eWavelength\u003c/th\u003e\u003cth\u003eLumen per metre\u003c/th\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eRed\u003c/td\u003e\u003ctd\u003e620nm\u003c/td\u003e\u003ctd\u003e69 lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eGreen\u003c/td\u003e\u003ctd\u003e520nm\u003c/td\u003e\u003ctd\u003e249 lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBlue\u003c/td\u003e\u003ctd\u003e452nm\u003c/td\u003e\u003ctd\u003e39 lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWhite 4000K\u003c/td\u003e\u003ctd\u003e-\u003c/td\u003e\u003ctd\u003e480 lm\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003ch3\u003eInstallation note\u003c/h3\u003e\u003cp\u003eFor even brightness, do not connect more than 5 m in series. Measured voltage along a 5 m run: 24V at 1 m, 23.2V at 2 m, 22.6V at 3 m, 22.2V at 4 m, 22.1V at 5 m.\u003c/p\u003e\u003ch3\u003eReliability tests\u003c/h3\u003e\u003cul\u003e\u003cli\u003eTemperature cycle: -40ºC / 100ºC, 15 min each, 200 cycles - no damage or failure.\u003c/li\u003e\u003cli\u003eHigh-temperature life test: Ta 55ºC, 168 h - luminous flux maintenance above 96%.\u003c/li\u003e\u003cli\u003eHigh-temperature, high-humidity life test: Ta 85ºC, 85% RH, 168 h - luminous flux maintenance above 96%.\u003c/li\u003e\u003cli\u003eLongitudinal torsion: 720º, 200 cycles - no damage or failure.\u003c/li\u003e\u003c/ul\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  87,
+                           "name":  "LED Strip 24V DC",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip 24V DC"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "15W/m",
+                         "icon":  null
+                     },
+                     {
+                         "id":  816,
+                         "name":  "Nominal Voltage",
+                         "value":  "DC24V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "\u003e90 (white)",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "180º",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-40ºC ~ +50ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Construction Material",
+                         "value":  "PCB (2oz copper)",
+                         "icon":  null
+                     },
+                     {
+                         "id":  5296,
+                         "name":  "Colour",
+                         "value":  "RGB + 4000K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "480 lm/m",
+                         "icon":  null
+                     },
+                     {
+                         "id":  7583,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "560 LEDs/M - COB RGBW",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "5m x 12mm x 1.8mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "Cut: 5cm - 5 wires (+24V, R, G, B, W) - max. 5m in series - RGBW controller needed",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "SP560D15W-RGBW-92366",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  3,
+                        "name":  "Measurement",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "5m roll",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    },
+                    {
+                        "id":  2,
+                        "name":  "Color temperature",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "RGB + Natural White 4000K",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000041,
+                         "model":  "SP560D15W-RGBW-92366",
+                         "reference":  "SP560D15W-RGBW-92366",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900004_1.jpg",
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Measurement",
+                                             "value_id":  null,
+                                             "value":  "5m roll"
+                                         },
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  null,
+                                             "value":  "RGB + Natural White 4000K"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900004_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900004_0.jpg",
+                                     "1024":  "img/900004_0.jpg",
+                                     "512":  "img/900004_0.jpg",
+                                     "256":  "img/900004_0.jpg",
+                                     "128":  "img/900004_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900004_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900004_1.jpg",
+                                     "1024":  "img/900004_1.jpg",
+                                     "512":  "img/900004_1.jpg",
+                                     "256":  "img/900004_1.jpg",
+                                     "128":  "img/900004_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:00",
+    "source_url":  null
+}

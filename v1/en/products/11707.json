@@ -1,0 +1,235 @@
+{
+    "id":  11707,
+    "lang":  "en",
+    "name":  "Hippo Connector with Cable for LED Strips 24V RGB+CCT SMD | IP20 | 6 Pins | 10mm",
+    "reference":  "SPRGBCCT-10MM",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eHippo quick connector with 6-pin cable\u003c/strong\u003e for joining 10mm SMD RGB+CCT LED strips to the controller. IP20 design, practical and safe: just press and connect. Includes cable. Compatible with REF: SP216D-RGBCCT-91353.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eHippo Connector with Cable for 24V RGB+CCT LED Strips | IP20 | 6 Pins | 10mm\u003c/h2\u003e\n\u003cp\u003eOptimize your LED lighting installations with this practical Hippo connector with 16 cm cable, specially designed for 10mm wide SMD RGB+CCT LED strips.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSolderless installation:\u003c/strong\u003e Forget about soldering and specialized tools. With its click system, you’ll have a secure and fast connection in seconds.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTransparent design:\u003c/strong\u003e Allows easy verification of proper cable placement and ensures stable, efficient current transmission.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eEasy to use:\u003c/strong\u003e Open the connector, insert the LED strip into the slot and press the clips to secure it. Done, no hassle!\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eGuaranteed compatibility:\u003c/strong\u003e Ideal for 24V RGB+CCT LED strips with 10mm PCB. Compatible with our model REF: SP216D-RGBCCT-91353.\u003c/p\u003e\n\u003cp\u003eWith this Hippo connector, you’ll get a clean, fast and secure installation, optimizing your lighting in seconds.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eApplications:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eLED lighting installations in homes, offices, shops and decorative projects.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eDIY lighting projects without soldering knowledge.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eQuick replacement of connections in existing LED lighting systems.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  35,
+                           "name":  "LED Strip Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  64,
+                           "name":  "Electronic Components",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Electronic Components"
+                                    ]
+                       },
+                       {
+                           "id":  69,
+                           "name":  "Complementary Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Electronic Components",
+                                        "Complementary Accessories"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1170,
+                         "name":  "Certifications",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1208,
+                         "name":  "Dimensions (mm)",
+                         "value":  "10mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  1668,
+                         "name":  "Construction Material",
+                         "value":  "PC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  11830,
+                         "name":  "Other Information",
+                         "value":  "",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/25/icon"
+                     },
+                     {
+                         "id":  13605,
+                         "name":  "Units per masterbox",
+                         "value":  "100",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/88/icon"
+                     },
+                     {
+                         "id":  14369,
+                         "name":  "REFERENCE",
+                         "value":  "SPRGBCCT-10MM",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  22280,
+                         "model":  null,
+                         "reference":  "SPRGBCCT-10MM",
+                         "barcode":  "8435612976221",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  15,
+                                               "height":  5
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11707/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11707/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11707/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11707/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11707/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11707/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107621,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107621/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107621/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107621/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107621/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107621/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107621/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107622,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107622/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107622/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107622/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107622/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107622/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107622/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107623,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107623/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107623/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107623/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107623/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107623/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107623/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107624,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107624/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107624/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107624/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107624/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107624/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107624/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107625,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107625/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107625/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107625/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107625/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107625/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107625/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107626,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107626/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107626/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107626/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107626/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107626/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107626/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2025-09-16T11:55:18.549722",
+    "source_url":  "https://www.factorled.com/en/11707-hippo-connector-with-cable-for-led-strips-24v-rgb-cct-smd-ip20-6-pins-10mm.html"
+}

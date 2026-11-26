@@ -1,0 +1,345 @@
+{
+    "id":  3471,
+    "lang":  "en",
+    "name":  "8W LED Bulbs Filament  E27 A60",
+    "reference":  "A60FM8W-90916-27K-100",
+    "short_description":  "\u003cp\u003eThis A60 Filament bulb has a power of 8W and an E27 socket. You can easily replace your conventional, incandescent and carbon bulbs, and thanks to its LED technology reduce your electricity consumption while maintaining a classic design.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Filament Bulb 8W E27 A60\u003c/h2\u003e\n\u003cp\u003e\u003cbr /\u003eThis LED Filament bulb has an E27 socket and has 8W of power. It provides warm atmospheres\u003c/p\u003e\n\u003cp\u003eIt allows you to save on your energy consumption thanks to its LED technology, as well as maintenance and replacement costs. You will respect the environment without giving up the classic design of conventional bulbs. It also has a light output of 100lm/W.\u003c/p\u003e\n\u003cp\u003eIt is a multipurpose bulb as you can use it both in your home and in your workplace, creating original atmospheres with a retro touch without forgetting our 2-year guarantee.\u003c/p\u003e\n\u003ch2\u003eUses of the 8W E27 A60 LED Filament Bulb\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eDecorative lighting\u003c/li\u003e\n\u003cli\u003eRestaurants\u003c/li\u003e\n\u003cli\u003eHotels\u003c/li\u003e\n\u003cli\u003eRooms\u003c/li\u003e\n\u003cli\u003eDesk or bedside lamps\u003c/li\u003e\n\u003cli\u003eLiving rooms\u003c/li\u003e\n\u003cli\u003eChillout\u003c/li\u003e\n\u003c/ul\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "LED Bulbs by Base Type",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type"
+                                    ]
+                       },
+                       {
+                           "id":  5,
+                           "name":  "E27 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "E27 LED Bulbs"
+                                    ]
+                       },
+                       {
+                           "id":  120,
+                           "name":  "Filament",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "Decorative LED Bulbs",
+                                        "Filament"
+                                    ]
+                       },
+                       {
+                           "id":  178,
+                           "name":  "LED Bulbs by Size",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Size"
+                                    ]
+                       },
+                       {
+                           "id":  179,
+                           "name":  "A60 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Size",
+                                        "A60 LED Bulbs"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  779,
+                         "name":  "Rated Power",
+                         "value":  "8W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  860,
+                         "name":  "Colour",
+                         "value":  "2700K-4000K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1040,
+                         "name":  "Beam Angle (º)",
+                         "value":  "180º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1084,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "125 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1145,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "120 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1154,
+                         "name":  "Base",
+                         "value":  "E27",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/14/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1651,
+                         "name":  "Construction Material",
+                         "value":  "Glass",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1810,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "E",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  3814,
+                         "name":  "REFERENCE",
+                         "value":  "A60FM8W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  6766,
+                         "name":  "Luminosity-Lm",
+                         "value":  "950Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  9541,
+                         "name":  "Dimensions (mm)",
+                         "value":  "ø60x106mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  2,
+                        "name":  "Color temperature",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  4,
+                                           "name":  "Natural White - 4000K",
+                                           "color":  "#FFE9C4",
+                                           "icon":  null
+                                       }
+                                   ]
+                    },
+                    {
+                        "id":  16,
+                        "name":  "Purchase more and pay less",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  208,
+                                           "name":  "UNITS",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  6938,
+                         "model":  "909175",
+                         "reference":  "A60FM8W-90917-4K-UND",
+                         "barcode":  "8435612950955",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  6.5,
+                                               "width":  11,
+                                               "height":  6.5
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  4,
+                                             "value":  "Natural White - 4000K"
+                                         },
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Purchase more and pay less",
+                                             "value_id":  208,
+                                             "value":  "UNITS"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/3471/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/3471/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/3471/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/3471/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/3471/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/3471/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72633,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72633/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72633/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72633/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72633/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72633/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72633/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72634,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72634/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72634/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72634/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72634/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72634/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72634/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72635,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72635/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72635/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72635/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72635/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72635/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72635/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72636,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72636/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72636/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72636/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72636/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72636/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72636/image_128"
+                                 }
+                   },
+                   {
+                       "id":  72637,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/72637/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/72637/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/72637/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/72637/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/72637/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/72637/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+                   {
+                       "id":  113936,
+                       "name":  "Bombilla LED Filamento 8W E27 A60",
+                       "video_url":  "https://youtu.be/BnscidSs8DM"
+                   }
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-02-06T10:19:19.202985",
+    "source_url":  "https://www.factorled.com/en/3471-8w-led-bulbs-filament-e27-a60.html"
+}

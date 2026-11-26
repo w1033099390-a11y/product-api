@@ -1,0 +1,232 @@
+{
+    "id":  900010,
+    "lang":  "el",
+    "name":  "Σποτ κήπου LED με καρφί 6W 230V IP65 - CREE COB - 3000K - 40º - Ø45mm - Μαύρο",
+    "reference":  "6000mini-SP",
+    "short_description":  "\u003cp\u003eΜικρό \u003cstrong\u003eσποτ κήπου Ø45 mm με καρφί εδάφους\u003c/strong\u003e, 6W και 536 lm από LED \u003cstrong\u003eCREE COB\u003c/strong\u003e, θερμό λευκό \u003cstrong\u003e3000K\u003c/strong\u003e με δέσμη 40º. Η κεφαλή περιστρέφεται και γέρνει για να φωτίζει δέντρα, φυτά, προσόψεις και διαδρόμους.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eΧυτό αλουμίνιο, IP65\u003c/strong\u003e, απευθείας σύνδεση \u003cstrong\u003e230V\u003c/strong\u003e με ενσωματωμένο τροφοδοτικό και καλώδιο 1,5 m. Φινίρισμα: \u003cstrong\u003eμαύρο\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΣποτ κήπου LED με καρφί 6W | IP65 | CREE\u003c/h2\u003e\u003cp\u003eΚαρφώστε το στο έδαφος, στρέψτε τη ρυθμιζόμενη κεφαλή και συνδέστε απευθείας στα 230V: το τροφοδοτικό είναι ενσωματωμένο. Ιδανικό για φωτισμό έμφασης σε κήπους, παρτέρια, δέντρα και προσόψεις κτιρίων.\u003c/p\u003e\u003ch3\u003eΤεχνικά στοιχεία\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eΤάση εισόδου\u003c/td\u003e\u003ctd\u003e220-240V, 50/60Hz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΙσχύς\u003c/td\u003e\u003ctd\u003e6W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLED\u003c/td\u003e\u003ctd\u003eCREE CXA1304N COB, 1 τεμ.\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΦωτεινή ροή\u003c/td\u003e\u003ctd\u003e536 lm (93,1 lm/W)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΘερμοκρασία χρώματος\u003c/td\u003e\u003ctd\u003e3000K\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003eRa 80\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΓωνία δέσμης\u003c/td\u003e\u003ctd\u003e40º\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΣυντελεστής ισχύος\u003c/td\u003e\u003ctd\u003e\u0026gt;0,9\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΠροστασία\u003c/td\u003e\u003ctd\u003eIP65, IK05\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΣώμα\u003c/td\u003e\u003ctd\u003eΧυτό αλουμίνιο, μαύρο· καρφί εδάφους\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΚαλώδιο\u003c/td\u003e\u003ctd\u003e1,5 m, 3 x 0,75mm²\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΔιαστάσεις\u003c/td\u003e\u003ctd\u003e70 x 66 x 245mm (κεφαλή Ø45mm)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΔιάρκεια ζωής\u003c/td\u003e\u003ctd\u003e40.000 ώρες\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΘερμοκρασία λειτουργίας\u003c/td\u003e\u003ctd\u003e-25 ~ +45ºC (εξωτερικός χώρος)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΕγγύηση\u003c/td\u003e\u003ctd\u003e5 έτη\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  38,
+                           "name":  "Φωτισμός LED εξωτερικού χώρου και κήπου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός LED εξωτερικού χώρου και κήπου"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "6W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "AC220-240V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Δείκτης χρωματικής απόδοσης",
+                         "value":  "80",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Γωνία δέσμης (º)",
+                         "value":  "40º",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1186,
+                         "name":  "Διάρκεια ζωής LED (ώρες)",
+                         "value":  "40000h",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Εύρος θερμοκρασίας (ºC)",
+                         "value":  "-25ºC ~ +45ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Χυτό αλουμίνιο",
+                         "icon":  null
+                     },
+                     {
+                         "id":  5296,
+                         "name":  "Χρώμα",
+                         "value":  "3000K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Φωτεινή ροή (Lm)",
+                         "value":  "536Lm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  7583,
+                         "name":  "Αριθμός \u0026 τύπος LED",
+                         "value":  "1 x CREE CXA1304N COB",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "70 x 66 x 245mm (κεφαλή Ø45mm)",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Άλλες πληροφορίες",
+                         "value":  "Καρφί εδάφους - ρυθμιζόμενη κεφαλή - ενσωματωμένο τροφοδοτικό - καλώδιο 1,5m 3x0,75mm² - IK05",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "Κωδικός",
+                         "value":  "92416",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "5",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  1,
+                        "name":  "Χρώμα",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "Μαύρο",
+                                           "color":  "#1C1C1C",
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000101,
+                         "model":  "92416",
+                         "reference":  "92416",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  7,
+                                               "width":  6.6,
+                                               "height":  24.5
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900010_4.jpg",
+                         "options":  [
+                                         {
+                                             "option_id":  1,
+                                             "option":  "Χρώμα",
+                                             "value_id":  null,
+                                             "value":  "Μαύρο"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900010_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900010_0.jpg",
+                                     "1024":  "img/900010_0.jpg",
+                                     "512":  "img/900010_0.jpg",
+                                     "256":  "img/900010_0.jpg",
+                                     "128":  "img/900010_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900010_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900010_1.jpg",
+                                     "1024":  "img/900010_1.jpg",
+                                     "512":  "img/900010_1.jpg",
+                                     "256":  "img/900010_1.jpg",
+                                     "128":  "img/900010_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900010_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900010_2.jpg",
+                                     "1024":  "img/900010_2.jpg",
+                                     "512":  "img/900010_2.jpg",
+                                     "256":  "img/900010_2.jpg",
+                                     "128":  "img/900010_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900010_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900010_3.jpg",
+                                     "1024":  "img/900010_3.jpg",
+                                     "512":  "img/900010_3.jpg",
+                                     "256":  "img/900010_3.jpg",
+                                     "128":  "img/900010_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900010_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900010_4.jpg",
+                                     "1024":  "img/900010_4.jpg",
+                                     "512":  "img/900010_4.jpg",
+                                     "256":  "img/900010_4.jpg",
+                                     "128":  "img/900010_4.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:03",
+    "source_url":  null
+}

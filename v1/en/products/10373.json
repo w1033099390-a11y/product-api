@@ -1,0 +1,203 @@
+{
+    "id":  10373,
+    "lang":  "en",
+    "name":  "Pack of 50 Staples for LED strip IP65 220V",
+    "reference":  "91674",
+    "short_description":  "\u003cp\u003eThe fastening clips for LED strips, the perfect solution for a flawless LED installation! Made with high-quality thermoplastic, these fastening clips are designed to provide you with a unique and professional experience. The translucent design of these clips is a true gem, as it allows the light from the LED strips to shine evenly and without obstacles.\u003c/p\u003e\n\u003cp\u003eThese LED strip clamps are suitable for SPSMD120D10W and SPSMD120D8W.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eClips for LED Strip Fixation\u003c/h2\u003e\n\u003cp\u003eThe translucent design of these clips is a true gem, as it allows the light from the LED strips to shine evenly and without obstacles. Forget about concerns regarding light obstruction or unwanted effects. These clips have been carefully designed to maximize aesthetics and make your LED installation look more professional than ever before.\u003c/p\u003e\n\u003cp\u003eTheir thermoplastic construction ensures exceptional durability and long-term resistance. No matter the environment or conditions, these clips are built to last. Additionally, their ergonomic design and easy installation make it a quick and simple process to secure the LED strips in place.\u003c/p\u003e\n\u003cp\u003eWhether you\u0027re performing an installation in your home, office, or any other location, these clips for LED strip fixation are the essential accessory you\u0027ve been searching for. They provide a reliable and aesthetic solution to keep your LED strips in the right position, preventing unwanted falls or movements.\u003c/p\u003e\n\u003cp\u003eWith these thermoplastic clips for LED strip fixation, you can achieve a professional and high-quality LED installation. Ensure that you stand out in your projects with these clips that combine functionality, durability, and style. Let your LED strips shine with their full splendor and transform any space into a true lighting spectacle!\u003c/p\u003e\n\u003cp\u003eThese LED strip clamps are suitable for SPSMD120D10W and SPSMD120D8W.\u003c/p\u003e\n\u003cp\u003eAt FactorLED, we guarantee that our products are of high quality and provide all the necessary elements for DISTRIBUTION, IMPORTATION, or WHOLESALE sales, including the technical specifications of each LED product.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  35,
+                           "name":  "LED Strip Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  218,
+                           "name":  "Outdoor LED Strips",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting",
+                                        "Outdoor LED Strips"
+                                    ]
+                       },
+                       {
+                           "id":  225,
+                           "name":  "Outdoor LED Strip Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting",
+                                        "Outdoor LED Strips",
+                                        "Outdoor LED Strip Accessories"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1172,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1643,
+                         "name":  "Construction Material",
+                         "value":  "Thermoplastic",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  2395,
+                         "name":  "REFERENCE",
+                         "value":  "91674",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  11681,
+                         "name":  "Other Information",
+                         "value":  "SPSMD120D10W y SPSMD120D8W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/25/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  11398,
+                         "model":  null,
+                         "reference":  "91674",
+                         "barcode":  "8435612966949",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  4,
+                                               "width":  14.5,
+                                               "height":  4
+                                           },
+                         "weight_kg":  0.11,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/10373/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/10373/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/10373/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/10373/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/10373/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/10373/image_128"
+                                 }
+                   },
+                   {
+                       "id":  105044,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/105044/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/105044/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/105044/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/105044/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/105044/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/105044/image_128"
+                                 }
+                   },
+                   {
+                       "id":  105045,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/105045/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/105045/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/105045/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/105045/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/105045/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/105045/image_128"
+                                 }
+                   },
+                   {
+                       "id":  105046,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/105046/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/105046/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/105046/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/105046/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/105046/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/105046/image_128"
+                                 }
+                   },
+                   {
+                       "id":  105047,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/105047/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/105047/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/105047/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/105047/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/105047/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/105047/image_128"
+                                 }
+                   },
+                   {
+                       "id":  105048,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/105048/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/105048/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/105048/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/105048/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/105048/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/105048/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-09-15T07:39:56.154936",
+    "source_url":  "https://www.factorled.com/en/10373-pack-of-50-staples-for-led-strip-ip65-220v.html"
+}

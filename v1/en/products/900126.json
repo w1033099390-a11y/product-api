@@ -1,0 +1,173 @@
+{
+    "id":  900126,
+    "lang":  "en",
+    "name":  "Pendant Lamp - ASSENS - for LED E27",
+    "reference":  "DL-91207",
+    "short_description":  "\u003cp\u003ePendant Lamp - ASSENS - for LED E27. Hanging LED E27 lamp that adds a touch of distinction to any space. Its \"modern\" design makes it perfect to pair with LED bulbs from our website. It brings personality and makes a difference in the decoration of your stylish spaces and venues with this range of hanging lamps. Buy your wicker pendant lamp for E27 bulb today and enjoy a natural and elegant lighting in your home. The lamp does NOT include bulb.",
+    "description":  "\u003ch2\u003ePendant Lamp - ASSENS - for LED E27\u003c/h2\u003e\u003cp\u003eHanging LED E27 lamp that adds a touch of distinction to any space. Its \"modern\" design makes it perfect to pair with LED bulbs from our website. It brings personality and makes a difference in the decoration of your stylish spaces and venues with this range of hanging lamps. Buy your wicker pendant lamp for E27 bulb today and enjoy a natural and elegant lighting in your home. The lamp does NOT include bulb.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Indoor Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  168,
+                           "name":  "Ceiling Lights",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Ceiling Lights"
+                                    ]
+                       },
+                       {
+                           "id":  57,
+                           "name":  "LED Pendant Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Ceiling Lights",
+                                        "LED Pendant Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  134,
+                           "name":  "Wicker Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Ceiling Lights",
+                                        "LED Pendant Lamps",
+                                        "Wicker Lamps"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "DL-91207",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001261,
+                         "model":  "DL-91207",
+                         "reference":  "DL-91207",
+                         "barcode":  "8435612968608",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900126_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900126_0.jpg",
+                                     "1024":  "img/900126_0.jpg",
+                                     "512":  "img/900126_0.jpg",
+                                     "256":  "img/900126_0.jpg",
+                                     "128":  "img/900126_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900126_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900126_1.jpg",
+                                     "1024":  "img/900126_1.jpg",
+                                     "512":  "img/900126_1.jpg",
+                                     "256":  "img/900126_1.jpg",
+                                     "128":  "img/900126_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900126_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900126_2.jpg",
+                                     "1024":  "img/900126_2.jpg",
+                                     "512":  "img/900126_2.jpg",
+                                     "256":  "img/900126_2.jpg",
+                                     "128":  "img/900126_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900126_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900126_3.jpg",
+                                     "1024":  "img/900126_3.jpg",
+                                     "512":  "img/900126_3.jpg",
+                                     "256":  "img/900126_3.jpg",
+                                     "128":  "img/900126_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900126_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900126_4.jpg",
+                                     "1024":  "img/900126_4.jpg",
+                                     "512":  "img/900126_4.jpg",
+                                     "256":  "img/900126_4.jpg",
+                                     "128":  "img/900126_4.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900126_5.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900126_5.jpg",
+                                     "1024":  "img/900126_5.jpg",
+                                     "512":  "img/900126_5.jpg",
+                                     "256":  "img/900126_5.jpg",
+                                     "128":  "img/900126_5.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/pendant-lamp-assens-for-led-e27-dl-91207"
+}

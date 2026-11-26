@@ -1,0 +1,243 @@
+{
+    "id":  26269,
+    "lang":  "el",
+    "name":  "Τροφοδοτικό 24V 150W 6.25A | Αλουμίνιο IP20 | GXtronic",
+    "reference":  "91886",
+    "short_description":  "\u003cp\u003eΤροφοδοτικό \u003cstrong\u003e150W 24V DC\u003c/strong\u003e για ταινίες LED \u003cstrong\u003e– Απόδοση και προηγμένη τεχνολογία,\u003c/strong\u003e εξοπλισμένο με τεχνολογία \u003cstrong\u003eνιτριδίου του γαλλίου (GaN)\u003c/strong\u003e για μεγαλύτερη απόδοση και μικρότερο μέγεθος. Compact, αθόρυβο σχεδιασμό \u003cstrong\u003eυψηλής απόδοσης\u003c/strong\u003e. \u003cstrong\u003eΨύξη με φυσική συναγωγή\u003c/strong\u003e.\u003cbr\u003e\u003cbr\u003e\u003c/p\u003e\n\u003cp\u003eΗ τέλεια επιλογή για ασφαλή, ανθεκτικό φωτισμό LED υψηλών επιδόσεων. \u003cstrong\u003eΕνσωματώνει προγραμματιζόμενο χειροκίνητο ρυθμιστή: 1- 100%, 2-50%, 3- 20%, 4-10%.\u003c/strong\u003e\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΤροφοδοτικό 24V 150W 6.25A | Αλουμίνιο IP20 | GXtronic\u003c/h2\u003e\n\u003cp\u003eΤροφοδοτικό GXtronic 150W 24V DC για ταινίες LED. Τεχνολογία GaN για απόδοση. IP20. Ψύξη με φυσική συναγωγή. Χειροκίνητος ρυθμιστής: 100%/50%/20%/10%.\u003c/p\u003e",
+    "brand":  {
+                  "id":  8,
+                  "name":  "GXTRONIC",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/8/logo?unique=1793096995"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "Έλεγχος LED και αξεσουάρ",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Έλεγχος LED και αξεσουάρ"
+                                    ]
+                       },
+                       {
+                           "id":  51,
+                           "name":  "Τροφοδοτικά και Drivers",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Έλεγχος LED και αξεσουάρ",
+                                        "Τροφοδοτικά και Drivers"
+                                    ]
+                       },
+                       {
+                           "id":  55,
+                           "name":  "Τροφοδοσία 24V",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Έλεγχος LED και αξεσουάρ",
+                                        "Τροφοδοτικά και Drivers",
+                                        "Τροφοδοσία 24V"
+                                    ]
+                       },
+                       {
+                           "id":  328,
+                           "name":  "Μάρκες",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Μάρκες"
+                                    ]
+                       },
+                       {
+                           "id":  336,
+                           "name":  "GXTronic",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Μάρκες",
+                                        "GXTronic"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  713,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "150W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  880,
+                         "name":  "Ενεργειακή κλάση (2021-UE-2019/2015)",
+                         "value":  "A",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Συχνότητα (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Εύρος θερμοκρασίας (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "Κύκλοι ON/OFF",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1628,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Αλουμίνιο",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  4012,
+                         "name":  "Κωδικός",
+                         "value":  "91887",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  4951,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "AC200-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  8668,
+                         "name":  "Διάρκεια ζωής LED (ώρες)",
+                         "value":  "30000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  9248,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "170*60*30mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  38192,
+                         "model":  "918863",
+                         "reference":  "91886",
+                         "barcode":  "8435770892067",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  3,
+                                               "width":  17,
+                                               "height":  6
+                                           },
+                         "weight_kg":  0.25,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/26269/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/26269/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/26269/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/26269/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/26269/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/26269/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114829,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114829/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114829/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114829/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114829/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114829/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114829/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114830,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114830/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114830/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114830/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114830/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114830/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114830/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114831,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114831/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114831/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114831/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114831/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114831/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114831/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114832,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114832/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114832/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114832/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114832/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114832/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114832/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-07-04T07:52:00.031027",
+    "source_url":  "https://www.factorled.com/en/26269-power-supply-24v-150w-6-25a-aluminum-ip20-gxtronic.html"
+}

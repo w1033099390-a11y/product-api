@@ -1,0 +1,149 @@
+{
+    "id":  900111,
+    "lang":  "el",
+    "name":  "Connector ράγας τύπου L λευκός/μαύρος μονοφασικός",
+    "reference":  "8254",
+    "short_description":  "\u003cp\u003eΥλικό ΑΛΟΥΜΙΝΙΟ; Χρώμα ΛΕΥΚΟ/ΜΑΥΡΟ; Διαστάσεις 43*78MM\u003c/p\u003e",
+    "description":  "\u003ch2\u003eConnector ράγας τύπου L λευκός/μαύρος μονοφασικός\u003c/h2\u003e\u003cp\u003eConnector ράγας τύπου L λευκός/μαύρος μονοφασικός. ΜΟΝΟΦΑΣΙΚΟ.\u003c/p\u003e\u003ch3\u003eΤεχνικά χαρακτηριστικά\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eΥλικό\u003c/td\u003e\u003ctd\u003eΑΛΟΥΜΙΝΙΟ\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΧρώμα\u003c/td\u003e\u003ctd\u003eΛΕΥΚΟ/ΜΑΥΡΟ\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΔιαστάσεις\u003c/td\u003e\u003ctd\u003e43*78MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΕγγύηση\u003c/td\u003e\u003ctd\u003e2 έτη\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  27,
+                           "name":  "Φωτισμός για καταστήματα και λιανική",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική"
+                                    ]
+                       },
+                       {
+                           "id":  29,
+                           "name":  "Ράγα φωτισμού LED",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική",
+                                        "Ράγα φωτισμού LED"
+                                    ]
+                       },
+                       {
+                           "id":  83,
+                           "name":  "Σειρά μονοφασικής ράγας",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική",
+                                        "Ράγα φωτισμού LED",
+                                        "Σειρά μονοφασικής ράγας"
+                                    ]
+                       },
+                       {
+                           "id":  30,
+                           "name":  "Αξεσουάρ για Μονοφασική ράγα LED",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική",
+                                        "Ράγα φωτισμού LED",
+                                        "Σειρά μονοφασικής ράγας",
+                                        "Αξεσουάρ για Μονοφασική ράγα LED"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  13444,
+                         "name":  "Υλικό σώματος",
+                         "value":  "ΑΛΟΥΜΙΝΙΟ",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1819,
+                         "name":  "Κύριο χρώμα",
+                         "value":  "ΛΕΥΚΟ/ΜΑΥΡΟ",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "43*78MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "2",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "Κωδικός",
+                         "value":  "8254",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001111,
+                         "model":  "8254",
+                         "reference":  "8254",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900111_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900111_0.jpg",
+                                     "1024":  "img/900111_0.jpg",
+                                     "512":  "img/900111_0.jpg",
+                                     "256":  "img/900111_0.jpg",
+                                     "128":  "img/900111_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900111_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900111_1.jpg",
+                                     "1024":  "img/900111_1.jpg",
+                                     "512":  "img/900111_1.jpg",
+                                     "256":  "img/900111_1.jpg",
+                                     "128":  "img/900111_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/el/catalog/track-connector-l-type-whiteblack-single-phase"
+}

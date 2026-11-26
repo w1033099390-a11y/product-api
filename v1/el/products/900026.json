@@ -1,0 +1,204 @@
+{
+    "id":  900026,
+    "lang":  "el",
+    "name":  "Μαγνητική Ράγα Επιφανειακή Εξαιρετικά Λεπτή 48V - 1m / 2m / 3m - 25 x 5,5mm - Μαύρο",
+    "reference":  "MZ200",
+    "short_description":  "\u003cp\u003eΕξαιρετικά λεπτή επιφανειακή μαγνητική ράγα, ύψους μόλις 5,5 mm, με βάση και κάλυμμα σε ένα κομμάτι. Βιδώνεται σε οροφή ή τοίχο, τροφοδοτείται με εσωτερικό τροφοδοτικό ράγας (MZ214) ή εξωτερικό τροφοδοτικό 48V (MZ222) και δέχεται οποιοδήποτε μαγνητικό φωτιστικό της σειράς UT.\u003c/p\u003e\u003cp\u003eΜέρος του συστήματος εξαιρετικά λεπτής μαγνητικής ράγας 48V: επιφανειακή ράγα MZ200, χωνευτή ράγα MZ201, συνδέσμοι, τροφοδοτικά και μαγνητικά φωτιστικά σειράς UT.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΜαγνητική Ράγα Επιφανειακή Εξαιρετικά Λεπτή 48V - 1m / 2m / 3m - 25 x 5,5mm - Μαύρο\u003c/h2\u003e\u003cp\u003eΕξαιρετικά λεπτή επιφανειακή μαγνητική ράγα, ύψους μόλις 5,5 mm, με βάση και κάλυμμα σε ένα κομμάτι. Βιδώνεται σε οροφή ή τοίχο, τροφοδοτείται με εσωτερικό τροφοδοτικό ράγας (MZ214) ή εξωτερικό τροφοδοτικό 48V (MZ222) και δέχεται οποιοδήποτε μαγνητικό φωτιστικό της σειράς UT.\u003c/p\u003e\u003cp\u003eΜέρος του συστήματος εξαιρετικά λεπτής μαγνητικής ράγας 48V: επιφανειακή ράγα MZ200, χωνευτή ράγα MZ201, συνδέσμοι, τροφοδοτικά και μαγνητικά φωτιστικά σειράς UT.\u003c/p\u003e\u003ch3\u003eΤεχνικά στοιχεία\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eΜοντέλο\u003c/td\u003e\u003ctd\u003eMZ200-B-1M-92367\u003c/td\u003e\u003ctd\u003eMZ200-B-2M-92368\u003c/td\u003e\u003ctd\u003eMZ200-B-3M-92369\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΥλικό\u003c/td\u003e\u003ctd colspan=\"3\"\u003eΑλουμίνιο + PC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΔιατομή (Π x Υ)\u003c/td\u003e\u003ctd colspan=\"3\"\u003e25 x 5,5mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΜήκη\u003c/td\u003e\u003ctd colspan=\"3\"\u003e1m / 2m / 3m\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΤάση\u003c/td\u003e\u003ctd colspan=\"3\"\u003e48V DC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΤοποθέτηση\u003c/td\u003e\u003ctd colspan=\"3\"\u003eΕπιφανειακή (οροφή / τοίχος)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΧρώμα\u003c/td\u003e\u003ctd colspan=\"3\"\u003eΜαύρο\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΣυμβατοί σύνδεσμοι\u003c/td\u003e\u003ctd colspan=\"3\"\u003eΕσωτερική γωνία L MZ205, σταυρός MZ208\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  27,
+                           "name":  "Φωτισμός για καταστήματα και λιανική",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική"
+                                    ]
+                       },
+                       {
+                           "id":  29,
+                           "name":  "Ράγα φωτισμού LED",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική",
+                                        "Ράγα φωτισμού LED"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  820,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "48V DC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Αλουμίνιο + PC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1816,
+                         "name":  "Κύριο χρώμα",
+                         "value":  "Μαύρο",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "25 x 5,5mm - 1000 / 2000 / 3000mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Άλλες πληροφορίες",
+                         "value":  "Επιφανειακή εξαιρετικά λεπτή μαγνητική ράγα - ενσωματωμένη βάση και κάλυμμα",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "Κωδικός",
+                         "value":  "MZ200-B-1M-92367 / MZ200-B-2M-92368 / MZ200-B-3M-92369",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  3,
+                        "name":  "Μήκος",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "1m",
+                                           "color":  null,
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  null,
+                                           "name":  "2m",
+                                           "color":  null,
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  null,
+                                           "name":  "3m",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000261,
+                         "model":  "MZ200-B-1M-92367",
+                         "reference":  "MZ200-B-1M-92367",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  100,
+                                               "width":  2.5,
+                                               "height":  0.55
+                                           },
+                         "weight_kg":  null,
+                         "image":  "img/900026_0.jpg",
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Μήκος",
+                                             "value_id":  null,
+                                             "value":  "1m"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  9000262,
+                         "model":  "MZ200-B-2M-92368",
+                         "reference":  "MZ200-B-2M-92368",
+                         "barcode":  null,
+                         "is_default":  false,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  200,
+                                               "width":  2.5,
+                                               "height":  0.55
+                                           },
+                         "weight_kg":  null,
+                         "image":  "img/900026_0.jpg",
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Μήκος",
+                                             "value_id":  null,
+                                             "value":  "2m"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  9000263,
+                         "model":  "MZ200-B-3M-92369",
+                         "reference":  "MZ200-B-3M-92369",
+                         "barcode":  null,
+                         "is_default":  false,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  300,
+                                               "width":  2.5,
+                                               "height":  0.55
+                                           },
+                         "weight_kg":  null,
+                         "image":  "img/900026_0.jpg",
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Μήκος",
+                                             "value_id":  null,
+                                             "value":  "3m"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900026_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900026_0.jpg",
+                                     "1024":  "img/900026_0.jpg",
+                                     "512":  "img/900026_0.jpg",
+                                     "256":  "img/900026_0.jpg",
+                                     "128":  "img/900026_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  20,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:01:37",
+    "source_url":  null
+}

@@ -1,0 +1,346 @@
+{
+    "id":  26427,
+    "lang":  "en",
+    "name":  "LED Strip SCOB 220V 260 LEDs/M 15W/M | 20m Roll | SMD2025 1650Lm/M | IP65 | 10mm | Cut every 5cm",
+    "reference":  "SP260D15W-CW-92044",
+    "short_description":  "\u003cp\u003eThe \u003cstrong\u003e220V SCOB LED strip (SMD2025 chips), 20 meters,\u003c/strong\u003e is the ideal solution for powerful, uniform, efficient lighting. \u003cstrong\u003eWith 260 LEDs per meter and 15W/m,\u003c/strong\u003e offers high performance of \u003cstrong\u003e1650 lm/m (110 lm/W)\u003c/strong\u003e with a continuous light line and no visible dots. Works directly at 220VAC without transformer. \u003cstrong\u003eTRIAC dimmable\u003c/strong\u003e, IP65 protection, \u003cstrong\u003ecut every 5 cm\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Strip SCOB 220V 260 LED/m 15W/m | 20M Roll | SMD2025 1650Lm/m | IP65 | 10mm | Cut every 5cm\u003c/h2\u003e\n\u003cp\u003e220V SCOB LED Strip (SMD2025 chips) 20m. 260 LED/m, 15W/m, 1650Lm/m (110 lm/W). Continuous light line with no visible dots. TRIAC dimmable. IP65. Cut every 5cm.\u003c/p\u003e\n\u003ch3\u003eWhat is SCOB technology? Differences from SMD and COB\u003c/h3\u003e\n\u003cp\u003eSCOB (also known as “Spotless COB”) is a hybrid technology between SMD and COB. In a classic \u003cstrong\u003eSMD\u003c/strong\u003e strip the chips are spaced out on the circuit board and, up close, you can see them as individual dots of light. In a \u003cstrong\u003eCOB\u003c/strong\u003e strip the chips are mounted directly on the board under a continuous phosphor layer, giving a uniform line of light, but usually with slightly lower efficiency and more fragility when cutting and handling. A \u003cstrong\u003eSCOB\u003c/strong\u003e strip combines the best of both: it uses very small SMD chips (SMD2025) at a very high density (260 LEDs/m) under a silicone diffusing cover, achieving the continuous, dot-free light of COB while keeping the efficiency (110 lm/W), robustness and easy cutting of SMD.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  33,
+                           "name":  "LED strips 220V-240V AC",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED strips 220V-240V AC"
+                                    ]
+                       },
+                       {
+                           "id":  218,
+                           "name":  "Outdoor LED Strips",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting",
+                                        "Outdoor LED Strips"
+                                    ]
+                       },
+                       {
+                           "id":  223,
+                           "name":  "220V Outdoor LED Strips",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting",
+                                        "Outdoor LED Strips",
+                                        "220V Outdoor LED Strips"
+                                    ]
+                       },
+                       {
+                           "id":  317,
+                           "name":  "Restaurant Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Restaurant Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  321,
+                           "name":  "Hotel Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Hotel Lighting"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  766,
+                         "name":  "Rated Power",
+                         "value":  "15W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  856,
+                         "name":  "Colour",
+                         "value":  "2700K-4000K-5700K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  1040,
+                         "name":  "Beam Angle (º)",
+                         "value":  "180º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1075,
+                         "name":  "Dimmable",
+                         "value":  "TRIAC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/11/icon"
+                     },
+                     {
+                         "id":  1084,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "125 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1128,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "110 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1170,
+                         "name":  "Certifications",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1172,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1634,
+                         "name":  "Construction Material",
+                         "value":  "Silicone",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  6368,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1650Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  7096,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "SMD2025",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  8673,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "35000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  10039,
+                         "name":  "Dimensions (mm)",
+                         "value":  "L20m x 10mm x H4,2mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  15829,
+                         "name":  "REFERENCE",
+                         "value":  "SP260D15W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  2,
+                        "name":  "Color temperature",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  259,
+                                           "name":  "5700K - Cold White",
+                                           "color":  "#DDE7FF",
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  38544,
+                         "model":  "920446",
+                         "reference":  "SP260D15W-CW-92044",
+                         "barcode":  "8435770893842",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  27,
+                                               "width":  26,
+                                               "height":  18
+                                           },
+                         "weight_kg":  1.52,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  259,
+                                             "value":  "5700K - Cold White"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/26427/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/26427/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/26427/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/26427/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/26427/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/26427/image_128"
+                                 }
+                   },
+                   {
+                       "id":  115858,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/115858/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/115858/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/115858/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/115858/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/115858/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/115858/image_128"
+                                 }
+                   },
+                   {
+                       "id":  115859,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/115859/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/115859/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/115859/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/115859/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/115859/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/115859/image_128"
+                                 }
+                   },
+                   {
+                       "id":  115860,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/115860/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/115860/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/115860/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/115860/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/115860/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/115860/image_128"
+                                 }
+                   },
+                   {
+                       "id":  115861,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/115861/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/115861/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/115861/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/115861/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/115861/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/115861/image_128"
+                                 }
+                   },
+                   {
+                       "id":  115987,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/115987/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/115987/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/115987/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/115987/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/115987/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/115987/image_128"
+                                 }
+                   },
+                   {
+                       "id":  115862,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/115862/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/115862/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/115862/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/115862/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/115862/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/115862/image_128"
+                                 }
+                   },
+                   {
+                       "id":  115852,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/115852/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/115852/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/115852/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/115852/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/115852/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/115852/image_128"
+                                 }
+                   },
+                   {
+                       "id":  115853,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/115853/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/115853/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/115853/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/115853/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/115853/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/115853/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  4,
+    "is_new":  false,
+    "published_at":  "2026-05-04T11:30:57",
+    "source_url":  "https://www.factorled.com/en/26427-led-strip-scob-220v-260-leds-m-15w-m-20m-roll-smd2025-1650lm-m-ip65-10mm-cut-every-5cm.html"
+}

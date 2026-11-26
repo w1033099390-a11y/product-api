@@ -1,0 +1,275 @@
+{
+    "id":  900001,
+    "lang":  "en",
+    "name":  "LED Wall Washer Strip 24V 17W/m IP68 - SMD2835 48 LED/m - 30º - 5m Roll",
+    "reference":  "WWSP48D18W",
+    "short_description":  "\u003cp\u003eFlexible \u003cstrong\u003e24V LED wall washer strip\u003c/strong\u003e with \u003cstrong\u003e48 SMD2835 LEDs per metre\u003c/strong\u003e behind individual \u003cstrong\u003e30º lenses\u003c/strong\u003e, rated \u003cstrong\u003eIP68\u003c/strong\u003e for indoor and outdoor projects. Small PCB segments joined by flexible silicone wires let it bend in more directions and at tighter angles than a standard strip.\u003c/p\u003e\u003cp\u003eSold as a \u003cstrong\u003e5 m roll\u003c/strong\u003e, in \u003cstrong\u003e3000K\u003c/strong\u003e or \u003cstrong\u003e4000K\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Wall Washer Strip 24V 17W/m | IP68 | 30º Lens\u003c/h2\u003e\u003ch3\u003eFeatures\u003c/h3\u003e\u003cul\u003e\u003cli\u003eSmall PCBs interconnected by flexible silicone wires: more bending directions and a larger bending angle.\u003c/li\u003e\u003cli\u003eConstant-voltage supply: each unit can be cut freely to suit different uses.\u003c/li\u003e\u003cli\u003eSafety extra-low voltage (SELV) supply, safe to touch.\u003c/li\u003e\u003cli\u003eHidden current-limiting resistors for better protection during installation and use.\u003c/li\u003e\u003cli\u003e5-step MacAdam colour consistency, well suited to project lighting.\u003c/li\u003e\u003c/ul\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eIP rating\u003c/td\u003e\u003ctd\u003eIP68\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eRated voltage\u003c/td\u003e\u003ctd\u003eDC24V\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eRated power\u003c/td\u003e\u003ctd\u003e17W/m\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLEDs\u003c/td\u003e\u003ctd\u003e48 LEDs/m - SMD2835\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e16 x 16mm silicone sleeve (PCB width 12mm)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCutting unit\u003c/td\u003e\u003ctd\u003e41.667mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCopper thickness\u003c/td\u003e\u003ctd\u003e2oz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003eRa80+ (full spectrum)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam angle\u003c/td\u003e\u003ctd\u003e30º\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWorking temperature\u003c/td\u003e\u003ctd\u003e-40 ~ +50ºC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eStorage temperature\u003c/td\u003e\u003ctd\u003e-40 ~ +80ºC\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003ch3\u003eColour temperature and luminous flux\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003cth\u003eCCT\u003c/th\u003e\u003cth\u003eChromaticity (x, y)\u003c/th\u003e\u003cth\u003eMacAdam\u003c/th\u003e\u003cth\u003eLumen per metre\u003c/th\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003e3000K\u003c/td\u003e\u003ctd\u003e0.44, 0.403\u003c/td\u003e\u003ctd\u003e5\u003c/td\u003e\u003ctd\u003e1000 lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003e4000K\u003c/td\u003e\u003ctd\u003e0.38, 0.38\u003c/td\u003e\u003ctd\u003e5\u003c/td\u003e\u003ctd\u003e1150 lm\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003ch3\u003eInstallation note\u003c/h3\u003e\u003cp\u003eFor even brightness, do not connect more than 5 m in series. Measured voltage along a 5 m run: 24V at 1 m, 23V at 2 m, 22.3V at 3 m, 21.7V at 4 m, 21.5V at 5 m.\u003c/p\u003e\u003ch3\u003eReliability tests\u003c/h3\u003e\u003cul\u003e\u003cli\u003eTemperature cycle: -40ºC / 100ºC, 15 min each, 200 cycles - no damage or failure.\u003c/li\u003e\u003cli\u003eHigh-temperature life test: Ta 55ºC, 168 h - luminous flux maintenance above 96%.\u003c/li\u003e\u003cli\u003eHigh-temperature, high-humidity life test: Ta 85ºC, 85% RH, 168 h - luminous flux maintenance above 96%.\u003c/li\u003e\u003c/ul\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  87,
+                           "name":  "LED Strip 24V DC",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip 24V DC"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "17W/m",
+                         "icon":  null
+                     },
+                     {
+                         "id":  816,
+                         "name":  "Nominal Voltage",
+                         "value":  "DC24V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80+",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "30º",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP68",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-40ºC ~ +50ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Construction Material",
+                         "value":  "PCB (2oz copper), silicone",
+                         "icon":  null
+                     },
+                     {
+                         "id":  5296,
+                         "name":  "Colour",
+                         "value":  "3000K-4000K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "3000K: 1000 lm/m - 4000K: 1150 lm/m",
+                         "icon":  null
+                     },
+                     {
+                         "id":  7583,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "48 LEDs/M - SMD2835",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "5m - 16 x 16mm silicone sleeve (PCB 12mm)",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "Cut: 41.667mm - max. 5m in series - 5-step MacAdam",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "WWSP48D18W-WW-92364 (3000K) / WWSP48D18W-NW-92365 (4000K)",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  3,
+                        "name":  "Measurement",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "5m roll",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    },
+                    {
+                        "id":  2,
+                        "name":  "Color temperature",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  2,
+                                           "name":  "Warm White - 3000K",
+                                           "color":  "#FFCB8E",
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  4,
+                                           "name":  "Natural White - 4000K",
+                                           "color":  "#FFE9C4",
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000011,
+                         "model":  "WWSP48D18W-WW-92364",
+                         "reference":  "WWSP48D18W-WW-92364",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  500,
+                                               "width":  1.6,
+                                               "height":  1.6
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900001_3.jpg",
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Measurement",
+                                             "value_id":  null,
+                                             "value":  "5m roll"
+                                         },
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  2,
+                                             "value":  "Warm White - 3000K"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  9000012,
+                         "model":  "WWSP48D18W-NW-92365",
+                         "reference":  "WWSP48D18W-NW-92365",
+                         "barcode":  null,
+                         "is_default":  false,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  500,
+                                               "width":  1.6,
+                                               "height":  1.6
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900001_3.jpg",
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Measurement",
+                                             "value_id":  null,
+                                             "value":  "5m roll"
+                                         },
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  4,
+                                             "value":  "Natural White - 4000K"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900001_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900001_0.jpg",
+                                     "1024":  "img/900001_0.jpg",
+                                     "512":  "img/900001_0.jpg",
+                                     "256":  "img/900001_0.jpg",
+                                     "128":  "img/900001_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900001_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900001_1.jpg",
+                                     "1024":  "img/900001_1.jpg",
+                                     "512":  "img/900001_1.jpg",
+                                     "256":  "img/900001_1.jpg",
+                                     "128":  "img/900001_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900001_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900001_2.jpg",
+                                     "1024":  "img/900001_2.jpg",
+                                     "512":  "img/900001_2.jpg",
+                                     "256":  "img/900001_2.jpg",
+                                     "128":  "img/900001_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900001_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900001_3.jpg",
+                                     "1024":  "img/900001_3.jpg",
+                                     "512":  "img/900001_3.jpg",
+                                     "256":  "img/900001_3.jpg",
+                                     "128":  "img/900001_3.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:00",
+    "source_url":  null
+}

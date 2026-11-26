@@ -1,0 +1,190 @@
+{
+    "id":  11057,
+    "lang":  "en",
+    "name":  "SPI C6 Remote Control - for Digital SPI LED Controller RGB - RGBW - RGBIC - (2.4GHz)",
+    "reference":  "92111-C6",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eSPI C6 Remote Control,\u003c/strong\u003e Designed for digital SPI LED controllers \u003cstrong\u003eRGB, RGBW and RGBIC\u003c/strong\u003e, this RF remote control (2.4GHz) allows you to easily adjust color, width editing, and select dynamic modes. Enjoy fast, stable transmission thanks to 2.4G wireless technology with anti-interference capability. Control multiple devices simultaneously and customize your lighting. With a control range of up to 30 meters, \u003cstrong\u003eits magnetic installation is simple and quick.\u003c/strong\u003e Ideal for creating atmospheres in commercial or residential applications, this remote is your perfect ally for advanced and customizable lighting!\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003eSPI C6 Remote Control - for Digital SPI LED Controller RGB - RGBW - RGBIC - (2.4GHz)\u003c/h2\u003e\n\u003cp\u003eElevate your lighting experience with the SPI C6 Remote Control, essential for any LED lighting enthusiast. RF 2.4GHz remote compatible with digital SPI LED controllers.\u003c/p\u003e\n\u003ch3\u003eKey Features:\u003c/h3\u003e\n\u003col\u003e\n\u003cli\u003e\u003cstrong\u003eWide Compatibility:\u003c/strong\u003e Works with RGB, RGBW, and RGBIC digital SPI LED controllers.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eFull Color and Brightness Control:\u003c/strong\u003e Easily adjust color, brightness, and LED strip length.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eDynamic Modes and Customizable Effects:\u003c/strong\u003e Multiple dynamic modes and effects, adjustable speed.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eAdvanced Wireless 2.4G Technology:\u003c/strong\u003e Fast stable transmission with anti-interference.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eExtended Control Range:\u003c/strong\u003e Up to 30 meters.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eMagnetic Installation:\u003c/strong\u003e Easy magnetic support, quick setup.\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch3\u003eApplications:\u003c/h3\u003e\n\u003cp\u003eLiving rooms, bedrooms, offices, shops, restaurants. Handles multiple devices simultaneously.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  37,
+                           "name":  "LED controllers",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED controllers"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1745,
+                         "name":  "Control modes",
+                         "value":  "REMOTE CONTROL",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/36/icon"
+                     },
+                     {
+                         "id":  2774,
+                         "name":  "REFERENCE",
+                         "value":  "92111-C6",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  4964,
+                         "name":  "Nominal Voltage",
+                         "value":  "3V (AAA*2)",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  8555,
+                         "name":  "Certifications",
+                         "value":  "CE, EMC, RED",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  13156,
+                         "name":  "Range (m)",
+                         "value":  "30m",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/42/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  18728,
+                         "model":  "185785",
+                         "reference":  "92111-C6",
+                         "barcode":  "8435612906433",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  15,
+                                               "height":  2
+                                           },
+                         "weight_kg":  0.08,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11057/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11057/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11057/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11057/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11057/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11057/image_128"
+                                 }
+                   },
+                   {
+                       "id":  110563,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/110563/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/110563/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/110563/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/110563/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/110563/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/110563/image_128"
+                                 }
+                   },
+                   {
+                       "id":  110564,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/110564/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/110564/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/110564/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/110564/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/110564/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/110564/image_128"
+                                 }
+                   },
+                   {
+                       "id":  110565,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/110565/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/110565/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/110565/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/110565/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/110565/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/110565/image_128"
+                                 }
+                   },
+                   {
+                       "id":  110566,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/110566/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/110566/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/110566/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/110566/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/110566/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/110566/image_128"
+                                 }
+                   },
+                   {
+                       "id":  110567,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/110567/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/110567/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/110567/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/110567/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/110567/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/110567/image_128"
+                                 }
+                   },
+                   {
+                       "id":  110568,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/110568/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/110568/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/110568/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/110568/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/110568/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/110568/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2024-06-17T10:38:49.935336",
+    "source_url":  "https://www.factorled.com/en/11057-spi-c6-remote-control-for-digital-spi-led-controller-rgb-rgbw-rgbic-2-4ghz.html"
+}

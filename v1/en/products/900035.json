@@ -1,0 +1,134 @@
+{
+    "id":  900035,
+    "lang":  "en",
+    "name":  "Magnetic Track In-Track Power Supply 48V 100W - 220-240V - Flicker-free - Black",
+    "reference":  "MZ214-100W-92380",
+    "short_description":  "\u003cp\u003ePower supply that fits inside the magnetic track (MZ200 / MZ201) and feeds the lights directly - no separate driver box needed. Flicker-free, EMC compliant.\u003c/p\u003e\u003cp\u003ePart of the 48V ultra-thin magnetic track system: surface track MZ200, recessed track MZ201, connectors, power supplies and UT-series magnetic lights.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eMagnetic Track In-Track Power Supply 48V 100W - 220-240V - Flicker-free - Black\u003c/h2\u003e\u003cp\u003ePower supply that fits inside the magnetic track (MZ200 / MZ201) and feeds the lights directly - no separate driver box needed. Flicker-free, EMC compliant.\u003c/p\u003e\u003cp\u003ePart of the 48V ultra-thin magnetic track system: surface track MZ200, recessed track MZ201, connectors, power supplies and UT-series magnetic lights.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eP\u003c/td\u003e\u003ctd\u003ew\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΙ\u003c/td\u003e\u003ctd\u003eχ\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003e100W\u003c/td\u003e\u003ctd\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eInput\u003c/td\u003e\u003ctd\u003e220-240V AC, 50/60Hz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOutput\u003c/td\u003e\u003ctd\u003e48V DC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePower factor\u003c/td\u003e\u003ctd\u003ePF 0.5\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eFor\u003c/td\u003e\u003ctd\u003eTracks MZ200 / MZ201\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eMaterial\u003c/td\u003e\u003ctd\u003ePC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eFinish\u003c/td\u003e\u003ctd\u003eBlack\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  51,
+                           "name":  "Power Supplies and Drivers",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Power Supplies and Drivers"
+                                    ]
+                       },
+                       {
+                           "id":  29,
+                           "name":  "LED lighting Track",
+                           "path":  [
+                                        "Featured",
+                                        "Lighting Stores and Retail for Shops",
+                                        "LED lighting Track"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "100W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1602,
+                         "name":  "Power Factor (PF)",
+                         "value":  "0.5",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Construction Material",
+                         "value":  "PC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1816,
+                         "name":  "Main colour",
+                         "value":  "Black",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "In-track power supply - output 48V DC - flicker-free - EMC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "MZ214-100W-92380",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000351,
+                         "model":  "MZ214-100W-92380",
+                         "reference":  "MZ214-100W-92380",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  null,
+                         "weight_kg":  null,
+                         "image":  "img/900035_0.jpg",
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900035_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900035_0.jpg",
+                                     "1024":  "img/900035_0.jpg",
+                                     "512":  "img/900035_0.jpg",
+                                     "256":  "img/900035_0.jpg",
+                                     "128":  "img/900035_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  25,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:01:28",
+    "source_url":  null
+}

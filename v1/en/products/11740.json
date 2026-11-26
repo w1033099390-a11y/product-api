@@ -1,0 +1,190 @@
+{
+    "id":  11740,
+    "lang":  "en",
+    "name":  "Hippo Connector for LED Strips 24V RGB SMD | IP65 | 4 Pins | PCB 10mm",
+    "reference":  "91903-PACK50",
+    "short_description":  "\u003cp\u003eConnect your RGB LED strips quickly and securely with the \u003cstrong\u003e4-pin Hippo Connector\u003c/strong\u003e. Compatible with 10mm SMD strips (12mm with silicone or PVC sleeve), its \u003cstrong\u003eIP65\u003c/strong\u003e design ensures a firm and protected connection, ideal for indoor or outdoor use. \u003cstrong\u003eTool-free installation\u003c/strong\u003e, fast and reliable.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eHippo Connector for 24V RGB SMD LED Strips | IP65 | 4 Pins | PCB 10mm\u003c/h2\u003e\n\u003cp\u003eHippo 4-pin connector for 24V RGB SMD LED strips. IP65 protection. PCB 10mm. Tool-free installation.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  35,
+                           "name":  "LED Strip Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  218,
+                           "name":  "Outdoor LED Strips",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting",
+                                        "Outdoor LED Strips"
+                                    ]
+                       },
+                       {
+                           "id":  225,
+                           "name":  "Outdoor LED Strip Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting",
+                                        "Outdoor LED Strips",
+                                        "Outdoor LED Strip Accessories"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1170,
+                         "name":  "Certifications",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1172,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Construction Material",
+                         "value":  "PCB",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  14255,
+                         "name":  "REFERENCE",
+                         "value":  "",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  16,
+                        "name":  "Purchase more and pay less",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  208,
+                                           "name":  "UNITS",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  22330,
+                         "model":  null,
+                         "reference":  "91903-UND",
+                         "barcode":  "8435612977891",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  15,
+                                               "height":  5
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  "https://www.factorled.com/web/image/product.product/22330/dimension_image",
+                         "options":  [
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Purchase more and pay less",
+                                             "value_id":  208,
+                                             "value":  "UNITS"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11740/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11740/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11740/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11740/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11740/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11740/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112038,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112038/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112038/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112038/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112038/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112038/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112038/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112039,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112039/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112039/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112039/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112039/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112039/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112039/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112040,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112040/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112040/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112040/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112040/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112040/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112040/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2025-10-07T11:36:42.889951",
+    "source_url":  "https://www.factorled.com/en/11740-hippo-connector-for-led-strips-24v-rgb-smd-ip65-4-pins-pcb-10mm.html"
+}

@@ -1,0 +1,198 @@
+{
+    "id":  900102,
+    "lang":  "en",
+    "name":  "LED Strip 24V 120 LED/m 12W/m CRI90 10m IP20",
+    "reference":  "906655",
+    "short_description":  "\u003cp\u003ePower 12W; Select 3000K/4000K/6500K; Size 10M*10MM; CRI 90\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Strip 24V 120 LED/m 12W/m CRI90 10m IP20\u003c/h2\u003e\u003cp\u003eLED Strip 24V 120 LED/m 12W/m CRI90 10m IP20. SMD 120 LED/M.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e12W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSelect\u003c/td\u003e\u003ctd\u003e3000K/4000K/6500K\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e10M*10MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003e90\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLumen\u003c/td\u003e\u003ctd\u003e1200LM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam Angle\u003c/td\u003e\u003ctd\u003e120°\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection rating\u003c/td\u003e\u003ctd\u003eIP20\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWarranty\u003c/td\u003e\u003ctd\u003e3 years\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Indoor Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  87,
+                           "name":  "LED Strip 24V DC",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip 24V DC"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  4217,
+                         "name":  "Rated Power",
+                         "value":  "12W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  15001,
+                         "name":  "Colour Temperature (K)",
+                         "value":  "3000K/4000K/6500K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "10M*10MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "90",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1200LM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120°",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "906655",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001021,
+                         "model":  "906655",
+                         "reference":  "906655",
+                         "barcode":  "8435612906655",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900102_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900102_0.jpg",
+                                     "1024":  "img/900102_0.jpg",
+                                     "512":  "img/900102_0.jpg",
+                                     "256":  "img/900102_0.jpg",
+                                     "128":  "img/900102_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900102_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900102_1.jpg",
+                                     "1024":  "img/900102_1.jpg",
+                                     "512":  "img/900102_1.jpg",
+                                     "256":  "img/900102_1.jpg",
+                                     "128":  "img/900102_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900102_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900102_2.jpg",
+                                     "1024":  "img/900102_2.jpg",
+                                     "512":  "img/900102_2.jpg",
+                                     "256":  "img/900102_2.jpg",
+                                     "128":  "img/900102_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900102_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900102_3.jpg",
+                                     "1024":  "img/900102_3.jpg",
+                                     "512":  "img/900102_3.jpg",
+                                     "256":  "img/900102_3.jpg",
+                                     "128":  "img/900102_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900102_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900102_4.jpg",
+                                     "1024":  "img/900102_4.jpg",
+                                     "512":  "img/900102_4.jpg",
+                                     "256":  "img/900102_4.jpg",
+                                     "128":  "img/900102_4.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-strip-24v-120-ledm-12wm-cri90-10m-ip20"
+}

@@ -1,0 +1,176 @@
+{
+    "id":  1250,
+    "lang":  "el",
+    "name":  "Κλιπ στήριξης - ΚΥΚΛΙΚΟ για NEON LED 16mm",
+    "reference":  "NEON76672",
+    "short_description":  "\u003cp\u003eΚυκλικό κλιπ για NEON LED, κατάλληλο για τη στερέωση του ΚΥΚΛΙΚΟΥ NEON LED σε τοίχους, οροφές, ορόσημα κ.λπ. Έχει συμπαγείς διαστάσεις και διάφανο χρώμα, ιδανικό για την τοποθέτηση εύκαμπτων neon LED, στερεώνοντάς τα διακριτικά σε τοίχους ή οροφές. Είναι κατασκευασμένο από εύκαμπτο PVC.\u003c/p\u003e",
+    "description":  "\u003cp\u003eΚυκλικό κλιπ για NEON LED, κατάλληλο για τη στερέωση του ΚΥΚΛΙΚΟΥ NEON LED σε τοίχους, οροφές, ορόσημα κ.λπ. Έχει συμπαγείς διαστάσεις και διάφανο χρώμα, ιδανικό για την τοποθέτηση εύκαμπτων neon LED, στερεώνοντάς τα διακριτικά σε τοίχους ή οροφές. Είναι κατασκευασμένο από εύκαμπτο PVC.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  217,
+                           "name":  "LED Neon",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός LED εξωτερικού χώρου και κήπου",
+                                        "LED Neon"
+                                    ]
+                       },
+                       {
+                           "id":  34,
+                           "name":  "Εύκαμπτο LED Neon 220V",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός LED εξωτερικού χώρου και κήπου",
+                                        "LED Neon",
+                                        "Εύκαμπτο LED Neon 220V"
+                                    ]
+                       },
+                       {
+                           "id":  221,
+                           "name":  "Αξεσουάρ LED Neon",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός LED εξωτερικού χώρου και κήπου",
+                                        "LED Neon",
+                                        "Αξεσουάρ LED Neon"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1166,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1180,
+                         "name":  "IP",
+                         "value":  "IP66",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1649,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "PVC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  2939,
+                         "name":  "Κωδικός",
+                         "value":  "NEON76672",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  2022,
+                         "model":  null,
+                         "reference":  "NEON76672",
+                         "barcode":  "8400000018296",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  3,
+                                               "width":  3,
+                                               "height":  3
+                                           },
+                         "weight_kg":  0.03,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/1250/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/1250/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/1250/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/1250/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/1250/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/1250/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109421,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109421/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109421/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109421/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109421/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109421/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109421/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109422,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109422/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109422/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109422/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109422/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109422/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109422/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109423,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109423/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109423/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109423/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109423/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109423/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109423/image_128"
+                                 }
+                   },
+                   {
+                       "id":  109424,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/109424/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/109424/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/109424/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/109424/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/109424/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/109424/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2021-01-17T22:28:31.479335",
+    "source_url":  "https://www.factorled.com/en/1250-retaining-clip-circular-for-neon-led-16mm.html"
+}

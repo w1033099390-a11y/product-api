@@ -1,0 +1,190 @@
+{
+    "id":  11740,
+    "lang":  "el",
+    "name":  "Connector Hippo για Ταινίες LED 24V RGB SMD | IP65 | 4 Pins | PCB 10mm",
+    "reference":  "91903-PACK50",
+    "short_description":  "\u003cp\u003eΣυνδέστε τις ταινίες LED RGB σας γρήγορα και με ασφάλεια με το \u003cstrong\u003eConnector Hippo 4 pin\u003c/strong\u003e. Συμβατό με ταινίες SMD 10mm (12mm με θήκη σιλικόνης ή PVC), ο σχεδιασμός \u003cstrong\u003eIP65\u003c/strong\u003e εξασφαλίζει σταθερή και προστατευμένη σύνδεση, ιδανική για εσωτερική ή εξωτερική χρήση. \u003cstrong\u003eΕγκατάσταση χωρίς εργαλεία\u003c/strong\u003e, γρήγορη και αξιόπιστη.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eConnector Hippo για Ταινίες LED 24V RGB SMD | IP65 | 4 Pins | PCB 10mm\u003c/h2\u003e\n\u003cp\u003eConnector Hippo 4 pin για ταινίες LED RGB SMD 24V. Προστασία IP65. PCB 10mm. Εγκατάσταση χωρίς εργαλεία.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "Ταινίες LED και εύκαμπτο Neon",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon"
+                                    ]
+                       },
+                       {
+                           "id":  35,
+                           "name":  "Αξεσουάρ ταινιών LED",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon",
+                                        "Αξεσουάρ ταινιών LED"
+                                    ]
+                       },
+                       {
+                           "id":  218,
+                           "name":  "Ταινίες LED εξωτερικού χώρου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός LED εξωτερικού χώρου και κήπου",
+                                        "Ταινίες LED εξωτερικού χώρου"
+                                    ]
+                       },
+                       {
+                           "id":  225,
+                           "name":  "Αξεσουάρ ταινιών LED εξωτερικού χώρου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός LED εξωτερικού χώρου και κήπου",
+                                        "Ταινίες LED εξωτερικού χώρου",
+                                        "Αξεσουάρ ταινιών LED εξωτερικού χώρου"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1170,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1172,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "PCB",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  14255,
+                         "name":  "Κωδικός",
+                         "value":  "",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  16,
+                        "name":  "Αγοράστε περισσότερα και πληρώστε λιγότερο",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  208,
+                                           "name":  "Τεμάχια",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  22330,
+                         "model":  null,
+                         "reference":  "91903-UND",
+                         "barcode":  "8435612977891",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  15,
+                                               "height":  5
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  "https://www.factorled.com/web/image/product.product/22330/dimension_image",
+                         "options":  [
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Αγοράστε περισσότερα και πληρώστε λιγότερο",
+                                             "value_id":  208,
+                                             "value":  "Τεμάχια"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11740/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11740/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11740/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11740/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11740/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11740/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112038,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112038/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112038/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112038/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112038/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112038/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112038/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112039,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112039/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112039/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112039/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112039/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112039/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112039/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112040,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112040/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112040/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112040/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112040/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112040/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112040/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2025-10-07T11:36:42.889951",
+    "source_url":  "https://www.factorled.com/en/11740-hippo-connector-for-led-strips-24v-rgb-smd-ip65-4-pins-pcb-10mm.html"
+}

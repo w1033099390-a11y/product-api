@@ -1,0 +1,138 @@
+{
+    "id":  900077,
+    "lang":  "el",
+    "name":  "Προφίλ αλουμινίου 505 επιφανειακό 17.4x12.1mm 2m για ταινίες LED",
+    "reference":  "AP-505",
+    "short_description":  "\u003cp\u003eΤύπος Προφίλ αλουμινίου για ταινίες LED, μήκος 2 m; Διαστάσεις L17.4 x H12.1 mm; Περιλαμβάνει Οπάλ διαχύτης, τάπες άκρων και κλιπ στήριξης\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΠροφίλ αλουμινίου 505 επιφανειακό 17.4x12.1mm 2m για ταινίες LED\u003c/h2\u003e\u003ch3\u003eΤεχνικά χαρακτηριστικά\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eΤύπος\u003c/td\u003e\u003ctd\u003eΠροφίλ αλουμινίου για ταινίες LED, μήκος 2 m\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΔιαστάσεις\u003c/td\u003e\u003ctd\u003eL17.4 x H12.1 mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΠεριλαμβάνει\u003c/td\u003e\u003ctd\u003eΟπάλ διαχύτης, τάπες άκρων και κλιπ στήριξης\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Φωτισμός εσωτερικού χώρου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "Ταινίες LED και εύκαμπτο Neon",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon"
+                                    ]
+                       },
+                       {
+                           "id":  36,
+                           "name":  "Προφίλ αλουμινίου LED",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon",
+                                        "Προφίλ αλουμινίου LED"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  10710,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "L17.4 x H12.1 mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Άλλες πληροφορίες",
+                         "value":  "Τύπος: Προφίλ αλουμινίου για ταινίες LED, μήκος 2 m - Περιλαμβάνει: Οπάλ διαχύτης, τάπες άκρων και κλιπ στήριξης",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "Κωδικός",
+                         "value":  "AP-505",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000771,
+                         "model":  "AP-505",
+                         "reference":  "AP-505",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900077_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900077_0.jpg",
+                                     "1024":  "img/900077_0.jpg",
+                                     "512":  "img/900077_0.jpg",
+                                     "256":  "img/900077_0.jpg",
+                                     "128":  "img/900077_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900077_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900077_1.jpg",
+                                     "1024":  "img/900077_1.jpg",
+                                     "512":  "img/900077_1.jpg",
+                                     "256":  "img/900077_1.jpg",
+                                     "128":  "img/900077_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900077_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900077_2.jpg",
+                                     "1024":  "img/900077_2.jpg",
+                                     "512":  "img/900077_2.jpg",
+                                     "256":  "img/900077_2.jpg",
+                                     "128":  "img/900077_2.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/el/catalog/aluminium-profile-505-surface-174x121mm-2m-for-led-strips"
+}

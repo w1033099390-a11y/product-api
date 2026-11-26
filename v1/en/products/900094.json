@@ -1,0 +1,126 @@
+{
+    "id":  900094,
+    "lang":  "en",
+    "name":  "LED Controller 5-in-1 RGB/RGBW/RGB+CCT 2.4GHz",
+    "reference":  "185457",
+    "short_description":  "\u003cp\u003eSize 74.5*36*17MM; Type RGB/RGBW/RGB+CCT\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Controller 5-in-1 RGB/RGBW/RGB+CCT 2.4GHz\u003c/h2\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e74.5*36*17MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eType\u003c/td\u003e\u003ctd\u003eRGB/RGBW/RGB+CCT\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Indoor Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  37,
+                           "name":  "LED controllers",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED controllers"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "74.5*36*17MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "Type: RGB/RGBW/RGB+CCT",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "185457",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000941,
+                         "model":  "185457",
+                         "reference":  "185457",
+                         "barcode":  "6970602185457",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900094_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900094_0.jpg",
+                                     "1024":  "img/900094_0.jpg",
+                                     "512":  "img/900094_0.jpg",
+                                     "256":  "img/900094_0.jpg",
+                                     "128":  "img/900094_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900094_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900094_1.jpg",
+                                     "1024":  "img/900094_1.jpg",
+                                     "512":  "img/900094_1.jpg",
+                                     "256":  "img/900094_1.jpg",
+                                     "128":  "img/900094_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-controller-5-in-1-rgbrgbwrgbcct-24ghz"
+}

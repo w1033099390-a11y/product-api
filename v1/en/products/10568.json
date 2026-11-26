@@ -1,0 +1,152 @@
+{
+    "id":  10568,
+    "lang":  "en",
+    "name":  "Frame Fixed White LED GU10-MR16",
+    "reference":  "91811",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eSquare fixed ring\u003c/strong\u003e with a minimalist design that offers the possibility of quickly and easily installing all our halogen bulbs or any \u003cstrong\u003eGU10\u003c/strong\u003e product. \u003cstrong\u003eIts minimalist and avant-garde aesthetics\u003c/strong\u003e make it an ideal choice for enhancing elegance in spaces such as living rooms, bedrooms, bathrooms, or offices.\u003c/p\u003e\n\u003cp\u003eThis \u003cstrong\u003ewhite ring\u003c/strong\u003e not only fulfills an exceptional functionality but also adds a touch of sophistication to any environment in which it is installed.\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"color:#fc0202;\"\u003eCOMPATIBLE ONLY WITH LED BULBS, OTHER TYPES OF TECHNOLOGY MAY CAUSE DAMAGE TO THE INSTALLATION\u003c/span\u003e\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003eSquare Fixed White Ring for GU10-MR16 Dichroic\u003c/h2\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003eThe \u003cstrong\u003efixed white ring\u003c/strong\u003e for \u003cstrong\u003eGU10\u003c/strong\u003e is an elegant and functional lighting accessory, designed to provide a flexible and precise lighting solution indoors.\u003c/p\u003e\n\u003cp\u003eThe \u003cstrong\u003ewhite square frame\u003c/strong\u003e for GU10 and MR16 LED dichroic modules features a sleek finish that seamlessly integrates into any interior decor, adding a touch of sophistication. Additionally, its compact size and lightweight design make it easy to install and handle.\u003c/p\u003e\n\u003cp\u003eMade of \u003cstrong\u003ealuminum\u003c/strong\u003e with a \u003cstrong\u003ematte chrome finish\u003c/strong\u003e, the ring exudes elegance. It is recommended for use with GU10 or MR16 dichroic lamps, making it perfect for new constructions or replacing spotlights.\u003c/p\u003e\n\u003cp\u003eThese accessories are ideal for \u003cstrong\u003einstallation\u003c/strong\u003e in \u003cstrong\u003eindoor false ceilings\u003c/strong\u003e or drywall, requiring a simple cut for recessed mounting. What\u0027s practical about using this type of ring is the quick and easy replacement of the bulb without the need for a complete reinstall.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003eKey Features:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eIts minimalist and avant-garde aesthetic not only meets the most demanding aesthetic standards but also makes it the perfect choice for enhancing elegance in a variety of spaces. From living rooms to bedrooms, bathrooms, and offices, this fixed ring gracefully adapts to any environment, enhancing the atmosphere with its sophisticated presence.\u003c/li\u003e\n\u003cli\u003eTechnical features highlight its durability and efficiency. Manufactured with high-quality materials, it ensures a long lifespan and optimal performance. Furthermore, the ability to install various dichroic bulbs and GU10 products expands lighting options, allowing for complete customization based on user preferences.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003eAt FactorLED, we ensure that our products come with a QUALITY GUARANTEE and provide all the necessary elements for DISTRIBUTION, IMPORT, or WHOLESALE, including the technical specifications for each LED product.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  12,
+                           "name":  "LED Bulb Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "LED Bulb Accessories"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  646,
+                         "name":  "REFERENCE",
+                         "value":  "7207",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  1167,
+                         "name":  "Certifications",
+                         "value":  "CE",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1626,
+                         "name":  "Construction Material",
+                         "value":  "Aluminiun+PC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  9478,
+                         "name":  "Dimensions (mm)",
+                         "value":  "88*88mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  11636,
+                         "model":  "91811",
+                         "reference":  "91811",
+                         "barcode":  "8435612971752",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  10,
+                                               "height":  10
+                                           },
+                         "weight_kg":  0.15,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/10568/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/10568/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/10568/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/10568/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/10568/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/10568/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107165,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107165/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107165/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107165/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107165/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107165/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107165/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107166,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107166/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107166/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107166/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107166/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107166/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107166/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107167,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107167/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107167/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107167/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107167/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107167/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107167/image_128"
+                                 }
+                   },
+                   {
+                       "id":  107168,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/107168/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/107168/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/107168/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/107168/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/107168/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/107168/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-11-14T15:53:48.199123",
+    "source_url":  "https://www.factorled.com/en/10568-frame-fixed-white-led-gu10-mr16.html"
+}

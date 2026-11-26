@@ -1,0 +1,172 @@
+{
+    "id":  900007,
+    "lang":  "en",
+    "name":  "Aluminium Profile P5615 - Plaster-in Trimless 56x15mm - 2m - Straight or Bendable",
+    "reference":  "P5615",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003ePlaster-in (trimless) aluminium profile\u003c/strong\u003e for LED strips, 56 x 15 mm, with perforated wings that disappear under the plaster.\u003c/p\u003e\u003cp\u003eTwo versions: \u003cstrong\u003estraight\u003c/strong\u003e with opal PC diffuser, or \u003cstrong\u003epre-cut bendable\u003c/strong\u003e with silicone diffuser for curves. Each set: 2 m profile + 2 m diffuser + 4 end caps.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eAluminium Profile P5615 - Plaster-in Trimless 56x15mm - 2m - Straight or Bendable\u003c/h2\u003e\u003cp\u003eRecessed plaster-in profile with perforated wings. The bendable version is pre-cut so it can follow curved ceilings and walls, and uses a flexible silicone diffuser.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eMaterial\u003c/td\u003e\u003ctd\u003eAluminium + PC or silicone diffuser\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProfile size (W x H)\u003c/td\u003e\u003ctd\u003e56 x 15mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLength\u003c/td\u003e\u003ctd\u003e2m\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSet contents\u003c/td\u003e\u003ctd\u003e2m aluminium profile, 2m diffuser (PC for straight, silicone for bendable), 4 end caps\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eInstallation\u003c/td\u003e\u003ctd\u003ePlaster-in / trimless installation - bendable version for curves\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "path":  [
+                                        "Featured"
+                                    ],
+                           "name":  "Featured",
+                           "id":  3
+                       },
+                       {
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ],
+                           "name":  "LED Strips and Flexible Neon",
+                           "id":  31
+                       },
+                       {
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "Aluminum profiles LED"
+                                    ],
+                           "name":  "Aluminum profiles LED",
+                           "id":  36
+                       }
+                   ],
+    "features":  [
+                     {
+                         "icon":  null,
+                         "name":  "Construction Material",
+                         "id":  1642,
+                         "value":  "Aluminium + PC or silicone diffuser"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Dimensions (mm)",
+                         "id":  10710,
+                         "value":  "2000mm x 56 x 15mm"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Other Information",
+                         "id":  11689,
+                         "value":  "Plaster-in / trimless installation - bendable version for curves"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "REFERENCE",
+                         "id":  14352,
+                         "value":  "92411 / 92412"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "values":  [
+                                       {
+                                           "color":  null,
+                                           "name":  "Straight, PC diffuser, 2m",
+                                           "id":  null,
+                                           "icon":  null
+                                       },
+                                       {
+                                           "color":  null,
+                                           "name":  "Bendable (pre-cut), silicone diffuser, 2m",
+                                           "id":  null,
+                                           "icon":  null
+                                       }
+                                   ],
+                        "name":  "Version",
+                        "id":  3,
+                        "display_type":  "radio"
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000071,
+                         "model":  "92411",
+                         "reference":  "92411",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "width":  null,
+                                               "height":  null,
+                                               "length":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900007_1.jpg",
+                         "options":  [
+                                         {
+                                             "value":  "Straight, PC diffuser, 2m",
+                                             "value_id":  null,
+                                             "option":  "Version",
+                                             "option_id":  3
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  9000072,
+                         "model":  "92412",
+                         "reference":  "92412",
+                         "barcode":  null,
+                         "is_default":  false,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "width":  null,
+                                               "height":  null,
+                                               "length":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900007_1.jpg",
+                         "options":  [
+                                         {
+                                             "value":  "Bendable (pre-cut), silicone diffuser, 2m",
+                                             "value_id":  null,
+                                             "option":  "Version",
+                                             "option_id":  3
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900007_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900007_0.jpg",
+                                     "1024":  "img/900007_0.jpg",
+                                     "512":  "img/900007_0.jpg",
+                                     "256":  "img/900007_0.jpg",
+                                     "128":  "img/900007_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900007_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900007_1.jpg",
+                                     "1024":  "img/900007_1.jpg",
+                                     "512":  "img/900007_1.jpg",
+                                     "256":  "img/900007_1.jpg",
+                                     "128":  "img/900007_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:02",
+    "source_url":  null
+}

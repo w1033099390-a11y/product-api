@@ -1,0 +1,152 @@
+{
+    "id":  900106,
+    "lang":  "en",
+    "name":  "LED Panel 60x60cm 40W 3CCT Philips driver",
+    "reference":  "911420",
+    "short_description":  "\u003cp\u003ePower 40W; Beam Angle 90°; Size L595*W595*H32; CRI 90\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Panel 60x60cm 40W 3CCT Philips driver\u003c/h2\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e40W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam Angle\u003c/td\u003e\u003ctd\u003e90°\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003eL595*W595*H32\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003e90\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLumen\u003c/td\u003e\u003ctd\u003e4000LM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSelect\u003c/td\u003e\u003ctd\u003e3CCT\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection rating\u003c/td\u003e\u003ctd\u003eIP20\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWarranty\u003c/td\u003e\u003ctd\u003e3 years\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  167,
+                           "name":  "Professional Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  24,
+                           "name":  "LED Panels",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "LED Panels"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  4217,
+                         "name":  "Rated Power",
+                         "value":  "40W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "90°",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "L595*W595*H32",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "90",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "4000LM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  15001,
+                         "name":  "Colour Temperature (K)",
+                         "value":  "3CCT",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "911420",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001061,
+                         "model":  "911420",
+                         "reference":  "911420",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900106_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900106_0.jpg",
+                                     "1024":  "img/900106_0.jpg",
+                                     "512":  "img/900106_0.jpg",
+                                     "256":  "img/900106_0.jpg",
+                                     "128":  "img/900106_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900106_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900106_1.jpg",
+                                     "1024":  "img/900106_1.jpg",
+                                     "512":  "img/900106_1.jpg",
+                                     "256":  "img/900106_1.jpg",
+                                     "128":  "img/900106_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-panel-60x60cm-40w-3cct-philips-driver"
+}

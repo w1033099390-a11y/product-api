@@ -1,0 +1,232 @@
+{
+    "id":  900011,
+    "lang":  "en",
+    "name":  "LED Garden Spike Spotlight 6W 230V IP65 - CREE COB - 3000K - 40º - Ø45mm - Corten Brown",
+    "reference":  "6000mini-SP",
+    "short_description":  "\u003cp\u003eCompact \u003cstrong\u003eØ45 mm garden spotlight with ground spike\u003c/strong\u003e, 6W and 536 lm from a \u003cstrong\u003eCREE COB\u003c/strong\u003e LED, warm white \u003cstrong\u003e3000K\u003c/strong\u003e with a 40º beam. The head tilts and turns to light trees, plants, façades and paths.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDie-cast aluminium, IP65\u003c/strong\u003e, direct \u003cstrong\u003e230V\u003c/strong\u003e connection with built-in driver and 1.5 m cable. Finish: \u003cstrong\u003ecorten brown\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Garden Spike Spotlight 6W | IP65 | CREE\u003c/h2\u003e\u003cp\u003ePush the spike into the ground, aim the adjustable head and connect directly to 230V: the driver is built in. Ideal for accent lighting in gardens, flower beds, trees and building fronts.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eInput voltage\u003c/td\u003e\u003ctd\u003e220-240V, 50/60Hz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e6W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLED\u003c/td\u003e\u003ctd\u003eCREE CXA1304N COB, 1 pc\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLuminous flux\u003c/td\u003e\u003ctd\u003e536 lm (93.1 lm/W)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eColour temperature\u003c/td\u003e\u003ctd\u003e3000K\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003eRa 80\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam angle\u003c/td\u003e\u003ctd\u003e40º\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePower factor\u003c/td\u003e\u003ctd\u003e\u0026gt;0.9\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection\u003c/td\u003e\u003ctd\u003eIP65, IK05\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eHousing\u003c/td\u003e\u003ctd\u003eDie-cast aluminium, corten brown; ground spike\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCable\u003c/td\u003e\u003ctd\u003e1.5 m, 3 x 0.75mm²\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eDimensions\u003c/td\u003e\u003ctd\u003e70 x 66 x 245mm (head Ø45mm)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLifetime\u003c/td\u003e\u003ctd\u003e40,000 h\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWorking temperature\u003c/td\u003e\u003ctd\u003e-25 ~ +45ºC (outdoor)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWarranty\u003c/td\u003e\u003ctd\u003e5 years\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  38,
+                           "name":  "LED Outdoor and Garden Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "6W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "40º",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1186,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "40000h",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-25ºC ~ +45ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Construction Material",
+                         "value":  "Die-cast aluminium",
+                         "icon":  null
+                     },
+                     {
+                         "id":  5296,
+                         "name":  "Colour",
+                         "value":  "3000K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "536Lm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  7583,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "1 x CREE CXA1304N COB",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "70 x 66 x 245mm (Ø45mm head)",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "Ground spike - adjustable head - built-in driver - 1.5m cable 3x0.75mm² - IK05",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "92417",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  1,
+                        "name":  "Colour",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "Corten brown",
+                                           "color":  "#8B4A22",
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000111,
+                         "model":  "92417",
+                         "reference":  "92417",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  7,
+                                               "width":  6.6,
+                                               "height":  24.5
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900011_4.jpg",
+                         "options":  [
+                                         {
+                                             "option_id":  1,
+                                             "option":  "Colour",
+                                             "value_id":  null,
+                                             "value":  "Corten brown"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900011_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900011_0.jpg",
+                                     "1024":  "img/900011_0.jpg",
+                                     "512":  "img/900011_0.jpg",
+                                     "256":  "img/900011_0.jpg",
+                                     "128":  "img/900011_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900011_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900011_1.jpg",
+                                     "1024":  "img/900011_1.jpg",
+                                     "512":  "img/900011_1.jpg",
+                                     "256":  "img/900011_1.jpg",
+                                     "128":  "img/900011_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900011_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900011_2.jpg",
+                                     "1024":  "img/900011_2.jpg",
+                                     "512":  "img/900011_2.jpg",
+                                     "256":  "img/900011_2.jpg",
+                                     "128":  "img/900011_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900011_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900011_3.jpg",
+                                     "1024":  "img/900011_3.jpg",
+                                     "512":  "img/900011_3.jpg",
+                                     "256":  "img/900011_3.jpg",
+                                     "128":  "img/900011_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900011_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900011_4.jpg",
+                                     "1024":  "img/900011_4.jpg",
+                                     "512":  "img/900011_4.jpg",
+                                     "256":  "img/900011_4.jpg",
+                                     "128":  "img/900011_4.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:03",
+    "source_url":  null
+}

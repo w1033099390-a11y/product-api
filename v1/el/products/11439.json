@@ -1,0 +1,430 @@
+{
+    "id":  11439,
+    "lang":  "el",
+    "name":  "Λάμπα LED Globe 15W G95 300º E27 - OSRAM CHIP DURIS E 2835",
+    "reference":  "G9515WOSR-91350",
+    "short_description":  "\u003cp\u003eΦωτίστε τους χώρους σας με στυλ και απόδοση με αυτή τη \u003cstrong\u003eλάμπα LED Globe 15W\u003c/strong\u003e. Ο σχεδιασμός G95 και η γωνία δέσμης \u003cstrong\u003e300°\u003c/strong\u003e εγγυώνται ομοιογενές φως χωρίς σκιές. Εξοπλισμένη με \u003cstrong\u003echip OSRAM DURIS E 2835\u003c/strong\u003e, προσφέρει \u003cstrong\u003eυψηλή ποιότητα φωτός, CRI μεγαλύτερο από 80 και εξαιρετική ενεργειακή απόδοση\u003c/strong\u003e. Ιδανική για σπίτια, επιχειρήσεις και διακοσμητικά έργα που αναζητούν μια μοντέρνα και λειτουργική πινελιά.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eΑντικαθιστά λάμπες έως 120W\u003c/strong\u003e με μειωμένη κατανάλωση.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΛάμπα LED Globe 15W G95 300º E27 - OSRAM CHIP DURIS E 2835\u003c/h2\u003e\n\u003cp\u003eΛάμπα LED Globe G95 με ντουί E27. 15W, γωνία δέσμης 300º. Chip OSRAM DURIS E 2835 για υψηλή φωτεινή απόδοση.\u003c/p\u003e\n\u003ch3\u003eΧρήσεις: Διακοσμητικός φωτισμός, εστιατόρια, ξενοδοχεία, σπίτι.\u003c/h3\u003e",
+    "brand":  {
+                  "id":  2,
+                  "name":  "OSRAM Chip",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/2/logo?unique=1793795575"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "Λάμπες LED \u0026 Φωτιστικά",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "Λάμπες LED ανά τύπο βάσης",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά τύπο βάσης"
+                                    ]
+                       },
+                       {
+                           "id":  5,
+                           "name":  "Λάμπες LED E27",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά τύπο βάσης",
+                                        "Λάμπες LED E27"
+                                    ]
+                       },
+                       {
+                           "id":  178,
+                           "name":  "Λάμπες LED ανά μέγεθος",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά μέγεθος"
+                                    ]
+                       },
+                       {
+                           "id":  182,
+                           "name":  "Λάμπες LED G95",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Λάμπες LED \u0026 Φωτιστικά",
+                                        "Λάμπες LED ανά μέγεθος",
+                                        "Λάμπες LED G95"
+                                    ]
+                       },
+                       {
+                           "id":  328,
+                           "name":  "Μάρκες",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Μάρκες"
+                                    ]
+                       },
+                       {
+                           "id":  329,
+                           "name":  "Osram",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Μάρκες",
+                                        "Osram"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  766,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "15W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  857,
+                         "name":  "Χρώμα",
+                         "value":  "2700K-4000K-6000K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  864,
+                         "name":  "CRI - Δείκτης χρωματικής απόδοσης",
+                         "value":  "75",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Ενεργειακή κλάση (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1011,
+                         "name":  "Αριθμός \u0026 τύπος LED",
+                         "value":  "SMD",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  1046,
+                         "name":  "Γωνία δέσμης (º)",
+                         "value":  "300º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1081,
+                         "name":  "Φωτεινή απόδοση LED (Lm/W)",
+                         "value":  "110 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1143,
+                         "name":  "Φωτεινή απόδοση (Lm/W)",
+                         "value":  "130 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1556,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "Φ95*H140mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Συχνότητα (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Εύρος θερμοκρασίας (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "Κύκλοι ON/OFF",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Χρόνος εκκίνησης (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1625,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Επιβραδυντικό φλόγας θερμοπλαστικό",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1806,
+                         "name":  "Ενεργειακή κλάση (2023 - UE-2019/2015)",
+                         "value":  "A",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  3286,
+                         "name":  "Κωδικός",
+                         "value":  "G9515WOSR",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  6495,
+                         "name":  "Φωτεινή ροή (Lm)",
+                         "value":  "1500Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  8668,
+                         "name":  "Διάρκεια ζωής LED (ώρες)",
+                         "value":  "30000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  2,
+                        "name":  "Θερμοκρασία χρώματος",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  4,
+                                           "name":  "Ουδέτερο λευκό - 4000K",
+                                           "color":  "#FFE9C4",
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  3,
+                                           "name":  "Ψυχρό λευκό - 6000K",
+                                           "color":  "#D4E2FF",
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  19430,
+                         "model":  "913516",
+                         "reference":  "G9515WOSR-91351",
+                         "barcode":  "8435612957466",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  10,
+                                               "width":  9.8,
+                                               "height":  14.4
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Θερμοκρασία χρώματος",
+                                             "value_id":  4,
+                                             "value":  "Ουδέτερο λευκό - 4000K"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  19431,
+                         "model":  "913523",
+                         "reference":  "G9515WOSR-91352",
+                         "barcode":  "8435612957473",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  10,
+                                               "width":  9.8,
+                                               "height":  14.4
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Θερμοκρασία χρώματος",
+                                             "value_id":  3,
+                                             "value":  "Ψυχρό λευκό - 6000K"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11439/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11439/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11439/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11439/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11439/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11439/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82582,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82582/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82582/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82582/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82582/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82582/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82582/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82583,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82583/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82583/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82583/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82583/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82583/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82583/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82584,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82584/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82584/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82584/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82584/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82584/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82584/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82585,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82585/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82585/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82585/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82585/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82585/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82585/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82586,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82586/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82586/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82586/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82586/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82586/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82586/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82587,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82587/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82587/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82587/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82587/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82587/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82587/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82588,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82588/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82588/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82588/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82588/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82588/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82588/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82589,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82589/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82589/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82589/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82589/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82589/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82589/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82590,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82590/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82590/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82590/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82590/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82590/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82590/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82591,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82591/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82591/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82591/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82591/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82591/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82591/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  50,
+    "is_new":  false,
+    "published_at":  "2025-01-14T09:34:17.039130",
+    "source_url":  "https://www.factorled.com/en/11439-led-globe-bulb-15w-g95-300-e27-osram-chip-duris-e-2835.html"
+}

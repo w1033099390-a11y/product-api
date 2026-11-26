@@ -1,0 +1,432 @@
+{
+    "id":  10285,
+    "lang":  "en",
+    "name":  "LED Ceiling Light 24W 20W 16W | SMD2835 OSRAM CHIP 3CCT 150Lm/W | Radar Motion Sensor | IP20",
+    "reference":  "CL24WOSR-SEN-CCT-91133",
+    "short_description":  "\u003cp\u003eCeiling light with MOTION SENSOR CCT - OSRAM CHIP DURIS E 2835 LED surface-mounted with a white finish and selectable power of 24W-20W-16W, is a product specially designed for energy saving.\u003c/p\u003e\n\u003cp\u003eThe radar sensor in an LED luminaire provides precise, reliable, and versatile motion detection, with the ability to overcome obstacles and adapt to different environmental conditions. This results in increased comfort, safety, and energy efficiency in the use of LED lighting.\u003c/p\u003e\n\u003cp\u003eIt can be used automatically and efficiently in hallways, bathrooms, garages, warehouses, and stairs. It increases security, comfort, and SAVINGS!\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003eLED Ceiling Light - MicroWave Detector 24W - 20W- 16W - Motion Sensor - 2700K+CCT - OSRAM CHIP\u003c/h2\u003e\n\u003cp\u003eDiscover the Circular Surface LED Ceiling Light, the perfect ally for illuminating your spaces with efficiency and comfort!\u003c/p\u003e\n\u003cp\u003eThis innovative LED ceiling light stands out for its adjustable power, allowing you to adjust the light intensity according to your needs. With options of 24W, 22W, 20W, and 18W, you have full control over the level of illumination you desire at any given moment.\u003c/p\u003e\n\u003cp\u003eBut that\u0027s not all, this LED ceiling light comes equipped with an advanced radar microwave motion sensor. Thanks to this cutting-edge technology, the ceiling light can detect subtle movements in its surroundings, providing an instant and reliable response. Whether you need lighting in hallways, stairs, bathrooms, or other areas of your home or workplace, this LED ceiling light will adapt to your needs.\u003c/p\u003e\n\u003cp\u003eIn addition to its power and functionality, this LED ceiling light offers a selection of CCT colors, allowing you to create the perfect atmosphere in your spaces. From warm tones of 2700K to a brighter and cooler illumination of 4000K-5700K, you can adjust the color of the light according to your preferences and the ambiance you want to create.\u003c/p\u003e\n\u003cp\u003eQuality is also found at its core, as this LED ceiling light is equipped with the renowned OSRAM E Duris SMD2835 chip. This chip ensures uniform lighting, exceptional durability, and energy efficiency, allowing you to enjoy high-quality illumination for years to come.\u003c/p\u003e\n\u003cp\u003eFurthermore, its carefully designed appearance stands out with elegance. With a diameter of 31 cm and a height of just 70 mm, this LED ceiling light is compact and discreet, fitting perfectly with any style of decor. Its circular surface finish complements any environment, adding a touch of sophistication to your spaces.\u003c/p\u003e\n\u003cp\u003eAnd let\u0027s not forget to mention its high-quality motion sensor, which has an impressive range of up to 8 meters. This guarantees precise and efficient detection, regardless of the room size. You\u0027ll save energy by having lighting that only activates when necessary, providing comfort and contributing to environmental conservation.\u003c/p\u003e\n\u003cp\u003eThe motion sensor ceiling light can be used in a variety of places where efficient and automatic lighting is required. Here are some examples of where it can be used:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eHallways and passageways: The motion sensor ceiling light is perfect for illuminating hallways, corridors, and traffic areas in homes, offices, hotels, or public buildings. Motion detection will automatically turn on the light when someone approaches, providing safe and convenient lighting.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eBathrooms and toilets: In spaces such as bathrooms and toilets, the motion sensor ceiling light is especially useful. When someone enters the area, the sensor will detect their presence and turn on the light, avoiding the need to search for switches in the dark.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eGarages and parking areas: Motion sensor ceiling lights are ideal for garages and parking areas, as they can automatically illuminate the area when the presence of a vehicle or person is detected. This improves safety and comfort when entering and exiting these spaces.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eWarehouses and industrial spaces: In industrial environments or warehouses, where lighting is only needed when there is activity, the motion sensor ceiling light offers an efficient solution. The light will automatically turn on when someone enters the area and turn off when there is no motion, saving energy and reducing lighting costs.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eBuilding staircases and corridors: For residential or commercial buildings with common staircases or corridors, motion sensor ceiling lights are excellent for providing lighting when someone approaches, enhancing the safety and comfort of residents or visitors.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIts versatility, combined with features such as adjustable power, radar microwave motion detection, CCT color options, and elegant design, make it an ideal choice for improving lighting in a wide range of environments.\u003c/p\u003e\n\u003cp\u003eAt our online store, FactorLED, we ensure that our products are of QUALITY and provide all the necessary elements for DISTRIBUTION, IMPORTATION, or WHOLESALE, including the technical specifications for each LED product.\u003c/p\u003e",
+    "brand":  {
+                  "id":  2,
+                  "name":  "OSRAM Chip",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/2/logo?unique=1793795575"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Indoor Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  22,
+                           "name":  "Ceiling and LED Surface",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Ceiling and LED Surface"
+                                    ]
+                       },
+                       {
+                           "id":  202,
+                           "name":  "Motion Sensor Ceiling Lights",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Ceiling and LED Surface",
+                                        "Motion Sensor Ceiling Lights"
+                                    ]
+                       },
+                       {
+                           "id":  311,
+                           "name":  "Industrial Ceiling Lights",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Ceiling Lights"
+                                    ]
+                       },
+                       {
+                           "id":  293,
+                           "name":  "Office Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  295,
+                           "name":  "Office Ceiling Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting",
+                                        "Office Ceiling Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  303,
+                           "name":  "Office Ceiling Lights",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting",
+                                        "Office Ceiling Lights"
+                                    ]
+                       },
+                       {
+                           "id":  328,
+                           "name":  "Brands",
+                           "path":  [
+                                        "Featured",
+                                        "Brands"
+                                    ]
+                       },
+                       {
+                           "id":  329,
+                           "name":  "Osram",
+                           "path":  [
+                                        "Featured",
+                                        "Brands",
+                                        "Osram"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  856,
+                         "name":  "Colour",
+                         "value":  "2700K-4000K-5700K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  865,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "85",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1032,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "SMD 2835 OSRAM CHIP",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1100,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "150 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1128,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "110 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1183,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "40000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1633,
+                         "name":  "Construction Material",
+                         "value":  "Polycarbonate",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1739,
+                         "name":  "Control modes",
+                         "value":  "RADAR",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/36/icon"
+                     },
+                     {
+                         "id":  1754,
+                         "name":  "Glare Rating (UGR)",
+                         "value":  "19",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/37/icon"
+                     },
+                     {
+                         "id":  1764,
+                         "name":  "Driver included",
+                         "value":  "YES",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/39/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1788,
+                         "name":  "Range (m)",
+                         "value":  "6 m.",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/42/icon"
+                     },
+                     {
+                         "id":  1811,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "F",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  4326,
+                         "name":  "Rated Power",
+                         "value":  "24W - 20W - 16W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  6604,
+                         "name":  "Luminosity-Lm",
+                         "value":  "2640Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  9272,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø310mm x H70mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  14250,
+                         "name":  "REFERENCE",
+                         "value":  "CL24WOSR-SEN-CCT-91133",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  11187,
+                         "model":  "911338",
+                         "reference":  "CL24WOSR-SEN-CCT-91133",
+                         "barcode":  "8435612964518",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  7,
+                                               "width":  34,
+                                               "height":  34
+                                           },
+                         "weight_kg":  0.68,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/10285/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/10285/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/10285/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/10285/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/10285/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/10285/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108390,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108390/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108390/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108390/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108390/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108390/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108390/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108391,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108391/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108391/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108391/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108391/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108391/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108391/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108389,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108389/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108389/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108389/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108389/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108389/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108389/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108392,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108392/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108392/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108392/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108392/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108392/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108392/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108393,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108393/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108393/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108393/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108393/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108393/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108393/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108394,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108394/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108394/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108394/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108394/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108394/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108394/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108395,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108395/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108395/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108395/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108395/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108395/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108395/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108396,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108396/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108396/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108396/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108396/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108396/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108396/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108397,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108397/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108397/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108397/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108397/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108397/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108397/image_128"
+                                 }
+                   },
+                   {
+                       "id":  108398,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/108398/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/108398/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/108398/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/108398/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/108398/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/108398/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-08-10T09:41:40.150386",
+    "source_url":  "https://www.factorled.com/en/10285-led-ceiling-light-microwave-detector-24w-20w-16w-motion-sensor-2700k-cct-osram-c.html"
+}

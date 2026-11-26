@@ -1,0 +1,370 @@
+{
+    "id":  11246,
+    "lang":  "en",
+    "name":  "Dichroic LED RGB + 3000K - 8W 110º GU10 with Remote Control",
+    "reference":  "GU10-RGB-92034",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eDichroic LED 8W RGB + 3000K GU10\u003c/strong\u003e. This versatile bulb combines RGB colors with \u003cstrong\u003ewarm white light\u003c/strong\u003e to offer customized lighting to your taste. Includes a \u003cstrong\u003eremote control\u003c/strong\u003e for easy and convenient control, allowing you to adjust the atmosphere of any room according to your needs.\u003c/p\u003e\n\u003cp\u003ePerfect for decorating and creating indoor atmospheres, this 8W bulb allows you to create the ideal atmosphere with style and efficiency. Add a touch of color and warmth to your home today!\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003e\u003cstrong\u003eRGB + 3000K LED Dichroic Bulb - 8W 110º GU10 with Remote Control\u003c/strong\u003e\u003c/h2\u003e\n\u003cp\u003eThe \u003cstrong\u003e8W RGB + 3000K GU10 Dichroic LED Bulb\u003c/strong\u003e combines 16 million RGB colors with warm 3000K white.\u003c/p\u003e\n\u003ch2\u003eKey Features:\u003c/h2\u003e\n\u003cp\u003e\u003cstrong\u003e1. Customizable Lighting\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e2. Remote Control\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e3. Energy Efficient:\u003c/strong\u003e 8W LED\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e4. Versatility:\u003c/strong\u003e Standard GU10 fitting\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e5. Advanced Lighting Modes\u003c/strong\u003e\u003c/p\u003e\n\u003ch3\u003eApplications: Modern homes, creative offices, commercial spaces, special events.\u003c/h3\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "LED Bulbs by Base Type",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type"
+                                    ]
+                       },
+                       {
+                           "id":  7,
+                           "name":  "GU10 \u0026 MR16 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "GU10 \u0026 MR16 LED Bulbs"
+                                    ]
+                       },
+                       {
+                           "id":  189,
+                           "name":  "Smart/RGB LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "Decorative LED Bulbs",
+                                        "Smart/RGB LED Bulbs"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  779,
+                         "name":  "Rated Power",
+                         "value":  "8W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  890,
+                         "name":  "Luminosity-Lm",
+                         "value":  "700Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1011,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "SMD",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  1071,
+                         "name":  "Beam Angle (º)",
+                         "value":  "110º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1076,
+                         "name":  "Dimmable",
+                         "value":  "YES",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/11/icon"
+                     },
+                     {
+                         "id":  1081,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "110 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1115,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "70 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1155,
+                         "name":  "Base",
+                         "value":  "GU10",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/14/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1625,
+                         "name":  "Construction Material",
+                         "value":  "Flame retardant thermoplastic",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1737,
+                         "name":  "Control modes",
+                         "value":  "Infrared",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/36/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1790,
+                         "name":  "Range (m)",
+                         "value":  "8 m.",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/42/icon"
+                     },
+                     {
+                         "id":  3855,
+                         "name":  "REFERENCE",
+                         "value":  "GU10-RGB-92034",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  4952,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-265V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  5702,
+                         "name":  "Colour",
+                         "value":  "RGB + 3000K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  10608,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø50x55 mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  11557,
+                         "name":  "Other Information",
+                         "value":  "Battery included",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/25/icon"
+                     },
+                     {
+                         "id":  13601,
+                         "name":  "Units per masterbox",
+                         "value":  "50",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/88/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  19021,
+                         "model":  "920347",
+                         "reference":  "GU10-RGB-92034",
+                         "barcode":  "8435612918153",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  7,
+                                               "width":  7,
+                                               "height":  7
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11246/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11246/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11246/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11246/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11246/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11246/image_128"
+                                 }
+                   },
+                   {
+                       "id":  98002,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/98002/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/98002/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/98002/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/98002/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/98002/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/98002/image_128"
+                                 }
+                   },
+                   {
+                       "id":  98003,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/98003/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/98003/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/98003/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/98003/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/98003/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/98003/image_128"
+                                 }
+                   },
+                   {
+                       "id":  98004,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/98004/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/98004/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/98004/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/98004/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/98004/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/98004/image_128"
+                                 }
+                   },
+                   {
+                       "id":  98005,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/98005/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/98005/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/98005/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/98005/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/98005/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/98005/image_128"
+                                 }
+                   },
+                   {
+                       "id":  98006,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/98006/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/98006/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/98006/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/98006/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/98006/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/98006/image_128"
+                                 }
+                   },
+                   {
+                       "id":  98007,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/98007/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/98007/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/98007/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/98007/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/98007/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/98007/image_128"
+                                 }
+                   },
+                   {
+                       "id":  98008,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/98008/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/98008/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/98008/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/98008/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/98008/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/98008/image_128"
+                                 }
+                   },
+                   {
+                       "id":  98009,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/98009/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/98009/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/98009/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/98009/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/98009/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/98009/image_128"
+                                 }
+                   },
+                   {
+                       "id":  98010,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/98010/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/98010/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/98010/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/98010/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/98010/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/98010/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2024-09-04T11:52:41.364523",
+    "source_url":  "https://www.factorled.com/en/11246-dichroic-led-rgb-3000k-8w-110-gu10-with-remote-control.html"
+}

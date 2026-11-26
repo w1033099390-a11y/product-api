@@ -1,0 +1,152 @@
+{
+    "id":  900044,
+    "lang":  "en",
+    "name":  "iKinetic DD02 RF433 DC PWM Dimmer 12-48V - 2 Channels 2 x 5A - for Single-Colour LED Strips",
+    "reference":  "DD02",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eCompact 2-channel PWM dimmer for 12-48V single-colour LED strips, 5A per channel - two strips dimmed independently. Smooth 0.1-100% logarithmic dimming; push-dim with a standard push switch.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePart of the iKinetic RF433 wireless lighting control system: pair the receiver with iKinetic kinetic (battery-free) wall switches such as IK01 and place the switch anywhere - no new wiring needed. Encrypted RF transmission, memory for up to 10 switches per receiver, settings kept after a power cut.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eiKinetic DD02 RF433 DC PWM Dimmer 12-48V - 2 Channels 2 x 5A - for Single-Colour LED Strips\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eCompact 2-channel PWM dimmer for 12-48V single-colour LED strips, 5A per channel - two strips dimmed independently. Smooth 0.1-100% logarithmic dimming; push-dim with a standard push switch.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePart of the iKinetic RF433 wireless lighting control system: pair the receiver with iKinetic kinetic (battery-free) wall switches such as IK01 and place the switch anywhere - no new wiring needed. Encrypted RF transmission, memory for up to 10 switches per receiver, settings kept after a power cut.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eType\u003c/td\u003e\u003ctd\u003eDC PWM dimmer\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eChannels\u003c/td\u003e\u003ctd\u003e2\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eInput / output voltage\u003c/td\u003e\u003ctd\u003e12-48V DC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOutput current\u003c/td\u003e\u003ctd\u003eMax. 2 x 5A\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLoad\u003c/td\u003e\u003ctd\u003e12V \u0026lt;120W, 24V \u0026lt;240W, 36V \u0026lt;360W, 48V \u0026lt;480W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePWM frequency\u003c/td\u003e\u003ctd\u003e4kHz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eDimming curve\u003c/td\u003e\u003ctd\u003e0.1-100% logarithmic, adjustable minimum\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eRadio frequency\u003c/td\u003e\u003ctd\u003eRF433MHz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eMemory\u003c/td\u003e\u003ctd\u003eUp to 10 switches\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWall switch\u003c/td\u003e\u003ctd\u003ePush switch (push-dim)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eTerminals\u003c/td\u003e\u003ctd\u003eScrew-free, 0.8-2.5mm²\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eHousing\u003c/td\u003e\u003ctd\u003eUL 94-V0\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection\u003c/td\u003e\u003ctd\u003eIP20\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWorking temperature\u003c/td\u003e\u003ctd\u003eTa -20 ~ +40ºC (Tc 85ºC)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eDimensions\u003c/td\u003e\u003ctd\u003e42 x 42 x 16.5mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWarranty\u003c/td\u003e\u003ctd\u003e5 years\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003cp\u003eThis is the RF433-only version. Install at least 20 cm away from metal surfaces and strong electromagnetic sources; switch off the power before wiring. Switches are sold separately.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  78,
+                           "name":  "Home automation",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Home automation"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "DC12-48V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "120W (12V) / 240W (24V) / 480W (48V)",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1745,
+                         "name":  "Control modes",
+                         "value":  "RF433 + push-dim",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +40ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "42 x 42 x 16.5mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "2 channels PWM 4kHz - 2 x 5A - 0.1-100% logarithmic dimming - up to 10 switches",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "DD02",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000441,
+                         "model":  "DD02",
+                         "reference":  "DD02",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  4.2,
+                                               "width":  4.2,
+                                               "height":  1.65
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900044_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900044_0.jpg",
+                                     "1024":  "img/900044_0.jpg",
+                                     "512":  "img/900044_0.jpg",
+                                     "256":  "img/900044_0.jpg",
+                                     "128":  "img/900044_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900044_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900044_1.jpg",
+                                     "1024":  "img/900044_1.jpg",
+                                     "512":  "img/900044_1.jpg",
+                                     "256":  "img/900044_1.jpg",
+                                     "128":  "img/900044_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:03:55",
+    "source_url":  null
+}

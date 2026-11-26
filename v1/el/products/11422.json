@@ -1,0 +1,245 @@
+{
+    "id":  11422,
+    "lang":  "el",
+    "name":  "Σποτ ράγας - EMMEN WHITE - για λάμπα GU10 - Μονοφασικό",
+    "reference":  "TKMW-91338",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eΜονοφασικό σποτ ράγας για λάμπες GU10,\u003c/strong\u003e \u003cstrong\u003eκατασκευασμένο από σίδηρο\u003c/strong\u003e, συνδυάζει ευελιξία και λειτουργικό σχεδιασμό. Η εύκολη εγκατάσταση και η ρυθμιζόμενη κατεύθυνση επιτρέπουν τον προσανατολισμό του φωτός προς οποιαδήποτε κατεύθυνση, ιδανικό για την προσαρμογή του φωτισμού στις ανάγκες σας. Ιδανικό για γωνιές ανάγνωσης, βιτρίνες ή παρουσιάσεις προϊόντων.\u003cbr\u003e\u003cbr\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eΜια πρακτική και κομψή λύση για να αναδείξετε τους χώρους σας!\u003c/strong\u003e\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΣποτ ράγας - EMMEN WHITE - για λάμπα GU10 - Μονοφασικό\u003c/h2\u003e\n\u003cp\u003eΛευκό μονοφασικό σποτ ράγας EMMEN για λάμπες GU10. Κατασκευή από αλουμίνιο, ρυθμιζόμενη κεφαλή.\u003c/p\u003e\n\u003ch3\u003eΧρήσεις: Καταστήματα, προθήκες, εκθέσεις.\u003c/h3\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  27,
+                           "name":  "Φωτισμός για καταστήματα και λιανική",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική"
+                                    ]
+                       },
+                       {
+                           "id":  30,
+                           "name":  "Αξεσουάρ για Μονοφασική ράγα LED",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός για καταστήματα και λιανική",
+                                        "Ράγα φωτισμού LED",
+                                        "Σειρά μονοφασικής ράγας",
+                                        "Αξεσουάρ για Μονοφασική ράγα LED"
+                                    ]
+                       },
+                       {
+                           "id":  322,
+                           "name":  "Εμπορικός φωτισμός",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Εμπορικός φωτισμός"
+                                    ]
+                       },
+                       {
+                           "id":  320,
+                           "name":  "Φωτισμός καταστημάτων λιανικής",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Εμπορικός φωτισμός",
+                                        "Φωτισμός καταστημάτων λιανικής"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1155,
+                         "name":  "Βάση",
+                         "value":  "GU10",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/14/icon"
+                     },
+                     {
+                         "id":  1170,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1646,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Χάλυβας + ABS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1816,
+                         "name":  "Κύριο χρώμα",
+                         "value":  "Λευκό",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/62/icon"
+                     },
+                     {
+                         "id":  3599,
+                         "name":  "Κωδικός",
+                         "value":  "TKMW-91338",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  9882,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "54mm x 181mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  13601,
+                         "name":  "Τεμάχια ανά master box",
+                         "value":  "50",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/88/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  19413,
+                         "model":  "913387",
+                         "reference":  "TKMW-91338",
+                         "barcode":  "8435612955523",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  8,
+                                               "width":  12.5,
+                                               "height":  15
+                                           },
+                         "weight_kg":  0.18,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11422/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11422/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11422/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11422/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11422/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11422/image_128"
+                                 }
+                   },
+                   {
+                       "id":  62389,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/62389/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/62389/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/62389/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/62389/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/62389/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/62389/image_128"
+                                 }
+                   },
+                   {
+                       "id":  62390,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/62390/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/62390/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/62390/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/62390/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/62390/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/62390/image_128"
+                                 }
+                   },
+                   {
+                       "id":  62391,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/62391/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/62391/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/62391/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/62391/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/62391/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/62391/image_128"
+                                 }
+                   },
+                   {
+                       "id":  62392,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/62392/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/62392/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/62392/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/62392/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/62392/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/62392/image_128"
+                                 }
+                   },
+                   {
+                       "id":  62393,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/62393/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/62393/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/62393/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/62393/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/62393/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/62393/image_128"
+                                 }
+                   },
+                   {
+                       "id":  62394,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/62394/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/62394/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/62394/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/62394/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/62394/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/62394/image_128"
+                                 }
+                   },
+                   {
+                       "id":  62395,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/62395/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/62395/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/62395/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/62395/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/62395/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/62395/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  50,
+    "is_new":  false,
+    "published_at":  "2025-01-13T09:33:31.228512",
+    "source_url":  "https://www.factorled.com/en/11422-track-spotlight-emmen-white-for-gu10-lamp-single-phase.html"
+}

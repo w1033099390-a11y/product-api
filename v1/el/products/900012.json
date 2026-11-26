@@ -1,0 +1,202 @@
+{
+    "id":  900012,
+    "lang":  "el",
+    "name":  "Σποτ κήπου LED με καρφί τετράγωνο 7W 230V IP65 - COB - 3000K - 40º - Καφέ corten",
+    "reference":  "92418",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eΤετράγωνο σποτ κήπου με καρφί εδάφους\u003c/strong\u003e, 7W και 500 lm, θερμό λευκό \u003cstrong\u003e3000K\u003c/strong\u003e LED COB με ανακλαστήρα 40º. Η κεφαλή γέρνει για να φωτίζει δέντρα, φυτά, προσόψεις και διαδρόμους.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eΑλουμίνιο και γυαλί, IP65\u003c/strong\u003e, απευθείας σύνδεση \u003cstrong\u003e230V\u003c/strong\u003e με στεγανό συνδετήρα καλωδίου IP68. Φινίρισμα: \u003cstrong\u003eκαφέ corten\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΣποτ κήπου LED με καρφί τετράγωνο 7W | IP65 | 3000K\u003c/h2\u003e\u003cp\u003eΚαρφώστε το στο έδαφος, στρέψτε τη ρυθμιζόμενη τετράγωνη κεφαλή και συνδέστε στα 230V με τον στεγανό συνδετήρα. Ιδανικό για φωτισμό έμφασης σε κήπους, παρτέρια, δέντρα και προσόψεις κτιρίων.\u003c/p\u003e\u003ch3\u003eΤεχνικά στοιχεία\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eΤάση εισόδου\u003c/td\u003e\u003ctd\u003e220-240V\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΙσχύς\u003c/td\u003e\u003ctd\u003e7W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΡεύμα\u003c/td\u003e\u003ctd\u003e53mA\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΦωτεινή ροή\u003c/td\u003e\u003ctd\u003e500 lm (φωτιστικό), 550 lm (μονάδα LED)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΘερμοκρασία χρώματος\u003c/td\u003e\u003ctd\u003e3000K\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΓωνία δέσμης\u003c/td\u003e\u003ctd\u003e40º\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΠροστασία\u003c/td\u003e\u003ctd\u003eIP65\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΚλάση μόνωσης\u003c/td\u003e\u003ctd\u003eΚλάση I\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΥλικό\u003c/td\u003e\u003ctd\u003eΑλουμίνιο + γυαλί, φινίρισμα καφέ corten· καρφί εδάφους\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΣύνδεση\u003c/td\u003e\u003ctd\u003eΚαλώδιο 30 cm 3 x 1,0mm², στεγανός συνδετήρας IP68\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΔιαστάσεις\u003c/td\u003e\u003ctd\u003e50 x 50 x 255mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΔιάρκεια ζωής\u003c/td\u003e\u003ctd\u003e25.000 ώρες\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΘερμοκρασία λειτουργίας\u003c/td\u003e\u003ctd\u003e-20 ~ +45ºC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΕγγύηση\u003c/td\u003e\u003ctd\u003e3 έτη\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  38,
+                           "name":  "Φωτισμός LED εξωτερικού χώρου και κήπου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός LED εξωτερικού χώρου και κήπου"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "7W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "AC220-240V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Γωνία δέσμης (º)",
+                         "value":  "40º",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1186,
+                         "name":  "Διάρκεια ζωής LED (ώρες)",
+                         "value":  "25000h",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Εύρος θερμοκρασίας (ºC)",
+                         "value":  "-20ºC ~ +45ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Αλουμίνιο + γυαλί",
+                         "icon":  null
+                     },
+                     {
+                         "id":  5296,
+                         "name":  "Χρώμα",
+                         "value":  "3000K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Φωτεινή ροή (Lm)",
+                         "value":  "500Lm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  7583,
+                         "name":  "Αριθμός \u0026 τύπος LED",
+                         "value":  "COB",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "50 x 50 x 255mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Άλλες πληροφορίες",
+                         "value":  "Καρφί εδάφους - ρυθμιζόμενη τετράγωνη κεφαλή - καλώδιο 30cm 3x1,0mm² με συνδετήρα IP68 - Κλάση I",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "Κωδικός",
+                         "value":  "92418",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "3",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  1,
+                        "name":  "Χρώμα",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "Καφέ corten",
+                                           "color":  "#7A4A2A",
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000121,
+                         "model":  "92418",
+                         "reference":  "92418",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  5,
+                                               "height":  25.5
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  1,
+                                             "option":  "Χρώμα",
+                                             "value_id":  null,
+                                             "value":  "Καφέ corten"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900012_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900012_0.jpg",
+                                     "1024":  "img/900012_0.jpg",
+                                     "512":  "img/900012_0.jpg",
+                                     "256":  "img/900012_0.jpg",
+                                     "128":  "img/900012_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900012_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900012_1.jpg",
+                                     "1024":  "img/900012_1.jpg",
+                                     "512":  "img/900012_1.jpg",
+                                     "256":  "img/900012_1.jpg",
+                                     "128":  "img/900012_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900012_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900012_2.jpg",
+                                     "1024":  "img/900012_2.jpg",
+                                     "512":  "img/900012_2.jpg",
+                                     "256":  "img/900012_2.jpg",
+                                     "128":  "img/900012_2.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  25,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:04",
+    "source_url":  null
+}

@@ -1,0 +1,200 @@
+{
+    "id":  900052,
+    "lang":  "en",
+    "name":  "Magnetic Track Linear Light 48V 24W - Opal Diffuser - CCT 3000K/4000K/6500K - CRI90 - 120º - Black",
+    "reference":  "UT038-24W-CCT-92386",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eSlim linear light with an opal PC diffuser for even, wide general lighting.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eMagnetic light for the 48V ultra-thin magnetic track system (surface track MZ200 / recessed track MZ201). It clicks onto the track and can be moved or added at any time without tools. Colour temperature 3000K / 4000K / 6500K selectable with the DIP switch, CRI ≥90, flicker-free 48V supply from the track power supply.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eMagnetic Track Linear Light 48V 24W - Opal Diffuser - CCT 3000K/4000K/6500K - CRI90 - 120º - Black\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eSlim linear light with an opal PC diffuser for even, wide general lighting.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eMagnetic light for the 48V ultra-thin magnetic track system (surface track MZ200 / recessed track MZ201). It clicks onto the track and can be moved or added at any time without tools. Colour temperature 3000K / 4000K / 6500K selectable with the DIP switch, CRI ≥90, flicker-free 48V supply from the track power supply.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e24W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLuminous flux\u003c/td\u003e\u003ctd\u003e1320-1440lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eEfficacy\u003c/td\u003e\u003ctd\u003e55-60 lm/W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam angle\u003c/td\u003e\u003ctd\u003e120º\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eDimensions\u003c/td\u003e\u003ctd\u003e509 x 26 x 26mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eInput voltage\u003c/td\u003e\u003ctd\u003eDC48V\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eColour temperature\u003c/td\u003e\u003ctd\u003e3000K / 4000K / 6500K (DIP switch)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003eRa ≥90\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eColour consistency\u003c/td\u003e\u003ctd\u003eSDCM \u0026lt;7\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLED\u003c/td\u003e\u003ctd\u003eEpistar 2835 SMD\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eMaterial\u003c/td\u003e\u003ctd\u003eAluminium + PC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eFinish\u003c/td\u003e\u003ctd\u003eBlack\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection\u003c/td\u003e\u003ctd\u003eIP20\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLifetime\u003c/td\u003e\u003ctd\u003e25,000 h\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWorking temperature\u003c/td\u003e\u003ctd\u003e-20 ~ +45ºC\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  27,
+                           "name":  "Lighting Stores and Retail for Shops",
+                           "path":  [
+                                        "Featured",
+                                        "Lighting Stores and Retail for Shops"
+                                    ]
+                       },
+                       {
+                           "id":  29,
+                           "name":  "LED lighting Track",
+                           "path":  [
+                                        "Featured",
+                                        "Lighting Stores and Retail for Shops",
+                                        "LED lighting Track"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "24W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "DC48V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "≥90",
+                         "icon":  null
+                     },
+                     {
+                         "id":  918,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1320-1440lm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120º",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1186,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "25000h",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +45ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Construction Material",
+                         "value":  "Aluminium + PC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  5296,
+                         "name":  "Colour",
+                         "value":  "3000K / 4000K / 6500K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1816,
+                         "name":  "Main colour",
+                         "value":  "Black",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "509 x 26 x 26mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "Magnetic 48V track light - CCT by DIP switch - Epistar 2835 SMD - SDCM \u003c7",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "UT038-24W-CCT-92386",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  2,
+                        "name":  "Color temperature",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "Switchable 3000K / 4000K / 6500K",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000521,
+                         "model":  "UT038-24W-CCT-92386",
+                         "reference":  "UT038-24W-CCT-92386",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  50.9,
+                                               "width":  2.6,
+                                               "height":  2.6
+                                           },
+                         "weight_kg":  null,
+                         "image":  "img/900052_0.jpg",
+                         "dimension_image":  "img/900052_1.jpg",
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  null,
+                                             "value":  "Switchable 3000K / 4000K / 6500K"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900052_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900052_0.jpg",
+                                     "1024":  "img/900052_0.jpg",
+                                     "512":  "img/900052_0.jpg",
+                                     "256":  "img/900052_0.jpg",
+                                     "128":  "img/900052_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900052_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900052_1.jpg",
+                                     "1024":  "img/900052_1.jpg",
+                                     "512":  "img/900052_1.jpg",
+                                     "256":  "img/900052_1.jpg",
+                                     "128":  "img/900052_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  50,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:01:50",
+    "source_url":  null
+}

@@ -1,0 +1,159 @@
+{
+    "id":  10644,
+    "lang":  "en",
+    "name":  "Fixed Circular Ring for GU10-MR16 - Cut-out Ø64mm - BLACK",
+    "reference":  "91818",
+    "short_description":  "\u003cp\u003eAluminum \u003cstrong\u003ecircular ring\u003c/strong\u003e with \u003cstrong\u003eblack\u003c/strong\u003e finish, elegant and exclusive design. The ring is designed for use of LED dichroic \u003cstrong\u003eGU10\u003c/strong\u003e or \u003cstrong\u003eMR16\u003c/strong\u003e. It is perfect for a new construction or to change the bulbs. It is manufactured for installation in indoor areas such as bedrooms, hallways, living rooms or storage rooms.\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"color:#fc0202;\"\u003eCOMPATIBLE ONLY WITH LED BULBS, OTHER TYPES OF TECHNOLOGY MAY CAUSE DAMAGE TO THE INSTALLATION\u003c/span\u003e\u003c/p\u003e",
+    "description":  "\u003ch2\u003eFixed Circular Ring for GU10-MR16 - Cut-out Ø64mm - BLACK\u003c/h2\u003e\n\u003cp\u003e\u003cstrong\u003eBlack recessed ring\u003c/strong\u003e for \u003cstrong\u003eLED dichroic\u003c/strong\u003e lamps, both \u003cstrong\u003eMR16\u003c/strong\u003e and \u003cstrong\u003eGU10\u003c/strong\u003e, designed to achieve an attractive and refined decoration. Thanks to its \u003cstrong\u003ecircular\u003c/strong\u003e shape you can create very exclusive environments.\u003c/p\u003e\n\u003cp\u003eIt is made of aluminum with a black finish, which makes this ring a very resistant and long-lasting product: a \u003cstrong\u003erust-proof ring\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eInstallation requires a \u003cstrong\u003eØ64mm ceiling cut-out\u003c/strong\u003e. The ring measures Ø85mm x H52mm and is held firmly in place by its clips. If your opening is different, this same ring is also available with a Ø75mm cut-out (ref. 91822).\u003c/p\u003e\n\u003ch2\u003eApplications of the Fixed Circular Ring for GU10-MR16 - Cut-out Ø64mm - BLACK\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eBedrooms\u003c/li\u003e\n\u003cli\u003eLiving room\u003c/li\u003e\n\u003cli\u003ePorches\u003c/li\u003e\n\u003cli\u003eOffices\u003c/li\u003e\n\u003cli\u003eHypermarkets\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIt is ideal for any event area where select atmospheres need to be recreated. It can also withstand outdoor spaces thanks to its material.\u003c/p\u003e\n\u003cp\u003eAt FactorLED we ensure that our products have a QUALITY guarantee and offer all the necessary elements for DISTRIBUTION, IMPORT or WHOLESALE, including the technical data sheet of each LED product.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  12,
+                           "name":  "LED Bulb Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "LED Bulb Accessories"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1167,
+                         "name":  "Certifications",
+                         "value":  "CE",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1628,
+                         "name":  "Construction Material",
+                         "value":  "Aluminum",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  3661,
+                         "name":  "REFERENCE",
+                         "value":  "91818",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  10437,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø85mm x H52mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  12481,
+                         "name":  "Cut-out Size (mm)",
+                         "value":  "Ø64mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/26/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  11813,
+                         "model":  "91818",
+                         "reference":  "91818",
+                         "barcode":  "8435612976382",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  9,
+                                               "height":  9
+                                           },
+                         "weight_kg":  0.11,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/10644/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/10644/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/10644/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/10644/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/10644/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/10644/image_128"
+                                 }
+                   },
+                   {
+                       "id":  33839,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/33839/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/33839/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/33839/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/33839/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/33839/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/33839/image_128"
+                                 }
+                   },
+                   {
+                       "id":  33840,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/33840/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/33840/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/33840/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/33840/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/33840/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/33840/image_128"
+                                 }
+                   },
+                   {
+                       "id":  33841,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/33841/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/33841/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/33841/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/33841/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/33841/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/33841/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-12-27T13:38:23.075722",
+    "source_url":  "https://www.factorled.com/en/10644-fixed-circular-ring-for-gu10-mr16-cut-out-64mm-black.html"
+}

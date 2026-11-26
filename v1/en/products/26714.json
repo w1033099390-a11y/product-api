@@ -1,0 +1,297 @@
+{
+    "id":  26714,
+    "lang":  "en",
+    "name":  "AURIS 6W Bridgelux 4CCT LED Downlight 30° | White \u0026 Black",
+    "reference":  "SPB6W-4CCT-91536",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eAURIS 6W LED Downlight with EagleRise driver and Bridgelux chip\u003c/strong\u003e and high efficiency of 120 lm/W. It features selectable \u003cstrong\u003e4CCT technology (2200K, 2700K, 3000K and 4000K)\u003c/strong\u003e to adapt the lighting to every setting. \u003cstrong\u003eIts 30° optics\u003c/strong\u003e deliver precise, directed light. Front selectable in white or black, with a \u003cstrong\u003eØ35 mm ceiling cut-out\u003c/strong\u003e and dimensions of Ø43x52.5 mm. Ideal for hotels, retail, homes and decorative and professional LED lighting projects.\u003c/p\u003e",
+    "description":  "\u003ch2\u003e6W Bridgelux LED Downlight | 4CCT | White or Black\u003c/h2\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eThe \u003cstrong\u003eAuris 6W LED Downlight\u003c/strong\u003e is a compact and versatile solution for \u003cstrong\u003edecorative and professional LED lighting\u003c/strong\u003e projects. It features a \u003cstrong\u003eBridgelux chip with an efficiency of 120 lm/W\u003c/strong\u003e, delivering excellent light output with low power consumption. Its compact format makes it easy to integrate into different spaces and architectural styles.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003e4CCT for maximum versatility\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eIts selectable \u003cstrong\u003e4CCT technology\u003c/strong\u003e lets you choose between \u003cstrong\u003e2200K, 2700K, 3000K and 4000K\u003c/strong\u003e, from warm, cosy light to neutral lighting. This versatility allows a single luminaire to adapt to different settings and project requirements, reducing the need to stock multiple references.\u003c/p\u003e\u003cp\u003eThe \u003cstrong\u003e30° beam angle\u003c/strong\u003e concentrates the light precisely, making it especially suitable for creating defined lighting points, highlighting decorative elements or illuminating specific areas.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eCompact design and customisable finish\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eThe front is available in \u003cstrong\u003eWhite or Black\u003c/strong\u003e, making it easy to integrate into both minimalist interiors and contemporary spaces. Its discreet design provides an elegant finish without compromising light performance.\u003c/p\u003e\u003cp\u003eWith dimensions of \u003cstrong\u003eØ43 x 52.5 mm\u003c/strong\u003e and a \u003cstrong\u003eØ35 mm ceiling cut-out\u003c/strong\u003e, it is particularly well suited to installations that call for a small luminaire and clean visual integration.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eRecommended uses and applications\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eIdeal for:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cstrong\u003eHomes and apartments\u003c/strong\u003e\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eHotels and hospitality\u003c/strong\u003e\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eShops and retail\u003c/strong\u003e\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eRestaurants and cafés\u003c/strong\u003e\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eCorridors and common areas\u003c/strong\u003e\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eShop windows and decorative spaces\u003c/strong\u003e\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eInterior design projects\u003c/strong\u003e\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eArchitectural lighting\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eIn short, the \u003cstrong\u003eAuris 6W LED Downlight\u003c/strong\u003e combines \u003cstrong\u003e120 lm/W, 4CCT technology, 30° optics and a selectable White/Black front\u003c/strong\u003e in a compact, elegant format. An efficient and flexible solution for projects that demand \u003cstrong\u003elight quality, design and easy integration\u003c/strong\u003e.\u003c/p\u003e",
+    "brand":  {
+                  "id":  6,
+                  "name":  "BRIDGELUX",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/6/logo?unique=1793096554"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  19,
+                           "name":  "Downlight and Ceiling Lights LED",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Downlight and Ceiling Lights LED"
+                                    ]
+                       },
+                       {
+                           "id":  20,
+                           "name":  "LED Downlight Spotlights",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Downlight and Ceiling Lights LED",
+                                        "LED Downlight Spotlights"
+                                    ]
+                       },
+                       {
+                           "id":  129,
+                           "name":  "Circular Recessed Downlight",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Downlight and Ceiling Lights LED",
+                                        "LED Downlight Spotlights",
+                                        "Circular Recessed Downlight"
+                                    ]
+                       },
+                       {
+                           "id":  293,
+                           "name":  "Office Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  295,
+                           "name":  "Office Ceiling Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting",
+                                        "Office Ceiling Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  328,
+                           "name":  "Brands",
+                           "path":  [
+                                        "Featured",
+                                        "Brands"
+                                    ]
+                       },
+                       {
+                           "id":  327,
+                           "name":  "Bridgelux",
+                           "path":  [
+                                        "Featured",
+                                        "Brands",
+                                        "Bridgelux"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  770,
+                         "name":  "Rated Power",
+                         "value":  "6W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  928,
+                         "name":  "Luminosity-Lm",
+                         "value":  "720Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1045,
+                         "name":  "Beam Angle (º)",
+                         "value":  "30º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1145,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "120 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1619,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-10ºC ~ +40ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1628,
+                         "name":  "Construction Material",
+                         "value":  "Aluminum",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1770,
+                         "name":  "Driver included",
+                         "value":  "DRIVER NO FLICK",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/39/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1811,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "F",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  7975,
+                         "name":  "Dimmable",
+                         "value":  "No",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/11/icon"
+                     },
+                     {
+                         "id":  8635,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "25000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  16131,
+                         "name":  "REFERENCE",
+                         "value":  "SPW6W-4CCT-91537 | SPB6W-4CCT-91536",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  16132,
+                         "name":  "Colour",
+                         "value":  "4CCT SELECT 2200K-2700K-3000K-4000K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  16134,
+                         "name":  "Cut-out Size (mm)",
+                         "value":  "Ø35 mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/26/icon"
+                     },
+                     {
+                         "id":  16135,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø43x52.5 mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  16136,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "\u003e80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  16137,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "COB Bridgelux Chip 2240 DS-C30",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  16188,
+                         "name":  "Driver included",
+                         "value":  "EagleRise Driver",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/39/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  1,
+                        "name":  "Options",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  629,
+                                           "name":  "Front Black",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  39009,
+                         "model":  "915367",
+                         "reference":  "SPB6W-4CCT-91536",
+                         "barcode":  "8435770895259",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  6.5,
+                                               "width":  4.5,
+                                               "height":  10.5
+                                           },
+                         "weight_kg":  0,
+                         "dimension_image":  "https://www.factorled.com/web/image/product.product/39009/dimension_image",
+                         "options":  [
+                                         {
+                                             "option_id":  1,
+                                             "option":  "Options",
+                                             "value_id":  629,
+                                             "value":  "Front Black"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/26714/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/26714/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/26714/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/26714/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/26714/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/26714/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+                          {
+                              "id":  299,
+                              "name":  "Data Sheet Eagle Rise",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/299/file/LS-8-XXX SI2 E spec REV E.pdf"
+                          },
+                          {
+                              "id":  300,
+                              "name":  "Manual AURIS",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/300/file/instructions-91536-91537.pdf"
+                          }
+                      ],
+    "master_box_qty":  0,
+    "is_new":  true,
+    "published_at":  "2026-09-04T13:20:52",
+    "source_url":  "https://www.factorled.com/en/26714-led-downlight-6w-auris-bridgelux-4cct.html"
+}

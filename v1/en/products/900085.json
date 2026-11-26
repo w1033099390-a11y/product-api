@@ -1,0 +1,120 @@
+{
+    "id":  900085,
+    "lang":  "en",
+    "name":  "Waterproof Power Supply 24V 300W IP68",
+    "reference":  "915794",
+    "short_description":  "\u003cp\u003eSize 235*70*32MM; Power 300W\u003c/p\u003e",
+    "description":  "\u003ch2\u003eWaterproof Power Supply 24V 300W IP68\u003c/h2\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e235*70*32MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e300W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection rating\u003c/td\u003e\u003ctd\u003eIP68\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  51,
+                           "name":  "Power Supplies and Drivers",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Power Supplies and Drivers"
+                                    ]
+                       },
+                       {
+                           "id":  55,
+                           "name":  "24V Power",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Power Supplies and Drivers",
+                                        "24V Power"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "235*70*32MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  4217,
+                         "name":  "Rated Power",
+                         "value":  "300W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP68",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "915794",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000851,
+                         "model":  "915794",
+                         "reference":  "915794",
+                         "barcode":  "8435612915794",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900085_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900085_0.jpg",
+                                     "1024":  "img/900085_0.jpg",
+                                     "512":  "img/900085_0.jpg",
+                                     "256":  "img/900085_0.jpg",
+                                     "128":  "img/900085_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/waterproof-power-supply-24v-300w-ip68"
+}

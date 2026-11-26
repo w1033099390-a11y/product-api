@@ -1,0 +1,141 @@
+{
+    "id":  900006,
+    "lang":  "el",
+    "name":  "Προφίλ αλουμινίου P6114 - Χωνευτό σοβά (trimless) 61x14mm - 2m - Οπάλ διαχύτης PC + τάπες",
+    "reference":  "P6114",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eΧωνευτό προφίλ αλουμινίου σοβά (trimless)\u003c/strong\u003e για ταινίες LED, 61 x 14 mm. Τα διάτρητα πτερύγια καλύπτονται με σοβά, ώστε στην οροφή ή στον τοίχο να φαίνεται μόνο η γραμμή φωτός.\u003c/p\u003e\u003cp\u003eΣετ \u003cstrong\u003e2 m αλουμίνιο + 2 m οπάλ διαχύτης PC + 4 τάπες\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΠροφίλ αλουμινίου P6114 - Χωνευτό σοβά (trimless) 61x14mm - 2m - Οπάλ διαχύτης PC + τάπες\u003c/h2\u003e\u003cp\u003eΧωνευτό προφίλ σοβά με διάτρητα πτερύγια για ενιαία γραμμή φωτός χωρίς πλαίσιο σε γυψοσανίδα, οροφές και τοίχους.\u003c/p\u003e\u003ch3\u003eΤεχνικά στοιχεία\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eΥλικό\u003c/td\u003e\u003ctd\u003eΑλουμίνιο + οπάλ διαχύτης PC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΔιατομή (Π x Υ)\u003c/td\u003e\u003ctd\u003e61 x 14mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΜήκος\u003c/td\u003e\u003ctd\u003e2m\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΠεριεχόμενο σετ\u003c/td\u003e\u003ctd\u003eΠροφίλ αλουμινίου 2m, οπάλ διαχύτης PC 2m, 4 τάπες\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΤοποθέτηση\u003c/td\u003e\u003ctd\u003eΤοποθέτηση χωνευτή σε σοβά / trimless\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ],
+                           "name":  "Προτεινόμενα",
+                           "id":  3
+                       },
+                       {
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon"
+                                    ],
+                           "name":  "Ταινίες LED και εύκαμπτο Neon",
+                           "id":  31
+                       },
+                       {
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon",
+                                        "Προφίλ αλουμινίου LED"
+                                    ],
+                           "name":  "Προφίλ αλουμινίου LED",
+                           "id":  36
+                       }
+                   ],
+    "features":  [
+                     {
+                         "icon":  null,
+                         "name":  "Υλικό κατασκευής",
+                         "id":  1642,
+                         "value":  "Αλουμίνιο + οπάλ διαχύτης PC"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Διαστάσεις (mm)",
+                         "id":  10710,
+                         "value":  "2000mm x 61 x 14mm"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Άλλες πληροφορίες",
+                         "id":  11689,
+                         "value":  "Τοποθέτηση χωνευτή σε σοβά / trimless"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Κωδικός",
+                         "id":  14352,
+                         "value":  "P6114"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "values":  [
+                                       {
+                                           "color":  null,
+                                           "name":  "Προφίλ + διαχύτης PC, 2m",
+                                           "id":  null,
+                                           "icon":  null
+                                       }
+                                   ],
+                        "name":  "Έκδοση",
+                        "id":  3,
+                        "display_type":  "radio"
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000061,
+                         "model":  "P6114",
+                         "reference":  "P6114",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "width":  null,
+                                               "height":  null,
+                                               "length":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900006_1.jpg",
+                         "options":  [
+                                         {
+                                             "value":  "Προφίλ + διαχύτης PC, 2m",
+                                             "value_id":  null,
+                                             "option":  "Έκδοση",
+                                             "option_id":  3
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900006_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900006_0.jpg",
+                                     "1024":  "img/900006_0.jpg",
+                                     "512":  "img/900006_0.jpg",
+                                     "256":  "img/900006_0.jpg",
+                                     "128":  "img/900006_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900006_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900006_1.jpg",
+                                     "1024":  "img/900006_1.jpg",
+                                     "512":  "img/900006_1.jpg",
+                                     "256":  "img/900006_1.jpg",
+                                     "128":  "img/900006_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:02",
+    "source_url":  null
+}

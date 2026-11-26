@@ -1,0 +1,442 @@
+{
+    "id":  10840,
+    "lang":  "en",
+    "name":  "Detachable Solar LED Sconce - 1000 Lumens - PIR Motion Sensor - 4000K",
+    "reference":  "SWL8W-NW-91218",
+    "short_description":  "\u003cp\u003eDiscover the efficiency of the Solar LED Wall Light, an advanced lighting solution with a powerful chip that generates up to 1000 lumens and features 4 programmable modes to suit your lighting needs. This wall light is equipped with a rechargeable presence sensor and a 2000mAh lithium battery to ensure long-lasting autonomy. Its versatile design allows for the separation of the lamp from the solar panel, enabling flexible arrangement where the light and the panel can be in separate locations. The 2-meter connection cable provides flexibility in installation, and thanks to its portability, the lamp can be used as a flashlight for added convenience. Ideal for mounting on any type of wall, the 2.5W monocrystalline solar panel provides powerful and sustainable solar-powered lighting.\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003eDetachable Solar LED Sconce - 1000 Lumens - PIR Motion Sensor - 4000K\u003c/h2\u003e\n\u003cp\u003eExplore the efficiency of the Solar LED Sconce, an innovative device with a powerful chip that emits up to 1000 lumens and features 4 programmable modes to suit your lighting needs. Its versatile design includes a rechargeable presence sensor and a 2000mAh lithium battery for long-lasting autonomy.\u003c/p\u003e\n\u003cp\u003eThe lamp is detachable, allowing it to be separated from the solar panel. The latter, capable of being positioned in sunny locations, activates the lamp in dark environments. The 2-meter connection cable provides flexibility in installation, and the lamp,\u003c/p\u003e\n\u003cp\u003ebeing portable, can be used as a flashlight for added convenience. In summary, this device can function as both an integrated light and an independent flashlight, offering versatility for various applications.\u003c/p\u003e\n\u003cp\u003eIdeal for mounting on any type of wall, the 2.5W monocrystalline solar panel provides powerful solar-powered lighting. Take advantage of the opportunity to save energy and money with this Solar LED Sconce that adapts to your lighting needs with its intelligent design and multiple functions. Don\u0027t miss the chance to optimize your lighting now!\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003ch2\u003eOperating modes for the outdoor solar sconce sensor:\u003c/h2\u003e\n\u003cul style=\"list-style-type:disc;\"\u003e\n\u003cli\u003eMode 1: 100% output for 18 seconds when motion is detected, then turns off if there is no presence.\u003c/li\u003e\n\u003cli\u003eMode 2: 100% output for 18 seconds when motion is detected, then decreases to 30-50 lumens if there is no presence.\u003c/li\u003e\n\u003cli\u003eMode 3: Constant output of 30-50 lumens regardless of presence or movement.\u003c/li\u003e\n\u003cli\u003eMode 4: Rest mode.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2\u003eInstructions for the outdoor solar sconce:\u003c/h2\u003e\n\u003cp\u003eThe light-emitting surface and the surface of the solar panel are made of plastic material. As important structures of the lights, the structures are fragile. Handle them with care during transportation, handling, storage, and installation. Do not press forcefully to avoid damaging the internal structure\u003c/p\u003e\n\u003cp\u003eThis light should be stored in a place with good ventilation and a clean environment. The ambient temperature should be between -20°C and 50°C. Do not store it in icy environments. Charge and discharge once a month if not used for a long time.\u003c/p\u003e\n\u003cp\u003eCheck the light, first place the light in a location with sufficient sunlight and cover the solar panel with an opaque material, and then the light will turn on, demonstrating that the solar panel can function normally and the battery can also be charged normally.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003eWhat really sets this sconce apart is its detachable system, allowing it to be separated from the solar panel. The latter, with the ability to be positioned in sunny locations, activates the lamp in dark environments.\u003c/p\u003e\n\u003cp\u003eWith this Solar LED Sconce, you\u0027ll not only enjoy powerful and sustainable lighting but also experience the convenience of a smart system that adapts to your daily lighting needs. Take advantage of the opportunity to illuminate your spaces efficiently and environmentally friendly.\u003c/p\u003e\n\u003cp\u003eAt FactorLED, we guarantee the QUALITY of our products and offer all the necessary elements for DISTRIBUTION, IMPORT, or WHOLESALE SALE, including the technical specifications of each LED product.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  56,
+                           "name":  "LED Decoration",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Decoration"
+                                    ]
+                       },
+                       {
+                           "id":  38,
+                           "name":  "LED Outdoor and Garden Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "LED Outdoor and Garden Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  98,
+                           "name":  "Solar LED Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Solar LED Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  230,
+                           "name":  "Solar LED Wall Lights",
+                           "path":  [
+                                        "Featured",
+                                        "Solar LED Lighting",
+                                        "Solar LED Wall Lights"
+                                    ]
+                       },
+                       {
+                           "id":  88,
+                           "name":  "Floodlights SOLAR and Eco series",
+                           "path":  [
+                                        "Featured",
+                                        "Solar LED Lighting",
+                                        "Floodlights SOLAR and Eco series"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  863,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "70",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  881,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A++",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  985,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1000Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1013,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "SMD 2835",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1178,
+                         "name":  "IP",
+                         "value":  "IP54",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1713,
+                         "name":  "Material of the Battery",
+                         "value":  "LiFePO4 - Lithium-Ferrophosphate -LPF",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/27/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1811,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "F",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  4789,
+                         "name":  "Rated Power",
+                         "value":  "8W Chip",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  5224,
+                         "name":  "Nominal Voltage",
+                         "value":  "DC 3.7V - 2000mAH",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  8673,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "35000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  10632,
+                         "name":  "Dimensions (mm)",
+                         "value":  "172x58x31mm -- Panel: 180x172,4x42mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  11396,
+                         "name":  "Construction Material",
+                         "value":  "ABS AntiV94V0 Fire Proof",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  12087,
+                         "name":  "Other Information",
+                         "value":  "Solar Panel Mono-Crystalline 2.5W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/25/icon"
+                     },
+                     {
+                         "id":  13215,
+                         "name":  "Time-Delay",
+                         "value":  "2-3 Nights",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/43/icon"
+                     },
+                     {
+                         "id":  14422,
+                         "name":  "REFERENCE",
+                         "value":  "SWL8W-NW-91218",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  15547,
+                         "name":  "Range (m)",
+                         "value":  "6-8m",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/42/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  14069,
+                         "model":  "SWL8W-NW-91218",
+                         "reference":  "SWL8W-NW-91218",
+                         "barcode":  "8435612984172",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  18,
+                                               "height":  26
+                                           },
+                         "weight_kg":  0.6,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/10840/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/10840/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/10840/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/10840/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/10840/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/10840/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51563,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51563/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51563/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51563/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51563/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51563/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51563/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51564,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51564/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51564/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51564/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51564/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51564/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51564/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51565,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51565/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51565/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51565/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51565/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51565/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51565/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51566,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51566/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51566/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51566/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51566/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51566/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51566/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51567,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51567/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51567/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51567/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51567/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51567/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51567/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51568,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51568/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51568/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51568/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51568/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51568/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51568/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51569,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51569/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51569/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51569/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51569/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51569/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51569/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51570,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51570/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51570/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51570/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51570/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51570/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51570/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51571,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51571/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51571/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51571/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51571/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51571/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51571/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51572,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51572/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51572/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51572/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51572/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51572/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51572/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51573,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51573/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51573/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51573/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51573/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51573/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51573/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51574,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51574/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51574/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51574/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51574/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51574/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51574/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51575,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51575/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51575/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51575/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51575/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51575/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51575/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51576,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51576/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51576/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51576/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51576/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51576/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51576/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51577,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51577/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51577/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51577/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51577/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51577/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51577/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51578,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51578/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51578/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51578/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51578/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51578/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51578/image_128"
+                                 }
+                   },
+                   {
+                       "id":  51579,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/51579/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/51579/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/51579/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/51579/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/51579/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/51579/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2024-02-29T11:55:29.221399",
+    "source_url":  "https://www.factorled.com/en/10840-detachable-solar-led-sconce-1000-lumens-pir-motion-sensor-4000k.html"
+}

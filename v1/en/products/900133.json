@@ -1,0 +1,162 @@
+{
+    "id":  900133,
+    "lang":  "en",
+    "name":  "LED Bulb - Modern Metal - 4W E27 - Black - BIG Ø220mm",
+    "reference":  "91755",
+    "short_description":  "\u003cp\u003eLED Bulb - Modern Metal - 4W E27 - Black - BIG Ø220mm. This large decorative bulb has an internal filament made of PMMA, it is also environmentally friendly thanks to its energy efficiency with E27 socket. Ideal for decorative lighting, highlighting interior spaces and looking original at night. The bulb is made of high quality aluminum material, which gives it a vintage and retro look. Its 4W power is perfect for cozy and relaxed areas.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Bulb - Modern Metal - 4W E27 - Black - BIG Ø220mm\u003c/h2\u003e\u003cp\u003eThis large decorative bulb has an internal filament made of PMMA, it is also environmentally friendly thanks to its energy efficiency with E27 socket. Ideal for decorative lighting, highlighting interior spaces and looking original at night. The bulb is made of high quality aluminum material, which gives it a vintage and retro look. Its 4W power is perfect for cozy and relaxed areas.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "LED Bulbs by Base Type",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type"
+                                    ]
+                       },
+                       {
+                           "id":  5,
+                           "name":  "E27 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "E27 LED Bulbs"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "91755",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001331,
+                         "model":  "91755",
+                         "reference":  "91755",
+                         "barcode":  "8435612969728",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900133_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900133_0.jpg",
+                                     "1024":  "img/900133_0.jpg",
+                                     "512":  "img/900133_0.jpg",
+                                     "256":  "img/900133_0.jpg",
+                                     "128":  "img/900133_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900133_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900133_1.jpg",
+                                     "1024":  "img/900133_1.jpg",
+                                     "512":  "img/900133_1.jpg",
+                                     "256":  "img/900133_1.jpg",
+                                     "128":  "img/900133_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900133_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900133_2.jpg",
+                                     "1024":  "img/900133_2.jpg",
+                                     "512":  "img/900133_2.jpg",
+                                     "256":  "img/900133_2.jpg",
+                                     "128":  "img/900133_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900133_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900133_3.jpg",
+                                     "1024":  "img/900133_3.jpg",
+                                     "512":  "img/900133_3.jpg",
+                                     "256":  "img/900133_3.jpg",
+                                     "128":  "img/900133_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900133_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900133_4.jpg",
+                                     "1024":  "img/900133_4.jpg",
+                                     "512":  "img/900133_4.jpg",
+                                     "256":  "img/900133_4.jpg",
+                                     "128":  "img/900133_4.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900133_5.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900133_5.jpg",
+                                     "1024":  "img/900133_5.jpg",
+                                     "512":  "img/900133_5.jpg",
+                                     "256":  "img/900133_5.jpg",
+                                     "128":  "img/900133_5.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-bulb-modern-metal-4w-e27-black-big-o220mm-91755"
+}

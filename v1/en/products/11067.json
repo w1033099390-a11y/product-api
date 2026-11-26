@@ -1,0 +1,267 @@
+{
+    "id":  11067,
+    "lang":  "en",
+    "name":  "RF Remote Control for LED Single Color + RGB + CCT + 4 Zones",
+    "reference":  "92062-FUT092",
+    "short_description":  "\u003cp\u003eThe \u003cstrong\u003eRGB + CCT 4-Zone Remote Control\u003c/strong\u003e is the perfect solution for efficiently managing the lighting in your spaces. \u003cstrong\u003eIt allows you to regulate color, saturation, brightness, and color temperature (from warm to cool) across up to 4 different zones\u003c/strong\u003e, with the flexibility to create groups and combinations as needed. Its intuitive design includes a rotary wheel and touch bars, facilitating precise adjustment. With a transmission distance of 30 meters and 2.4GHz RF technology, it ensures fast, interference-free control, ideal for any environment.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eRF Remote Control for LED Single Color + RGB + CCT + 4 zones\u003c/h2\u003e\n\u003cp\u003eThe \"Mi-Light\" RGB+CCT 4 zones remote control offers total control over residential or commercial lighting. Independently manages up to 4 zones, adjusting color, saturation, brightness, and color temperature precisely.\u003c/p\u003e\n\u003ch3\u003eMain Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eColor and Brightness Control:\u003c/strong\u003e Rotary wheel for color adjustment, touch bars for saturation and brightness.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eColor Temperature (CCT) Adjustment:\u003c/strong\u003e Warm to cool white tones.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eMulti-zone Control:\u003c/strong\u003e Up to 4 zones, independent or combined.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eTechnology and Range:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e2.4GHz RF Transmission:\u003c/strong\u003e Stable signal, 30m range, through walls and ceilings.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eAnti-interference System:\u003c/strong\u003e Efficient uninterrupted transmission.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eEase of Use:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eIntuitive Design:\u003c/strong\u003e Rotary wheel and touch bars. On/off buttons, mode buttons.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eZone Control:\u003c/strong\u003e Each zone requires its own Mi-Light controller.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eInstallation and Compatibility:\u003c/h3\u003e\n\u003cp\u003eCompatible with Mi-Light and Miboxer RGB+CCT products at 2.4GHz frequency.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  37,
+                           "name":  "LED controllers",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED controllers"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  78,
+                           "name":  "Home automation",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Home automation"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  852,
+                         "name":  "Colour",
+                         "value":  "RGB+CCT",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1745,
+                         "name":  "Control modes",
+                         "value":  "REMOTE CONTROL",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/36/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  2901,
+                         "name":  "REFERENCE",
+                         "value":  "",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  9508,
+                         "name":  "Dimensions (mm)",
+                         "value":  "",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  18741,
+                         "model":  "2196",
+                         "reference":  "92062-FUT092",
+                         "barcode":  "8435612906938",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5.3,
+                                               "width":  2.1,
+                                               "height":  12
+                                           },
+                         "weight_kg":  0.15,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11067/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11067/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11067/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11067/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11067/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11067/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38960,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38960/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38960/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38960/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38960/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38960/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38960/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38961,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38961/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38961/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38961/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38961/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38961/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38961/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38962,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38962/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38962/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38962/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38962/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38962/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38962/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38963,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38963/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38963/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38963/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38963/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38963/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38963/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38964,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38964/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38964/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38964/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38964/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38964/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38964/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38965,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38965/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38965/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38965/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38965/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38965/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38965/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38966,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38966/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38966/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38966/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38966/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38966/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38966/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38967,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38967/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38967/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38967/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38967/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38967/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38967/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38968,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38968/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38968/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38968/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38968/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38968/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38968/image_128"
+                                 }
+                   },
+                   {
+                       "id":  38969,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/38969/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/38969/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/38969/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/38969/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/38969/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/38969/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2024-06-18T11:22:47.422337",
+    "source_url":  "https://www.factorled.com/en/11067-rf-remote-control-for-led-single-color-rgb-cct-4-zones.html"
+}

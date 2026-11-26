@@ -1,0 +1,215 @@
+{
+    "id":  900005,
+    "lang":  "en",
+    "name":  "LED Bulb GU10 7W 38º - CCT Switch 3000K/4000K/6000K - Dimmable (Triac) - 700Lm",
+    "reference":  "GU107W-CCT-92337",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eGU10 LED spotlight, 7W and 700 lm\u003c/strong\u003e, with a \u003cstrong\u003ecolour-temperature switch\u003c/strong\u003e on the base: choose \u003cstrong\u003e3000K, 4000K or 6000K\u003c/strong\u003e before installing, so one bulb covers warm, neutral and cool light.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e38º\u003c/strong\u003e beam, \u003cstrong\u003eTriac dimmable\u003c/strong\u003e (10%–100%), CRI ≥80. Replaces halogen GU10 spots directly.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Bulb GU10 7W | CCT Switch | Dimmable\u003c/h2\u003e\u003cp\u003eSet the colour temperature with the slide switch on the base: \u003cstrong\u003e3000K\u003c/strong\u003e warm white, \u003cstrong\u003e4000K\u003c/strong\u003e natural white or \u003cstrong\u003e6000K\u003c/strong\u003e cool white. The 38º lens gives a focused beam with a peak intensity of 1000 cd, ideal for downlights, track spots and accent lighting.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eInput voltage\u003c/td\u003e\u003ctd\u003eAC220-240V, 50/60Hz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e7W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLuminous flux\u003c/td\u003e\u003ctd\u003e700 lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eColour temperature\u003c/td\u003e\u003ctd\u003e3000K / 4000K / 6000K (switch)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003eRa ≥80\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam angle\u003c/td\u003e\u003ctd\u003e38º\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePeak intensity\u003c/td\u003e\u003ctd\u003e1000 cd\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eDimmable\u003c/td\u003e\u003ctd\u003eYes, Triac dimmer (10%–100%)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003ePower factor\u003c/td\u003e\u003ctd\u003e≥0.5\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLifetime\u003c/td\u003e\u003ctd\u003e≥30,000 h\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBase\u003c/td\u003e\u003ctd\u003eGU10\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eDimensions\u003c/td\u003e\u003ctd\u003eØ50 x 56mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eMaterial\u003c/td\u003e\u003ctd\u003ePA housing, PC lens\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection\u003c/td\u003e\u003ctd\u003eIP40, Class II\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCertifications\u003c/td\u003e\u003ctd\u003eCE, CB, RoHS\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eEnergy class\u003c/td\u003e\u003ctd\u003eF\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOperating temperature\u003c/td\u003e\u003ctd\u003e-20 ~ +50ºC, 20–90% RH (non-condensing)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eStorage temperature\u003c/td\u003e\u003ctd\u003e-40 ~ +80ºC\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "LED Bulbs by Base Type",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type"
+                                    ]
+                       },
+                       {
+                           "id":  7,
+                           "name":  "GU10 \u0026 MR16 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "GU10 \u0026 MR16 LED Bulbs"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "7W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "≥80",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "38º",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP40",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, CB, RoHS",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1811,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "F",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1186,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "≥30000h",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +50ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Construction Material",
+                         "value":  "PA + PC lens",
+                         "icon":  null
+                     },
+                     {
+                         "id":  5296,
+                         "name":  "Colour",
+                         "value":  "3000K-4000K-6000K (switch)",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "700Lm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø50 x 56mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "Triac dimmable 10%-100% - peak intensity 1000cd - Class II",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "GU107W-CCT-92337",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  2,
+                        "name":  "Color temperature",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  null,
+                                           "name":  "Switchable 3000K / 4000K / 6000K",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000051,
+                         "model":  "GU107W-CCT-92337",
+                         "reference":  "GU107W-CCT-92337",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  5,
+                                               "width":  5,
+                                               "height":  5.6
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  "img/900005_1.jpg",
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  null,
+                                             "value":  "Switchable 3000K / 4000K / 6000K"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900005_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900005_0.jpg",
+                                     "1024":  "img/900005_0.jpg",
+                                     "512":  "img/900005_0.jpg",
+                                     "256":  "img/900005_0.jpg",
+                                     "128":  "img/900005_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900005_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900005_1.jpg",
+                                     "1024":  "img/900005_1.jpg",
+                                     "512":  "img/900005_1.jpg",
+                                     "256":  "img/900005_1.jpg",
+                                     "128":  "img/900005_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:01",
+    "source_url":  null
+}

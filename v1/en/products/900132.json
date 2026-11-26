@@ -1,0 +1,162 @@
+{
+    "id":  900132,
+    "lang":  "en",
+    "name":  "LED Bulb - Modern Black Metal - 4W - E27 - Dimmable",
+    "reference":  "91064",
+    "short_description":  "\u003cp\u003eLED Bulb - Modern Black Metal - 4W - E27 - Dimmable. This dimmable light bulb made of methacrylate and metallic grille and E27 socket helps to respect the planet due to its energy saving. The bulb has a modern and elegant design, with a black metal housing that fits perfectly into any interior decoration. In addition, it is dimmer compatible, allowing you to adjust the intensity of the light to create a cosier and more relaxing atmosphere. The bulb is dimmable by TRIAC\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Bulb - Modern Black Metal - 4W - E27 - Dimmable\u003c/h2\u003e\u003cp\u003eThis dimmable light bulb made of methacrylate and metallic grille and E27 socket helps to respect the planet due to its energy saving. The bulb has a modern and elegant design, with a black metal housing that fits perfectly into any interior decoration. In addition, it is dimmer compatible, allowing you to adjust the intensity of the light to create a cosier and more relaxing atmosphere. The bulb is dimmable by TRIAC\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "LED Bulbs by Base Type",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type"
+                                    ]
+                       },
+                       {
+                           "id":  5,
+                           "name":  "E27 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "E27 LED Bulbs"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "91064",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001321,
+                         "model":  "91064",
+                         "reference":  "91064",
+                         "barcode":  "8435612955257",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900132_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900132_0.jpg",
+                                     "1024":  "img/900132_0.jpg",
+                                     "512":  "img/900132_0.jpg",
+                                     "256":  "img/900132_0.jpg",
+                                     "128":  "img/900132_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900132_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900132_1.jpg",
+                                     "1024":  "img/900132_1.jpg",
+                                     "512":  "img/900132_1.jpg",
+                                     "256":  "img/900132_1.jpg",
+                                     "128":  "img/900132_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900132_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900132_2.jpg",
+                                     "1024":  "img/900132_2.jpg",
+                                     "512":  "img/900132_2.jpg",
+                                     "256":  "img/900132_2.jpg",
+                                     "128":  "img/900132_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900132_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900132_3.jpg",
+                                     "1024":  "img/900132_3.jpg",
+                                     "512":  "img/900132_3.jpg",
+                                     "256":  "img/900132_3.jpg",
+                                     "128":  "img/900132_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900132_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900132_4.jpg",
+                                     "1024":  "img/900132_4.jpg",
+                                     "512":  "img/900132_4.jpg",
+                                     "256":  "img/900132_4.jpg",
+                                     "128":  "img/900132_4.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900132_5.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900132_5.jpg",
+                                     "1024":  "img/900132_5.jpg",
+                                     "512":  "img/900132_5.jpg",
+                                     "256":  "img/900132_5.jpg",
+                                     "128":  "img/900132_5.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-bulb-modern-black-metal-4w-e27-dimmable-91064"
+}

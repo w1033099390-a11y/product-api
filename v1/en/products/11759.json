@@ -1,0 +1,264 @@
+{
+    "id":  11759,
+    "lang":  "en",
+    "name":  "Cable for RGBW LED Strip 12-24V 5-Wire | 25 Meters",
+    "reference":  "FL5570-RGBW-1m",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eRGBW 12–24V 5-wire cable (0.50mm²)\u003c/strong\u003e, designed to ensure \u003cstrong\u003esafe, efficient, and durable connections\u003c/strong\u003e. Ideal for \u003cstrong\u003eRGBW LED strips and lighting up to 48V\u003c/strong\u003e, with \u003cstrong\u003efive colored conductors (black, green, red, blue, and white)\u003c/strong\u003e. Available in \u003cstrong\u003e25m spool or by the meter\u003c/strong\u003e.\u003cbr /\u003e \u003cem\u003eOne unit equals 1 meter.\u003c/em\u003e\u003c/p\u003e",
+    "description":  "\u003ch2\u003eCable for RGBW LED Strip 12–24V 5 Wires | 25 Meters\u003c/h2\u003e\n\u003cp\u003eThe \u003cstrong\u003eRGBW LED Strip Cable 12–24V with 5 wires (0.50mm²)\u003c/strong\u003e is the ideal choice for professional, safe, and efficient multicolor LED lighting installations. Specifically designed for RGBW systems, this cable ensures stable transmission of color and power signals, providing optimal performance and a clean connection between controllers, power supplies, and LED strips.\u003c/p\u003e\n\u003cp\u003eThanks to its flexible and durable structure, this cable is easy to handle and install, even in complex paths or tight spaces. Its high-quality insulation provides protection against wear, twisting, and humidity, making it perfect for indoor installations and protected outdoor environments.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTechnical Features\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eWorking voltage: 12–24V (supports up to 48V)\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eConductor section: 0.50mm²\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eComposition: 5 colored wires (black, green, red, blue, and white) for quick and intuitive connection\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003ePresentation: available in 25m rolls or by the meter (one unit equals 1 meter)\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eUse: ideal for RGBW LED strips, fixtures, and LED control systems\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eHigh flexibility: enables neat and professional wiring in all types of projects\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eUses and Applications\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eInstallation of RGBW LED strips in homes, offices, shops, or leisure venues\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eConnection between RGBW controllers and power supplies\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eArchitectural or decorative lighting projects requiring clean wiring\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eMounting on furniture, false ceilings, shop windows, or light signs\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eApplications in caravans, boats, or customized vehicles with RGBW LED systems\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCombines quality, flexibility, and competitive pricing in one product!\u003c/strong\u003e\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  35,
+                           "name":  "LED Strip Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  64,
+                           "name":  "Electronic Components",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Electronic Components"
+                                    ]
+                       },
+                       {
+                           "id":  67,
+                           "name":  "Wire",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Electronic Components",
+                                        "Wire"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  816,
+                         "name":  "Nominal Voltage",
+                         "value":  "DC24V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  1170,
+                         "name":  "Certifications",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1613,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-15ºC ~ +70ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1656,
+                         "name":  "Construction Material",
+                         "value":  "PVC + Kupfer",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  10491,
+                         "name":  "Dimensions (mm)",
+                         "value":  "FL1693",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  3,
+                        "name":  "Measurement",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  49,
+                                           "name":  "1m",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  22357,
+                         "model":  "FL5570-RGBW-1m",
+                         "reference":  "FL5570-RGBW-1m",
+                         "barcode":  "8435612979888",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  2,
+                                               "width":  10,
+                                               "height":  10
+                                           },
+                         "weight_kg":  0.03,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  3,
+                                             "option":  "Measurement",
+                                             "value_id":  49,
+                                             "value":  "1m"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11759/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11759/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11759/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11759/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11759/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11759/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112054,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112054/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112054/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112054/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112054/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112054/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112054/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112055,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112055/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112055/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112055/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112055/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112055/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112055/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112056,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112056/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112056/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112056/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112056/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112056/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112056/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112057,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112057/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112057/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112057/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112057/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112057/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112057/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112058,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112058/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112058/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112058/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112058/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112058/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112058/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112059,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112059/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112059/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112059/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112059/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112059/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112059/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112060,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112060/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112060/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112060/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112060/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112060/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112060/image_128"
+                                 }
+                   },
+                   {
+                       "id":  112061,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/112061/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/112061/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/112061/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/112061/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/112061/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/112061/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2026-04-23T11:41:55",
+    "source_url":  "https://www.factorled.com/en/11759-cable-for-rgbw-led-strip-12-24v-5-wire-25-meters.html"
+}

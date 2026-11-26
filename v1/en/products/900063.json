@@ -1,0 +1,138 @@
+{
+    "id":  900063,
+    "lang":  "en",
+    "name":  "External Power Supply 48V 300W - for Magnetic Track - 220-240V - CB",
+    "reference":  "MZ222-300W-92383",
+    "short_description":  "\u003cp\u003eExternal 48V DC power supply for the magnetic track system (MZ200 / MZ201), fixed outside the track. CB certified.\u003c/p\u003e\u003cp\u003ePart of the 48V ultra-thin magnetic track system: surface track MZ200, recessed track MZ201, connectors, power supplies and UT-series magnetic lights.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eExternal Power Supply 48V 300W - for Magnetic Track - 220-240V - CB\u003c/h2\u003e\u003cp\u003eExternal 48V DC power supply for the magnetic track system (MZ200 / MZ201), fixed outside the track. CB certified.\u003c/p\u003e\u003cp\u003ePart of the 48V ultra-thin magnetic track system: surface track MZ200, recessed track MZ201, connectors, power supplies and UT-series magnetic lights.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e300W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eDimensions\u003c/td\u003e\u003ctd\u003e220 x 50 x 32mm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eInput\u003c/td\u003e\u003ctd\u003e220-240V AC, 50/60Hz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOutput\u003c/td\u003e\u003ctd\u003e48V DC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eFor\u003c/td\u003e\u003ctd\u003eTracks MZ200 / MZ201\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCertification\u003c/td\u003e\u003ctd\u003eCB\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eFinish\u003c/td\u003e\u003ctd\u003eBlack\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  51,
+                           "name":  "Power Supplies and Drivers",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories",
+                                        "Power Supplies and Drivers"
+                                    ]
+                       },
+                       {
+                           "id":  29,
+                           "name":  "LED lighting Track",
+                           "path":  [
+                                        "Featured",
+                                        "Lighting Stores and Retail for Shops",
+                                        "LED lighting Track"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "300W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CB",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1816,
+                         "name":  "Main colour",
+                         "value":  "Black",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "External power supply - output 48V DC - mounted outside the track",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "220 x 50 x 32mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "MZ222-300W-92383",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000631,
+                         "model":  "MZ222-300W-92383",
+                         "reference":  "MZ222-300W-92383",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  22,
+                                               "width":  5,
+                                               "height":  3.2
+                                           },
+                         "weight_kg":  null,
+                         "image":  "img/900063_0.jpg",
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900063_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900063_0.jpg",
+                                     "1024":  "img/900063_0.jpg",
+                                     "512":  "img/900063_0.jpg",
+                                     "256":  "img/900063_0.jpg",
+                                     "128":  "img/900063_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  30,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:01:25",
+    "source_url":  null
+}

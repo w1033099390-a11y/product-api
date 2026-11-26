@@ -1,0 +1,152 @@
+{
+    "id":  900129,
+    "lang":  "el",
+    "name":  "PACK 10 πάνελ LED 60x60 4000Lm | ΝΕΟ ΛΕΠΤΟ ΠΛΑΙΣΙΟ | Driver Philips 40W | Εγγύηση 5 ετών",
+    "reference":  "NEWPNPHL40W-1420-4K",
+    "short_description":  "\u003cp\u003ePACK 10 πάνελ LED 60x60 4000Lm | ΝΕΟ ΛΕΠΤΟ ΠΛΑΙΣΙΟ | Driver Philips 40W | Εγγύηση 5 ετών\u003c/p\u003e",
+    "description":  "\u003ch2\u003ePACK 10 πάνελ LED 60x60 4000Lm | ΝΕΟ ΛΕΠΤΟ ΠΛΑΙΣΙΟ | Driver Philips 40W | Εγγύηση 5 ετών\u003c/h2\u003e\u003cp\u003eΤο PACK 10 πάνελ LED 60x60 40W με Driver Philips και τεχνολογία οπίσθιου φωτισμού (backlight) εγγυάται ισχυρό και ομοιόμορφο φωτισμό σε ουδέτερο λευκό (4000K) και ψυχρό λευκό (5700K). Κατασκευασμένα από χάλυβα με κομψό και λεπτό σχεδιασμό, προσφέρουν μεγαλύτερη φωτεινή επιφάνεια και επαγγελματικό φινίρισμα. Χωρίς τρεμόπαιγμα (NO FLICK), με πιστοποίηση ENEC05 και εγγύηση 5 ετών. Το προϊόν πωλείται σε πλήρη κιβώτια των 10 τεμαχίων. 1 κιβώτιο = 10 πάνελ LED.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  167,
+                           "name":  "Επαγγελματικός φωτισμός",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός"
+                                    ]
+                       },
+                       {
+                           "id":  24,
+                           "name":  "Πάνελ LED",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Πάνελ LED"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  14352,
+                         "name":  "Κωδικός",
+                         "value":  "NEWPNPHL40W-1420-4K",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001291,
+                         "model":  "NEWPNPHL40W-1420-4K",
+                         "reference":  "NEWPNPHL40W-1420-4K",
+                         "barcode":  "8435612970977",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900129_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900129_0.jpg",
+                                     "1024":  "img/900129_0.jpg",
+                                     "512":  "img/900129_0.jpg",
+                                     "256":  "img/900129_0.jpg",
+                                     "128":  "img/900129_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900129_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900129_1.jpg",
+                                     "1024":  "img/900129_1.jpg",
+                                     "512":  "img/900129_1.jpg",
+                                     "256":  "img/900129_1.jpg",
+                                     "128":  "img/900129_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900129_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900129_2.jpg",
+                                     "1024":  "img/900129_2.jpg",
+                                     "512":  "img/900129_2.jpg",
+                                     "256":  "img/900129_2.jpg",
+                                     "128":  "img/900129_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900129_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900129_3.jpg",
+                                     "1024":  "img/900129_3.jpg",
+                                     "512":  "img/900129_3.jpg",
+                                     "256":  "img/900129_3.jpg",
+                                     "128":  "img/900129_3.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900129_4.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900129_4.jpg",
+                                     "1024":  "img/900129_4.jpg",
+                                     "512":  "img/900129_4.jpg",
+                                     "256":  "img/900129_4.jpg",
+                                     "128":  "img/900129_4.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900129_5.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900129_5.jpg",
+                                     "1024":  "img/900129_5.jpg",
+                                     "512":  "img/900129_5.jpg",
+                                     "256":  "img/900129_5.jpg",
+                                     "128":  "img/900129_5.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/el/catalog/pack-10-led-panel-60x60-4000lm-new-slim-frame-philips-driver-40w-5-year-warranty-newpnphl40w-1420-4k"
+}

@@ -1,0 +1,384 @@
+{
+    "id":  11564,
+    "lang":  "en",
+    "name":  "LED Filament Vintage Bulb 6W E27 G80 Gold - DIMMABLE",
+    "reference":  "G80DIM6W-90921-22K-40",
+    "short_description":  "\u003cp\u003eThis \u003cstrong\u003eLED Filament Bulb\u003c/strong\u003e has a power of 6W with a light output of \u003cstrong\u003e120lm/W\u003c/strong\u003e, perfect for creating vintage atmospheres. Its \u003cstrong\u003eE27\u003c/strong\u003e socket allows easy installation.\u003c/p\u003e\n\u003cp\u003eThe bulb is \u003cstrong\u003edimmable\u003c/strong\u003e via \u003cstrong\u003eTRIAC\u003c/strong\u003e\u003c/p\u003e",
+    "description":  "\u003ch2\u003eVintage Filament LED Bulb 6W E27 G80 Gold - DIMMABLE\u003c/h2\u003e\n\u003cp\u003eVintage filament LED bulb G80, 6W, E27, gold finish. Dimmable. Decorative warm glow.\u003c/p\u003e\n\u003ch3\u003eUses: Restaurants, bars, decorative lighting, vintage style.\u003c/h3\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "LED Bulbs by Base Type",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type"
+                                    ]
+                       },
+                       {
+                           "id":  5,
+                           "name":  "E27 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "E27 LED Bulbs"
+                                    ]
+                       },
+                       {
+                           "id":  59,
+                           "name":  "Decorative LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "Decorative LED Bulbs"
+                                    ]
+                       },
+                       {
+                           "id":  120,
+                           "name":  "Filament",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "Decorative LED Bulbs",
+                                        "Filament"
+                                    ]
+                       },
+                       {
+                           "id":  177,
+                           "name":  "Vintage LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "Decorative LED Bulbs",
+                                        "Vintage LED Bulbs"
+                                    ]
+                       },
+                       {
+                           "id":  178,
+                           "name":  "LED Bulbs by Size",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Size"
+                                    ]
+                       },
+                       {
+                           "id":  181,
+                           "name":  "G80 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Size",
+                                        "G80 LED Bulbs"
+                                    ]
+                       },
+                       {
+                           "id":  56,
+                           "name":  "LED Decoration",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Decoration"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  770,
+                         "name":  "Rated Power",
+                         "value":  "6W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  890,
+                         "name":  "Luminosity-Lm",
+                         "value":  "700Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1048,
+                         "name":  "Beam Angle (º)",
+                         "value":  "360º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1076,
+                         "name":  "Dimmable",
+                         "value":  "YES",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/11/icon"
+                     },
+                     {
+                         "id":  1084,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "125 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1145,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "120 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1154,
+                         "name":  "Base",
+                         "value":  "E27",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/14/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1651,
+                         "name":  "Construction Material",
+                         "value":  "Glass",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1811,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "F",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  3940,
+                         "name":  "REFERENCE",
+                         "value":  "G80DIM6W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  5302,
+                         "name":  "Colour",
+                         "value":  "2200K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  8660,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "15000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  10620,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø80x123mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  16,
+                        "name":  "Purchase more and pay less",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  208,
+                                           "name":  "UNITS",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  21040,
+                         "model":  "909212",
+                         "reference":  "G80DIM6W-90921-22K-UND",
+                         "barcode":  "8435612969087",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  9,
+                                               "width":  9,
+                                               "height":  14
+                                           },
+                         "weight_kg":  0.13,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Purchase more and pay less",
+                                             "value_id":  208,
+                                             "value":  "UNITS"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11564/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11564/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11564/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11564/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11564/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11564/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55144,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55144/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55144/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55144/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55144/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55144/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55144/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55145,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55145/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55145/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55145/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55145/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55145/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55145/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55146,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55146/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55146/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55146/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55146/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55146/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55146/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55147,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55147/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55147/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55147/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55147/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55147/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55147/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55148,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55148/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55148/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55148/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55148/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55148/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55148/image_128"
+                                 }
+                   },
+                   {
+                       "id":  55149,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/55149/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/55149/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/55149/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/55149/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/55149/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/55149/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+                   {
+                       "id":  113930,
+                       "name":  "Bombilla LED Filamento Vintage 6W E27 G80 Gold - DIMABLE",
+                       "video_url":  "https://youtu.be/BnscidSs8DM"
+                   }
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  50,
+    "is_new":  false,
+    "published_at":  "2025-05-05T11:43:14.960797",
+    "source_url":  "https://www.factorled.com/en/11564-led-filament-vintage-bulb-6w-e27-g80-gold-dimmable.html"
+}

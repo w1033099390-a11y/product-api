@@ -1,0 +1,367 @@
+{
+    "id":  11714,
+    "lang":  "el",
+    "name":  "Κυκλική πλαφονιέρα LED επιφανείας 24W | 4CCT | UGR19 | SMD2835 140Lm/W | CRI92",
+    "reference":  "PLSRUGR24W-4CCT-91462",
+    "short_description":  "\u003cp\u003eΦωτίστε τους χώρους σας με στυλ και αποδοτικότητα με την \u003cb\u003eκυκλική πλαφονιέρα LED επιφανείας 24W με GXtronic Driver\u003c/b\u003e. Ο \u003cstrong\u003eεξαιρετικά λεπτός σχεδιασμός, μόλις 26mm\u003c/strong\u003e, προσφέρει μοντέρνο και κομψό φινίρισμα, ενώ η \u003cstrong\u003eτεχνολογία επιλέξιμου 4CCT (2700K/3000K/4000K/5700K)\u003c/strong\u003e επιτρέπει την προσαρμογή της απόχρωσης του λευκού φωτός.\u003c/p\u003e\n\u003cp\u003eΜε \u003cstrong\u003e140Lm/W\u003c/strong\u003e και \u003cstrong\u003eCRI\u0026gt;92\u003c/strong\u003e. Διαχύτης μικροπρισματικός UGR\u0026lt;19.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΚυκλική πλαφονιέρα LED επιφανείας 24W | 4CCT | UGR19 | SMD2835 140Lm/W | CRI92\u003c/h2\u003e\n\u003cp\u003eΚυκλική πλαφονιέρα LED επιφανείας 24W. Εξαιρετικά λεπτή, 26mm. 4CCT. SMD2835 140Lm/W. UGR\u0026lt;19. CRI\u0026gt;92.\u003c/p\u003e",
+    "brand":  {
+                  "id":  8,
+                  "name":  "GXTRONIC",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/8/logo?unique=1793096995"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Φωτισμός εσωτερικού χώρου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου"
+                                    ]
+                       },
+                       {
+                           "id":  22,
+                           "name":  "Πλαφονιέρες και φωτιστικά LED επιφανείας",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Πλαφονιέρες και φωτιστικά LED επιφανείας"
+                                    ]
+                       },
+                       {
+                           "id":  131,
+                           "name":  "Κυκλική πλαφονιέρα",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Πλαφονιέρες και φωτιστικά LED επιφανείας",
+                                        "Κυκλική πλαφονιέρα"
+                                    ]
+                       },
+                       {
+                           "id":  311,
+                           "name":  "Βιομηχανικές πλαφονιέρες",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Βιομηχανικός φωτισμός LED",
+                                        "Βιομηχανικές πλαφονιέρες"
+                                    ]
+                       },
+                       {
+                           "id":  293,
+                           "name":  "Φωτισμός γραφείου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Φωτισμός γραφείου"
+                                    ]
+                       },
+                       {
+                           "id":  295,
+                           "name":  "Φωτισμός οροφής γραφείου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Φωτισμός γραφείου",
+                                        "Φωτισμός οροφής γραφείου"
+                                    ]
+                       },
+                       {
+                           "id":  303,
+                           "name":  "Πλαφονιέρες γραφείου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Επαγγελματικός φωτισμός",
+                                        "Φωτισμός γραφείου",
+                                        "Πλαφονιέρες γραφείου"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  789,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "24W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  807,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "AC85-265V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  875,
+                         "name":  "CRI - Δείκτης χρωματικής απόδοσης",
+                         "value":  "92",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Ενεργειακή κλάση (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  907,
+                         "name":  "Φωτεινή ροή (Lm)",
+                         "value":  "2880Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1013,
+                         "name":  "Αριθμός \u0026 τύπος LED",
+                         "value":  "SMD 2835",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Γωνία δέσμης (º)",
+                         "value":  "120º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1101,
+                         "name":  "Φωτεινή απόδοση LED (Lm/W)",
+                         "value":  "140 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1145,
+                         "name":  "Φωτεινή απόδοση (Lm/W)",
+                         "value":  "120 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1170,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1183,
+                         "name":  "Διάρκεια ζωής LED (ώρες)",
+                         "value":  "40000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  1602,
+                         "name":  "Συντελεστής ισχύος (PF)",
+                         "value":  "0.95",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/19/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Συχνότητα (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1619,
+                         "name":  "Εύρος θερμοκρασίας (ºC)",
+                         "value":  "-10ºC ~ +40ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "Κύκλοι ON/OFF",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Χρόνος εκκίνησης (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1626,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Αλουμίνιο+PC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1754,
+                         "name":  "Δείκτης θάμβωσης (UGR)",
+                         "value":  "19",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/37/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  5738,
+                         "name":  "Χρώμα",
+                         "value":  "4CCT ΕΠΙΛΟΓΗ 2700K-3000K-4000K-5700K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  10900,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "Φ210mm H26mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  12991,
+                         "name":  "Συμπεριλαμβάνεται Driver",
+                         "value":  "GXtronic Driver - No Flick",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/39/icon"
+                     },
+                     {
+                         "id":  14396,
+                         "name":  "Κωδικός",
+                         "value":  "PLSRUGR24W-4CCT-91462",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  22291,
+                         "model":  "914629",
+                         "reference":  "PLSRUGR24W-4CCT-91462",
+                         "barcode":  "8435612976702",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  4,
+                                               "width":  22,
+                                               "height":  22
+                                           },
+                         "weight_kg":  0.58,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11714/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11714/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11714/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11714/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11714/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11714/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114183,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114183/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114183/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114183/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114183/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114183/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114183/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114184,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114184/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114184/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114184/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114184/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114184/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114184/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114185,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114185/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114185/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114185/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114185/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114185/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114185/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114859,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114859/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114859/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114859/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114859/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114859/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114859/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114187,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114187/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114187/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114187/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114187/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114187/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114187/image_128"
+                                 }
+                   },
+                   {
+                       "id":  83339,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/83339/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/83339/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/83339/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/83339/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/83339/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/83339/image_128"
+                                 }
+                   },
+                   {
+                       "id":  83338,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/83338/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/83338/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/83338/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/83338/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/83338/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/83338/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2025-09-19T08:05:57.606964",
+    "source_url":  "https://www.factorled.com/en/11714-surface-mount-circular-led-ceiling-light-24w-4cct-ugr19-smd2835-140lm-w-cri92.html"
+}

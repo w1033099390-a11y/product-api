@@ -1,0 +1,933 @@
+{
+    "id":  11106,
+    "lang":  "en",
+    "name":  "Industrial LED High Bay 200W-150W-100W UFO ENDURANCE OSRAM CHIP DURIS E 2835",
+    "reference":  "NEWENDUR-HB200W-91283",
+    "short_description":  "\u003cp\u003eENDURANCE LED Industrial High Bay with \u003cstrong\u003eadjustable power 100W, 150W and 200W\u003c/strong\u003e via DIP Switch, equipped with an \u003cstrong\u003eOSRAM DURIS E 2835 chip and a DOB Linear No Flicker driver\u003c/strong\u003e for stable, flicker-free lighting. With a high efficiency of \u003cstrong\u003e140 lm/W\u003c/strong\u003e, it delivers great brightness and energy savings. Made of aluminium and glass, it features IP65 protection and Surge 1kV/2kV overvoltage resistance. Ideal for factories, warehouses, workshops and professional industrial LED lighting projects.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eENDURANCE Industrial LED High Bay | 140 lm/W | IP65\u003c/h2\u003e\u003cp\u003eThe \u003cstrong\u003eENDURANCE Industrial LED High Bay\u003c/strong\u003e is a professional solution for \u003cstrong\u003ehigh-performance industrial lighting\u003c/strong\u003e, designed for factories, warehouses, workshops and large indoor spaces. Its power is \u003cstrong\u003eselectable via DIP Switch between 100W, 150W and 200W\u003c/strong\u003e, allowing you to adapt consumption and light output to each installation.\u003c/p\u003e\u003cp\u003eIt features an \u003cstrong\u003eOSRAM DURIS E 2835 LED\u003c/strong\u003e and a \u003cstrong\u003eDOB Linear NO FLICK driver\u003c/strong\u003e, delivering stable, \u003cstrong\u003eflicker-free\u003c/strong\u003e lighting with a high efficiency of up to \u003cstrong\u003e140 lm/W\u003c/strong\u003e. Its \u003cstrong\u003e120° beam angle\u003c/strong\u003e provides a wide, uniform light distribution.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eRugged construction for industrial environments\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eMade of \u003cstrong\u003eALU + glass\u003c/strong\u003e, it combines excellent mechanical strength with good heat dissipation to extend the lifespan of the LED components. Its \u003cstrong\u003eIP65 protection\u003c/strong\u003e makes it resistant to dust and water, suitable for demanding industrial environments.\u003c/p\u003e\u003cp\u003eIt also includes \u003cstrong\u003eSurge 1kV/2kV\u003c/strong\u003e overvoltage protection, improving the safety and reliability of the installation.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eTechnical specifications\u003c/strong\u003e\u003c/h3\u003e\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eSelectable power: 100W / 150W / 200W\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eLED:\u003c/strong\u003e \u003cstrong\u003eOSRAM DURIS E 2835\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eEfficiency:\u003c/strong\u003e \u003cstrong\u003eup to 140 lm/W\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eBeam angle:\u003c/strong\u003e \u003cstrong\u003e120°\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eDriver:\u003c/strong\u003e \u003cstrong\u003eDOB Linear NO FLICK\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eMaterial:\u003c/strong\u003e \u003cstrong\u003eAluminium + glass\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eProtection:\u003c/strong\u003e \u003cstrong\u003eIP65\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eSurge protection:\u003c/strong\u003e \u003cstrong\u003e1kV/2kV\u003c/strong\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003ePower adjustment:\u003c/strong\u003e \u003cstrong\u003eDIP Switch\u003c/strong\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\u003ch3\u003e\u003cstrong\u003eRecommended applications\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eIdeal for \u003cstrong\u003efactories, warehouses, workshops, industrial buildings, logistics centres and other high-ceiling spaces\u003c/strong\u003e that require powerful, uniform and efficient lighting.\u003c/p\u003e\u003cp\u003eThe \u003cstrong\u003eENDURANCE\u003c/strong\u003e combines \u003cstrong\u003eOSRAM technology, selectable power, 140 lm/W and IP65\u003c/strong\u003e in an LED high bay designed to deliver high performance and a long service life in industrial installations.\u003c/p\u003e\u003cp\u003e\n\n\u003c/p\u003e",
+    "brand":  {
+                  "id":  2,
+                  "name":  "OSRAM Chip",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/2/logo?unique=1793795575"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  167,
+                           "name":  "Professional Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  41,
+                           "name":  "Industrial LED Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  149,
+                           "name":  "LED High Bay",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay"
+                                    ]
+                       },
+                       {
+                           "id":  43,
+                           "name":  "LED PRO UFO High Bay",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "LED PRO UFO High Bay"
+                                    ]
+                       },
+                       {
+                           "id":  42,
+                           "name":  "Campanas Industriales LED PRO",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "Campanas Industriales LED PRO"
+                                    ]
+                       },
+                       {
+                           "id":  156,
+                           "name":  "100W LED High Bay",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "100W LED High Bay"
+                                    ]
+                       },
+                       {
+                           "id":  155,
+                           "name":  "150W LED High Bay",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "150W LED High Bay"
+                                    ]
+                       },
+                       {
+                           "id":  150,
+                           "name":  "200W LED High Bay",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "200W LED High Bay"
+                                    ]
+                       },
+                       {
+                           "id":  151,
+                           "name":  "UFO LED High Bay",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "UFO LED High Bay"
+                                    ]
+                       },
+                       {
+                           "id":  154,
+                           "name":  "100W UFO LED High Bay",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "UFO LED High Bay",
+                                        "100W UFO LED High Bay"
+                                    ]
+                       },
+                       {
+                           "id":  153,
+                           "name":  "150W UFO LED High Bay",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "UFO LED High Bay",
+                                        "150W UFO LED High Bay"
+                                    ]
+                       },
+                       {
+                           "id":  152,
+                           "name":  "200W UFO LED High Bay",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "UFO LED High Bay",
+                                        "200W UFO LED High Bay"
+                                    ]
+                       },
+                       {
+                           "id":  157,
+                           "name":  "LED High Bay for Industrial Warehouses",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "LED High Bay for Industrial Warehouses"
+                                    ]
+                       },
+                       {
+                           "id":  159,
+                           "name":  "High Bay Light",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "High Bay Light"
+                                    ]
+                       },
+                       {
+                           "id":  160,
+                           "name":  "150W High Bay Light",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "High Bay Light",
+                                        "150W High Bay Light"
+                                    ]
+                       },
+                       {
+                           "id":  285,
+                           "name":  "Campanas de Aluminio para Iluminación",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "LED High Bay",
+                                        "Campanas de Aluminio para Iluminación"
+                                    ]
+                       },
+                       {
+                           "id":  161,
+                           "name":  "Industrial Warehouse Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Warehouse Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  162,
+                           "name":  "Ceiling Lights for Industrial Warehouses",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Warehouse Lighting",
+                                        "Ceiling Lights for Industrial Warehouses"
+                                    ]
+                       },
+                       {
+                           "id":  164,
+                           "name":  "Warehouse Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Warehouse Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  166,
+                           "name":  "Indoor Industrial Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Indoor Industrial Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  286,
+                           "name":  "Colgante Industrial LED",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Colgante Industrial LED"
+                                    ]
+                       },
+                       {
+                           "id":  287,
+                           "name":  "Lámparas LED para Industria",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Lámparas LED para Industria"
+                                    ]
+                       },
+                       {
+                           "id":  291,
+                           "name":  "Industrial LED Floodlights",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial LED Floodlights"
+                                    ]
+                       },
+                       {
+                           "id":  292,
+                           "name":  "Industrial Floodlights",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Floodlights"
+                                    ]
+                       },
+                       {
+                           "id":  314,
+                           "name":  "150W Industrial LED Floodlight",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Floodlights",
+                                        "150W Industrial LED Floodlight"
+                                    ]
+                       },
+                       {
+                           "id":  313,
+                           "name":  "200W Industrial LED Floodlight",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Floodlights",
+                                        "200W Industrial LED Floodlight"
+                                    ]
+                       },
+                       {
+                           "id":  294,
+                           "name":  "Focos LED para Naves Industriales",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Floodlights",
+                                        "Focos LED para Naves Industriales"
+                                    ]
+                       },
+                       {
+                           "id":  315,
+                           "name":  "LED Ceiling Spotlights for Industrial Buildings",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Floodlights",
+                                        "Focos LED para Naves Industriales",
+                                        "LED Ceiling Spotlights for Industrial Buildings"
+                                    ]
+                       },
+                       {
+                           "id":  316,
+                           "name":  "Indoor LED Spotlights for Industrial Buildings",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Floodlights",
+                                        "Focos LED para Naves Industriales",
+                                        "LED Ceiling Spotlights for Industrial Buildings",
+                                        "Indoor LED Spotlights for Industrial Buildings"
+                                    ]
+                       },
+                       {
+                           "id":  326,
+                           "name":  "Pendant Industrial Floodlight",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial Floodlights",
+                                        "Pendant Industrial Floodlight"
+                                    ]
+                       },
+                       {
+                           "id":  309,
+                           "name":  "150W Industrial LED Light Fixture",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "150W Industrial LED Light Fixture"
+                                    ]
+                       },
+                       {
+                           "id":  308,
+                           "name":  "200W Industrial LED",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "200W Industrial LED"
+                                    ]
+                       },
+                       {
+                           "id":  310,
+                           "name":  "Suspended Industrial Light Fixture",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Suspended Industrial Light Fixture"
+                                    ]
+                       },
+                       {
+                           "id":  328,
+                           "name":  "Brands",
+                           "path":  [
+                                        "Featured",
+                                        "Brands"
+                                    ]
+                       },
+                       {
+                           "id":  329,
+                           "name":  "Osram",
+                           "path":  [
+                                        "Featured",
+                                        "Brands",
+                                        "Osram"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  824,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC175-265V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  859,
+                         "name":  "Colour",
+                         "value":  "4000K-5700K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1101,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "140 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1143,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "130 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1172,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1602,
+                         "name":  "Power Factor (PF)",
+                         "value":  "0.95",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/19/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1632,
+                         "name":  "Construction Material",
+                         "value":  "Aluminiun+Glass",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1759,
+                         "name":  "Impact Protection (IK)",
+                         "value":  "IK08",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/38/icon"
+                     },
+                     {
+                         "id":  1770,
+                         "name":  "Driver included",
+                         "value":  "DRIVER NO FLICK",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/39/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1810,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "E",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  3292,
+                         "name":  "REFERENCE",
+                         "value":  "",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  5918,
+                         "name":  "Luminosity-Lm",
+                         "value":  "26000Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  6994,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "SMD DURIS E 2835 OSRAM CHIPLED",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  8673,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "35000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  9508,
+                         "name":  "Dimensions (mm)",
+                         "value":  "",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  13582,
+                         "name":  "Units per masterbox",
+                         "value":  "2",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/88/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  2,
+                        "name":  "Color temperature",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  4,
+                                           "name":  "Natural White - 4000K",
+                                           "color":  "#FFE9C4",
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  259,
+                                           "name":  "5700K - Cold White",
+                                           "color":  "#DDE7FF",
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  18829,
+                         "model":  "912830",
+                         "reference":  "NEWENDUR-HB200W-91283",
+                         "barcode":  "8435612911277",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  8,
+                                               "width":  35,
+                                               "height":  35
+                                           },
+                         "weight_kg":  2.6,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  4,
+                                             "value":  "Natural White - 4000K"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  18828,
+                         "model":  "912847",
+                         "reference":  "NEWENDUR-HB200W-91284",
+                         "barcode":  "8435612911291",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  8,
+                                               "width":  35,
+                                               "height":  35
+                                           },
+                         "weight_kg":  2.6,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  259,
+                                             "value":  "5700K - Cold White"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11106/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11106/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11106/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11106/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11106/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11106/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50802,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50802/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50802/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50802/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50802/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50802/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50802/image_128"
+                                 }
+                   },
+                   {
+                       "id":  117396,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/117396/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/117396/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/117396/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/117396/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/117396/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/117396/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50803,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50803/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50803/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50803/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50803/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50803/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50803/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50804,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50804/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50804/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50804/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50804/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50804/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50804/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50805,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50805/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50805/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50805/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50805/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50805/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50805/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50806,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50806/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50806/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50806/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50806/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50806/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50806/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50807,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50807/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50807/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50807/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50807/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50807/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50807/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50808,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50808/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50808/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50808/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50808/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50808/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50808/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50809,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50809/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50809/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50809/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50809/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50809/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50809/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50810,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50810/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50810/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50810/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50810/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50810/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50810/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50811,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50811/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50811/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50811/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50811/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50811/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50811/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50812,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50812/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50812/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50812/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50812/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50812/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50812/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50813,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50813/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50813/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50813/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50813/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50813/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50813/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50814,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50814/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50814/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50814/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50814/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50814/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50814/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50815,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50815/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50815/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50815/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50815/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50815/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50815/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50816,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50816/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50816/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50816/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50816/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50816/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50816/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50817,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50817/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50817/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50817/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50817/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50817/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50817/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50818,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50818/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50818/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50818/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50818/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50818/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50818/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50819,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50819/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50819/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50819/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50819/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50819/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50819/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50820,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50820/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50820/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50820/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50820/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50820/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50820/image_128"
+                                 }
+                   },
+                   {
+                       "id":  50821,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/50821/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/50821/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/50821/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/50821/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/50821/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/50821/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+                          {
+                              "id":  16,
+                              "name":  "ISO9001 Endurance",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/16/file/ISO9001 Endurance.jpg"
+                          },
+                          {
+                              "id":  17,
+                              "name":  "Certificado CE-EMC Endurance",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/17/file/PTC21070602301E-EM01 CE-EMC EN55015 61547 certificate.pdf"
+                          },
+                          {
+                              "id":  18,
+                              "name":  "Report CE-EMC Endurance",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/18/file/PTC21070602301E-EM01 CE-EMC EN55015 61547 report.pdf"
+                          },
+                          {
+                              "id":  19,
+                              "name":  "Certificado Conformidad Endurance",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/19/file/PTC21070602301S-LD01 IEC60598-2-1  certificate.pdf"
+                          },
+                          {
+                              "id":  20,
+                              "name":  "Test Report Endurance",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/20/file/PTC21070602301S-LD01 IEC60598-2-1 Test Report.pdf"
+                          },
+                          {
+                              "id":  21,
+                              "name":  "IES 100W",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/21/file/HB100W-ENDUR-6K.ldt"
+                          },
+                          {
+                              "id":  22,
+                              "name":  "IES 150W",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/22/file/HB150W-ENDUR-6K.ldt"
+                          },
+                          {
+                              "id":  23,
+                              "name":  "IES 200W",
+                              "url":  "https://www.factorled.com/web/content/product.template.documentation/23/file/HB200W-ENDUR-6K.ldt"
+                          }
+                      ],
+    "master_box_qty":  0,
+    "is_new":  true,
+    "published_at":  "2026-08-27T08:14:58",
+    "source_url":  "https://www.factorled.com/en/11106-industrial-led-high-bay-200w-150w-100w-ufo-endurance-osram-chip-duris-e-2835.html"
+}

@@ -1,0 +1,114 @@
+{
+    "id":  900096,
+    "lang":  "el",
+    "name":  "Τηλεχειριστήριο RF RGB+CCT 4 ζωνών",
+    "reference":  "185778",
+    "short_description":  "\u003cp\u003eΔιαστάσεις 45*140MM; Τύπος RGB+CCT\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΤηλεχειριστήριο RF RGB+CCT 4 ζωνών\u003c/h2\u003e\u003ch3\u003eΤεχνικά χαρακτηριστικά\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eΔιαστάσεις\u003c/td\u003e\u003ctd\u003e45*140MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eΤύπος\u003c/td\u003e\u003ctd\u003eRGB+CCT\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Φωτισμός εσωτερικού χώρου",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "Ταινίες LED και εύκαμπτο Neon",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon"
+                                    ]
+                       },
+                       {
+                           "id":  37,
+                           "name":  "Ελεγκτές (controllers) LED",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Φωτισμός εσωτερικού χώρου",
+                                        "Ταινίες LED και εύκαμπτο Neon",
+                                        "Ελεγκτές (controllers) LED"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  10710,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "45*140MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Άλλες πληροφορίες",
+                         "value":  "Τύπος: RGB+CCT",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "Κωδικός",
+                         "value":  "185778",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000961,
+                         "model":  "185778",
+                         "reference":  "185778",
+                         "barcode":  "6970602185778",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900096_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900096_0.jpg",
+                                     "1024":  "img/900096_0.jpg",
+                                     "512":  "img/900096_0.jpg",
+                                     "256":  "img/900096_0.jpg",
+                                     "128":  "img/900096_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/el/catalog/rf-remote-control-rgbcct-4-zones"
+}

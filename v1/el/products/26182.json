@@ -1,0 +1,243 @@
+{
+    "id":  26182,
+    "lang":  "el",
+    "name":  "Αδιάβροχο Τροφοδοτικό 24V 400W IP68 | GXtronic | 2 Έξοδοι",
+    "reference":  "400W24V-91438",
+    "short_description":  "\u003cp\u003eΤο \u003cstrong\u003eΑδιάβροχο Επαγγελματικό Τροφοδοτικό GXtronic IP68 24VDC\u003c/strong\u003e είναι η ιδανική λύση για απαιτητικά έργα. Με \u003cstrong\u003eισχύ 400W και έξοδο 16.5A\u003c/strong\u003e, προσφέρει σταθερή, αποδοτική λειτουργία χάρη στον \u003cstrong\u003eσυντελεστή ισχύος άνω του 0.95\u003c/strong\u003e. Σχεδιασμένο να λειτουργεί \u003cstrong\u003e24/7\u003c/strong\u003e. Η \u003cstrong\u003eπροστασία IP68\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eΑδιάβροχο Τροφοδοτικό 24V 400W IP68 | GXtronic | 2 Έξοδοι\u003c/h2\u003e\n\u003cp\u003eΑδιάβροχο επαγγελματικό τροφοδοτικό GXtronic IP68 24VDC. 400W, έξοδος 16.5A. Συντελεστής ισχύος \u003e0.95. Σχεδιασμένο για λειτουργία 24/7.\u003c/p\u003e",
+    "brand":  {
+                  "id":  8,
+                  "name":  "GXTRONIC",
+                  "logo":  "https://www.factorled.com/web/image/product.brand/8/logo?unique=1793096995"
+              },
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Προτεινόμενα",
+                           "path":  [
+                                        "Προτεινόμενα"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "Έλεγχος LED και αξεσουάρ",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Έλεγχος LED και αξεσουάρ"
+                                    ]
+                       },
+                       {
+                           "id":  51,
+                           "name":  "Τροφοδοτικά και Drivers",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Έλεγχος LED και αξεσουάρ",
+                                        "Τροφοδοτικά και Drivers"
+                                    ]
+                       },
+                       {
+                           "id":  55,
+                           "name":  "Τροφοδοσία 24V",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Έλεγχος LED και αξεσουάρ",
+                                        "Τροφοδοτικά και Drivers",
+                                        "Τροφοδοσία 24V"
+                                    ]
+                       },
+                       {
+                           "id":  328,
+                           "name":  "Μάρκες",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Μάρκες"
+                                    ]
+                       },
+                       {
+                           "id":  336,
+                           "name":  "GXTronic",
+                           "path":  [
+                                        "Προτεινόμενα",
+                                        "Μάρκες",
+                                        "GXTronic"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  738,
+                         "name":  "Ονομαστική ισχύς",
+                         "value":  "400W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Ονομαστική τάση",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Πιστοποιήσεις",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1175,
+                         "name":  "IP",
+                         "value":  "IP68",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1602,
+                         "name":  "Συντελεστής ισχύος (PF)",
+                         "value":  "0.95",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/19/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Συχνότητα (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1628,
+                         "name":  "Υλικό κατασκευής",
+                         "value":  "Αλουμίνιο",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1720,
+                         "name":  "Προστασία από υπερτάσεις",
+                         "value":  "6K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/30/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Έτη εγγύησης",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  7975,
+                         "name":  "Ρυθμιζόμενο (dimmable)",
+                         "value":  "Όχι",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/11/icon"
+                     },
+                     {
+                         "id":  15680,
+                         "name":  "Κωδικός",
+                         "value":  "400W24V-91438",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  15682,
+                         "name":  "Διαστάσεις (mm)",
+                         "value":  "265*70*32mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  15683,
+                         "name":  "Άλλες πληροφορίες",
+                         "value":  "Iout: 16.5A",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/25/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  38041,
+                         "model":  "915800",
+                         "reference":  "400W24V-91438",
+                         "barcode":  "8435770891336",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  30.5,
+                                               "width":  8.5,
+                                               "height":  4
+                                           },
+                         "weight_kg":  1.11,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/26182/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/26182/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/26182/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/26182/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/26182/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/26182/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114261,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114261/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114261/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114261/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114261/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114261/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114261/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114262,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114262/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114262/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114262/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114262/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114262/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114262/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114277,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114277/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114277/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114277/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114277/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114277/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114277/image_128"
+                                 }
+                   },
+                   {
+                       "id":  114263,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/114263/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/114263/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/114263/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/114263/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/114263/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/114263/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  24,
+    "is_new":  false,
+    "published_at":  "2026-02-24T12:54:12.730592",
+    "source_url":  "https://www.factorled.com/en/26182-waterproof-power-supply-24v-400w-ip68-gxtronic-2-outputs.html"
+}

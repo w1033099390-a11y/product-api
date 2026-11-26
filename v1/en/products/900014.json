@@ -1,0 +1,180 @@
+{
+    "id":  900014,
+    "lang":  "en",
+    "name":  "LED Controller 230V 3-Channel RF 2.4GHz - RGB / CCT / Dimming - for 220-240V LED Strips - 3 x 1A",
+    "reference":  "S3",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003e3-in-1 controller for high-voltage (230V) LED strips\u003c/strong\u003e: controls \u003cstrong\u003eRGB\u003c/strong\u003e, \u003cstrong\u003edual-colour (CCT)\u003c/strong\u003e or \u003cstrong\u003esingle-colour\u003c/strong\u003e strips, up to about 50 m. Works with \u003cstrong\u003eRF 2.4GHz\u003c/strong\u003e single- or multi-zone remotes (up to 10 per controller) and with a standard \u003cstrong\u003epush switch\u003c/strong\u003e for on/off and dimming.\u003c/p\u003e\u003cp\u003e3 x 1A outputs, smooth 0–100% dimming in 4096 steps, 10 built-in RGB dynamic modes, CE and RoHS.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Controller 230V 3-Channel | RF 2.4GHz + Push Dim\u003c/h2\u003e\u003cul\u003e\u003cli\u003e3-channel controller for high-voltage LED strips; controls up to about 50 m (depends on the strip).\u003c/li\u003e\u003cli\u003e3-in-1: RGB, colour temperature (CCT) or single-colour strips.\u003c/li\u003e\u003cli\u003ePairs with RF 2.4GHz single-zone or multi-zone remotes (single colour, dual colour, RGB/RGBW); up to 10 remotes per controller.\u003c/li\u003e\u003cli\u003e4096-level, flicker-free 0–100% dimming.\u003c/li\u003e\u003cli\u003e10 built-in dynamic modes for RGB strips (jump, smooth, fade).\u003c/li\u003e\u003cli\u003eSelectable 3 s fade-in / fade-out.\u003c/li\u003e\u003cli\u003eExternal push switch: short press on/off, long press stepless dimming, with dimming memory after power loss.\u003c/li\u003e\u003c/ul\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eInput voltage\u003c/td\u003e\u003ctd\u003e100-240VAC, 50/60Hz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eInput current\u003c/td\u003e\u003ctd\u003e3.2A\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOutput voltage\u003c/td\u003e\u003ctd\u003e3 x (100-240)VDC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOutput current\u003c/td\u003e\u003ctd\u003e3 channels, 1A per channel\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOutput power\u003c/td\u003e\u003ctd\u003e3 x (100-240)W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eControl\u003c/td\u003e\u003ctd\u003eRF 2.4GHz + push dim\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eDimming\u003c/td\u003e\u003ctd\u003e0-100%, 4096 levels, PWM 2kHz\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eOperating temperature\u003c/td\u003e\u003ctd\u003eTa -30 ~ +55ºC (Tc max. +85ºC)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e178 x 50 x 38mm (package); 175 x 45 x 27mm (unit)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWeight\u003c/td\u003e\u003ctd\u003e0.136 kg\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eStandards\u003c/td\u003e\u003ctd\u003eEN IEC 55015, EN IEC 61547, ETSI EN 301 489-1/-3, ETSI EN 300 440, EN 61347-1/-2\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCertification\u003c/td\u003e\u003ctd\u003eCE, RoHS\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWarranty\u003c/td\u003e\u003ctd\u003e5 years\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003ch3\u003ePairing a remote\u003c/h3\u003e\u003cp\u003eShort press the MATCH key, then immediately press the on/off key (single-zone remote) or zone key (multi-zone remote); the LED indicator flashes quickly when paired. To delete all paired remotes, hold MATCH for 5 s. Without the key: switch the power off and on twice, then press on/off or zone 3 times to pair, or 5 times to delete.\u003c/p\u003e\u003ch3\u003eInstallation notes\u003c/h3\u003e\u003cul\u003e\u003cli\u003eFor high-voltage LED strips only. Check all wiring and polarity before switching on.\u003c/li\u003e\u003cli\u003eUse at about 80% of full load.\u003c/li\u003e\u003cli\u003eDo not stack units; keep at least 20 cm between them and from metal objects, wall corners and beams; install at least 1 m above the floor for good RF range.\u003c/li\u003e\u003c/ul\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  275,
+                           "name":  "LED Control and Accessories",
+                           "path":  [
+                                        "Featured",
+                                        "LED Control and Accessories"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  37,
+                           "name":  "LED controllers",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED controllers"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC100-240V",
+                         "icon":  null
+                     },
+                     {
+                         "id":  765,
+                         "name":  "Rated Power",
+                         "value":  "3 x (100-240)W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-30ºC ~ +55ºC",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "175 x 45 x 27mm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  11689,
+                         "name":  "Other Information",
+                         "value":  "RF 2.4GHz + push dim - RGB / CCT / single colour - 3 x 1A - up to 10 remotes - 4096-level dimming",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "S3",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000141,
+                         "model":  "S3",
+                         "reference":  "S3",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  17.8,
+                                               "width":  5,
+                                               "height":  3.8
+                                           },
+                         "weight_kg":  0.136,
+                         "dimension_image":  "img/900014_3.jpg",
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900014_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900014_0.jpg",
+                                     "1024":  "img/900014_0.jpg",
+                                     "512":  "img/900014_0.jpg",
+                                     "256":  "img/900014_0.jpg",
+                                     "128":  "img/900014_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900014_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900014_1.jpg",
+                                     "1024":  "img/900014_1.jpg",
+                                     "512":  "img/900014_1.jpg",
+                                     "256":  "img/900014_1.jpg",
+                                     "128":  "img/900014_1.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900014_2.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900014_2.jpg",
+                                     "1024":  "img/900014_2.jpg",
+                                     "512":  "img/900014_2.jpg",
+                                     "256":  "img/900014_2.jpg",
+                                     "128":  "img/900014_2.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900014_3.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900014_3.jpg",
+                                     "1024":  "img/900014_3.jpg",
+                                     "512":  "img/900014_3.jpg",
+                                     "256":  "img/900014_3.jpg",
+                                     "128":  "img/900014_3.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  100,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:06",
+    "source_url":  null
+}

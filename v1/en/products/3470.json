@@ -1,0 +1,331 @@
+{
+    "id":  3470,
+    "lang":  "en",
+    "name":  "4W  LED Bulb Candle Filament E14 C35",
+    "reference":  "C35FM4W-90915-27K-200",
+    "short_description":  "\u003cp\u003eThis 4W Filament LED Bulb has a high colour rendering index without sacrificing energy savings of 80%, it is composed of transparent golden glass which gives it a cosy light tone, this bulb is designed for indoor lighting in both homes and premises.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Candle Filament Bulb 4W E14 C35\u003c/h2\u003e\n\u003cp\u003eOur LED Filament Bulb has an E14 socket type and 4W of power which offers a warm light, it also has a luminous efficiency of 100lm/W.\u003c/p\u003e\n\u003cp\u003eThis bulb has a nice elongated design in the shape of a candle, comes in a golden glass, providing a pleasant tone of light, cozy, is designed for indoor lighting, both in homes and in premises, has a long life and thanks to its LED technology we can save on our electricity bill up to 80%, as well as maintenance costs.\u003c/p\u003e\n\u003ch2\u003eUses of the LED Bulb Filament Candle 4W E14 C35\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eDecorative lighting\u003c/li\u003e\n\u003cli\u003eRestaurants\u003c/li\u003e\n\u003cli\u003eHotels\u003c/li\u003e\n\u003cli\u003eRooms\u003c/li\u003e\n\u003cli\u003eDesk or bedside lamps\u003c/li\u003e\n\u003cli\u003eLiving rooms\u003c/li\u003e\n\u003cli\u003eChillout\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cbr /\u003eAt FactorLED we are committed to ensuring that our products are of QUALITY and offer the necessary elements for DISTRIBUTION, IMPORT or WHOLESALE, including the technical data sheet of each LED product.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "LED Bulbs by Base Type",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type"
+                                    ]
+                       },
+                       {
+                           "id":  6,
+                           "name":  "E14 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "E14 LED Bulbs"
+                                    ]
+                       },
+                       {
+                           "id":  120,
+                           "name":  "Filament",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "Decorative LED Bulbs",
+                                        "Filament"
+                                    ]
+                       },
+                       {
+                           "id":  188,
+                           "name":  "C37 LED Candle Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Size",
+                                        "C37 LED Candle Bulbs"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  728,
+                         "name":  "Rated Power",
+                         "value":  "4W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  820,
+                         "name":  "Nominal Voltage",
+                         "value":  "AC220-240V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  849,
+                         "name":  "Colour",
+                         "value":  "2700K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  952,
+                         "name":  "Luminosity-Lm",
+                         "value":  "480Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  1048,
+                         "name":  "Beam Angle (º)",
+                         "value":  "360º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1080,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "100 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1121,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "100 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1153,
+                         "name":  "Base",
+                         "value":  "E14",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/14/icon"
+                     },
+                     {
+                         "id":  1168,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS, TÜV",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1621,
+                         "name":  "Starting Time (s)",
+                         "value":  "0,2s",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/23/icon"
+                     },
+                     {
+                         "id":  1651,
+                         "name":  "Construction Material",
+                         "value":  "Glass",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1810,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "E",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  2652,
+                         "name":  "REFERENCE",
+                         "value":  "C35FM4W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  8761,
+                         "name":  "Dimensions (mm)",
+                         "value":  "Ø35x100 mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  16,
+                        "name":  "Purchase more and pay less",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  208,
+                                           "name":  "UNITS",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  6936,
+                         "model":  "909151",
+                         "reference":  "C35FM4W-90915-27K-UND",
+                         "barcode":  "8435612950924",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  6.5,
+                                               "width":  11,
+                                               "height":  6.5
+                                           },
+                         "weight_kg":  0.05,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Purchase more and pay less",
+                                             "value_id":  208,
+                                             "value":  "UNITS"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/3470/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/3470/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/3470/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/3470/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/3470/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/3470/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42154,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42154/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42154/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42154/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42154/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42154/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42154/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42155,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42155/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42155/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42155/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42155/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42155/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42155/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42156,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42156/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42156/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42156/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42156/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42156/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42156/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42157,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42157/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42157/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42157/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42157/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42157/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42157/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42158,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42158/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42158/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42158/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42158/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42158/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42158/image_128"
+                                 }
+                   },
+                   {
+                       "id":  42159,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/42159/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/42159/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/42159/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/42159/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/42159/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/42159/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-02-06T10:19:05.882788",
+    "source_url":  "https://www.factorled.com/en/3470-4w-led-bulb-candle-filament-e14-c35.html"
+}

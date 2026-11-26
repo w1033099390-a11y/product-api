@@ -1,0 +1,249 @@
+{
+    "id":  61,
+    "lang":  "en",
+    "name":  "Hanging kit for single-phase track light",
+    "reference":  "CMKITS-BK",
+    "short_description":  "\u003cp\u003eDiscover the revolution in commercial lighting with our Monophasic LED Track Spotlight Pendant Kit! If you\u0027re looking for an innovative way to transform your commercial spaces into versatile and captivating environments, this suspension kit is your ultimate solution.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eHanging Kit for Monophasic LED Track Light\u003c/h2\u003e\n\u003cp\u003eDiscover innovation in commercial lighting with our Hanging Kit for Monophasic LED Track Light. If you\u0027re looking for a unique way to transform your commercial spaces into versatile and captivating environments, our suspension kit is the ideal solution for you.\u003c/p\u003e\n\u003cp\u003eImagine the creative freedom you\u0027ll have by being able to suspend your monophasic LED tracks in the air. Our kit has been meticulously designed to provide you with everything you need to convert your surface track system into an amazing hanging installation of LED spotlight fixtures.\u003c/p\u003e\n\u003cp\u003eWith a perfect length of 1.05 meters, the included steel cable in the kit provides exceptional stability, ensuring that your tracks remain firm and secure in their suspended position. Furthermore, we\u0027ve thought of every detail by including all the necessary accessories for a hassle-free installation. You won\u0027t have to worry about searching for additional components; our kit has it all!\u003c/p\u003e\n\u003cp\u003eTransform your commercial space into a stunning stage with multiple atmospheres thanks to our hanging kit. Dare to play with lighting and create captivating effects that highlight your products and immerse your customers in a unique experience. From soft and cozy lighting to focused and powerful illumination, you\u0027ll have total control over the ambiance you want to convey.\u003c/p\u003e\n\u003cp\u003eIn addition to its exceptional functionality, the sleek and modern design of the Hanging Kit for Monophasic LED Track Light perfectly complements any decorative style. Its minimalist aesthetics effortlessly adapts to any environment, becoming a stylistic element in itself.\u003c/p\u003e\n\u003cp\u003eDon\u0027t miss the opportunity to take your commercial lighting to the next level with our Hanging Kit for Monophasic LED Track Light. Experience the versatility, quality, and visual impact that only LED spotlight fixtures can offer. Make your business stand out and captivate your customers with lighting that leaves a lasting impression!\u003c/p\u003e\n\u003cp\u003eAt FactorLED, we ensure that our products have guaranteed quality and provide all the necessary elements for distribution, import, or wholesale, including the technical specifications of each LED product.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  27,
+                           "name":  "Lighting Stores and Retail for Shops",
+                           "path":  [
+                                        "Featured",
+                                        "Lighting Stores and Retail for Shops"
+                                    ]
+                       },
+                       {
+                           "id":  30,
+                           "name":  "Accessories for Single-Phase LED Track",
+                           "path":  [
+                                        "Featured",
+                                        "Lighting Stores and Retail for Shops",
+                                        "LED lighting Track",
+                                        "1-Phase Series",
+                                        "Accessories for Single-Phase LED Track"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1631,
+                         "name":  "Construction Material",
+                         "value":  "Steel",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  2801,
+                         "name":  "REFERENCE",
+                         "value":  "CMKITS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  9663,
+                         "name":  "Dimensions (mm)",
+                         "value":  "1050mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  1,
+                        "name":  "Options",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  20,
+                                           "name":  "Black",
+                                           "color":  "#111111",
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  96,
+                         "model":  "CMKITS-BK",
+                         "reference":  "CMKITS-BK",
+                         "barcode":  "8400000018531",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  null,
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  2,
+                                               "width":  10,
+                                               "height":  10
+                                           },
+                         "weight_kg":  0.09,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  1,
+                                             "option":  "Options",
+                                             "value_id":  20,
+                                             "value":  "Black"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/61/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/61/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/61/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/61/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/61/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/61/image_128"
+                                 }
+                   },
+                   {
+                       "id":  35011,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/35011/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/35011/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/35011/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/35011/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/35011/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/35011/image_128"
+                                 }
+                   },
+                   {
+                       "id":  35012,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/35012/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/35012/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/35012/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/35012/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/35012/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/35012/image_128"
+                                 }
+                   },
+                   {
+                       "id":  35013,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/35013/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/35013/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/35013/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/35013/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/35013/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/35013/image_128"
+                                 }
+                   },
+                   {
+                       "id":  35014,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/35014/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/35014/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/35014/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/35014/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/35014/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/35014/image_128"
+                                 }
+                   },
+                   {
+                       "id":  35015,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/35015/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/35015/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/35015/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/35015/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/35015/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/35015/image_128"
+                                 }
+                   },
+                   {
+                       "id":  35016,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/35016/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/35016/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/35016/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/35016/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/35016/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/35016/image_128"
+                                 }
+                   },
+                   {
+                       "id":  35017,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/35017/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/35017/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/35017/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/35017/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/35017/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/35017/image_128"
+                                 }
+                   },
+                   {
+                       "id":  35018,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/35018/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/35018/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/35018/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/35018/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/35018/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/35018/image_128"
+                                 }
+                   },
+                   {
+                       "id":  35019,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/35019/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/35019/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/35019/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/35019/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/35019/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/35019/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2021-01-17T21:26:06.460400",
+    "source_url":  "https://www.factorled.com/en/61-hanging-kit-for-single-phase-track-light.html"
+}

@@ -1,0 +1,264 @@
+{
+    "id":  11451,
+    "lang":  "en",
+    "name":  "Surface Mount Kit for LED Panel 60x60 - H65mm",
+    "reference":  "KIT8001",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eSurface Kit for LED Panel 60x60\u003c/strong\u003e.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eSurface Kit for LED Panel 60x60 - H65mm\u003c/h2\u003e\n\u003cp\u003eSurface mounting kit to convert recessed LED panels 60x60 to surface mount. 65mm height. Aluminum body.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  290,
+                           "name":  "Industrial LED Panel",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Industrial LED Lighting",
+                                        "Industrial LED Panel"
+                                    ]
+                       },
+                       {
+                           "id":  24,
+                           "name":  "LED Panels",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "LED Panels"
+                                    ]
+                       },
+                       {
+                           "id":  26,
+                           "name":  "Accessories Panels",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "LED Panels",
+                                        "Accessories Panels"
+                                    ]
+                       },
+                       {
+                           "id":  293,
+                           "name":  "Office Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  295,
+                           "name":  "Office Ceiling Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting",
+                                        "Office Ceiling Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  299,
+                           "name":  "Private Office Ceiling Light",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting",
+                                        "Office Ceiling Lighting",
+                                        "Private Office Ceiling Light"
+                                    ]
+                       },
+                       {
+                           "id":  301,
+                           "name":  "Office LED Panel",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Office Lighting",
+                                        "Office LED Panel"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  1170,
+                         "name":  "Certifications",
+                         "value":  "CE, CMIM, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1628,
+                         "name":  "Construction Material",
+                         "value":  "Aluminum",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1816,
+                         "name":  "Main colour",
+                         "value":  "White",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/62/icon"
+                     },
+                     {
+                         "id":  3176,
+                         "name":  "REFERENCE",
+                         "value":  "KIT8001",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  10003,
+                         "name":  "Dimensions (mm)",
+                         "value":  "600 x 600 x 65mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  13597,
+                         "name":  "Units per masterbox",
+                         "value":  "25",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/88/icon"
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  19454,
+                         "model":  "8368",
+                         "reference":  "KIT8001",
+                         "barcode":  "8435612958272",
+                         "is_default":  true,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  7,
+                                               "width":  60,
+                                               "height":  4
+                                           },
+                         "weight_kg":  0.6,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/11451/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/11451/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/11451/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/11451/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/11451/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/11451/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82631,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82631/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82631/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82631/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82631/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82631/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82631/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82632,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82632/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82632/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82632/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82632/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82632/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82632/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82633,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82633/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82633/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82633/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82633/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82633/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82633/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82634,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82634/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82634/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82634/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82634/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82634/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82634/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82635,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82635/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82635/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82635/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82635/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82635/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82635/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82636,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82636/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82636/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82636/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82636/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82636/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82636/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82637,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82637/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82637/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82637/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82637/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82637/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82637/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  50,
+    "is_new":  false,
+    "published_at":  "2025-01-23T14:25:21.977644",
+    "source_url":  "https://www.factorled.com/en/11451-surface-mount-kit-for-led-panel-60x60-h65mm.html"
+}

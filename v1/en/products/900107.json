@@ -1,0 +1,150 @@
+{
+    "id":  900107,
+    "lang":  "en",
+    "name":  "LED Ceiling \u0026 Wall Light 15W Ø300mm IP65 3CCT",
+    "reference":  "912489",
+    "short_description":  "\u003cp\u003ePower 15W; Select 3CCT; CRI 80; Lumen 1350Lm\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Ceiling \u0026amp; Wall Light 15W Ø300mm IP65 3CCT\u003c/h2\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e15W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSelect\u003c/td\u003e\u003ctd\u003e3CCT\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003e80\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLumen\u003c/td\u003e\u003ctd\u003e1350Lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam Angle\u003c/td\u003e\u003ctd\u003e120°\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e∅300*20MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection rating\u003c/td\u003e\u003ctd\u003eIP65\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWarranty\u003c/td\u003e\u003ctd\u003e3 years\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  200,
+                           "name":  "Indoor Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  22,
+                           "name":  "Ceiling and LED Surface",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Ceiling and LED Surface"
+                                    ]
+                       },
+                       {
+                           "id":  131,
+                           "name":  "Circular Ceiling Light",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "Ceiling and LED Surface",
+                                        "Circular Ceiling Light"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  4217,
+                         "name":  "Rated Power",
+                         "value":  "15W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  15001,
+                         "name":  "Colour Temperature (K)",
+                         "value":  "3CCT",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1350Lm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120°",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "∅300*20MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP65",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "3",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "912489",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9001071,
+                         "model":  "912489",
+                         "reference":  "912489",
+                         "barcode":  "8435612912489",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900107_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900107_0.jpg",
+                                     "1024":  "img/900107_0.jpg",
+                                     "512":  "img/900107_0.jpg",
+                                     "256":  "img/900107_0.jpg",
+                                     "128":  "img/900107_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-ceiling-wall-light-15w-o300mm-ip65-3cct"
+}

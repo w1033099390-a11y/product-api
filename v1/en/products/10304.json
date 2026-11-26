@@ -1,0 +1,444 @@
+{
+    "id":  10304,
+    "lang":  "en",
+    "name":  "LED Strip 24V | 182xLED/m | 5m | SMD2835 | 11200Lm| 16W/M | IP20",
+    "reference":  "SP182D16W24V-91153-20-27K",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003ePROFESSIONAL LED strip 16W \u003c/strong\u003eper metre, \u003cstrong\u003e24V\u003c/strong\u003e with a length of \u003cstrong\u003e5 metres\u003c/strong\u003e. It is designed for indoor installation, as well as being perfect for \u003cstrong\u003edecorating\u003c/strong\u003e different spaces. It requires a power supply and it is advisable to install it on an aluminium profile to achieve good heat dissipation.\u003c/p\u003e",
+    "description":  "\u003ch2 style=\"text-align:center;\"\u003eLED PROFESSIONAL Strip 24V | 120xLED/m | 5m | SMD2835 | 11200Lm| 16W/M | IP20\u003c/h2\u003e\n\u003cp\u003eThis \u003cstrong\u003e24V\u003c/strong\u003e DC 180xLED/ m\u003cstrong\u003e IP20 LED Strip\u003c/strong\u003e has a length of\u003cstrong\u003e 5 meters\u003c/strong\u003e and integrates 238 highly efficient SMD2835 technology LEDs that only consume \u003cstrong\u003e16W per meter.\u003c/strong\u003e The bright and colorful light it emits is spread out at an angle of 120º.\u003cbr /\u003e\u003cbr /\u003eOur LED strip is \u003cstrong\u003eself-adhesive\u003c/strong\u003e for easy installation. The LED strip requires a constant current (DC) direct current power supply to power it. \u003cbr /\u003e\u003cbr /\u003eThe LED strip can be cut and joined by the spaces indicated in it (union copper area), always following the relevant instructions, (be careful that the welder maintains a brief contact with the strip when welding it, since excessive heat will damage the conductor).\u003cbr /\u003e\u003cbr /\u003eIt is recommended that any type of installation of this type does not exceed 10 meters to avoid voltage drops of the direct current that powers the LED strips, although you also have the option of feeding the strip from both ends, a more recommended option if you go place 20 continuous meters. For the installation of more continuous meters, you will need the installation of signal amplifiers for the LED strip.\u003cbr /\u003e\u003cbr /\u003eIn its placement, to increase the useful life of the LED strip, it is \u003cstrong\u003eadvisable\u003c/strong\u003e to use the \u003cstrong\u003edouble-sided heat dissipating\u003c/strong\u003e tape, as well as to place it on an \u003cstrong\u003ealuminum profile\u003c/strong\u003e, for a correct management of the heat of the LED strip itself.\u003cbr /\u003e\u003cbr /\u003eYou can find on our website both signal amplifiers, such as dissipative tape, connection accessories, 12-24v power supplies, as well as aluminum profiles.\u003cbr /\u003e\u003cbr /\u003eThe LED strips are ideal to illuminate any type of corner or element of your business and your home, thanks to its flexibility. It can be said that one of its main advantages is the great versatility of uses that it can be given, since they can be installed in any area and adapt to any corner, and thus be placed in any position, due to its adaptable linear design.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003ch2\u003eUses of LED PROFESSIONAL Strip 24V | 120xLED/m | 5m | SMD2835 | 11200Lm| 16W/M | IP20\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eIn libraries\u003c/li\u003e\n\u003cli\u003eBar\u003c/li\u003e\n\u003cli\u003eHome\u003c/li\u003e\n\u003cli\u003eRestaurants\u003c/li\u003e\n\u003cli\u003eRoofs\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cimg src=\"https://www.factorled.com/img/cms/Ambientadas/Factorled-Tira-Led-Oficina.jpg\" alt=\"\" width=\"700\" height=\"394\" /\u003e\u003c/p\u003e\n\u003cp\u003eAt FactorLED we ensure that our products have a QUALITY guarantee and offer all the necessary elements for DISTRIBUTION, IMPORT or WHOLESALE, including the technical data sheet of each LED product.\u003c/p\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  31,
+                           "name":  "LED Strips and Flexible Neon",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ]
+                       },
+                       {
+                           "id":  87,
+                           "name":  "LED Strip 24V DC",
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "LED Strip 24V DC"
+                                    ]
+                       },
+                       {
+                           "id":  317,
+                           "name":  "Restaurant Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Restaurant Lighting"
+                                    ]
+                       },
+                       {
+                           "id":  321,
+                           "name":  "Hotel Lighting",
+                           "path":  [
+                                        "Featured",
+                                        "Professional Lighting",
+                                        "Hotel Lighting"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  781,
+                         "name":  "Rated Power",
+                         "value":  "16W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/3/icon"
+                     },
+                     {
+                         "id":  816,
+                         "name":  "Nominal Voltage",
+                         "value":  "DC24V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/4/icon"
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/6/icon"
+                     },
+                     {
+                         "id":  879,
+                         "name":  "Energy Rating  (2021-UE-2019/2015)",
+                         "value":  "A+",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/7/icon"
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "120º",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/10/icon"
+                     },
+                     {
+                         "id":  1101,
+                         "name":  "Luminous diodo LED (Lm/W)",
+                         "value":  "140 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/12/icon"
+                     },
+                     {
+                         "id":  1145,
+                         "name":  "Luminous Efficiency (Lm/W)",
+                         "value":  "120 Lm/W",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/13/icon"
+                     },
+                     {
+                         "id":  1166,
+                         "name":  "Certifications",
+                         "value":  "CE, RoHS",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/15/icon"
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/16/icon"
+                     },
+                     {
+                         "id":  1186,
+                         "name":  "Diode Life Expectancy (H)",
+                         "value":  "100000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/17/icon"
+                     },
+                     {
+                         "id":  1611,
+                         "name":  "Frequency (Hz)",
+                         "value":  "50/60Hz",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/20/icon"
+                     },
+                     {
+                         "id":  1615,
+                         "name":  "Temperature Range (ºC)",
+                         "value":  "-20ºC ~ +55ºC",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/21/icon"
+                     },
+                     {
+                         "id":  1620,
+                         "name":  "On/Off Cycles",
+                         "value":  "100.000h",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/22/icon"
+                     },
+                     {
+                         "id":  1642,
+                         "name":  "Construction Material",
+                         "value":  "PCB",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/24/icon"
+                     },
+                     {
+                         "id":  1775,
+                         "name":  "Warranty Years",
+                         "value":  "5",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/40/icon"
+                     },
+                     {
+                         "id":  1810,
+                         "name":  "Energy Rating (2023 - UE-2019/2015)",
+                         "value":  "E",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/60/icon"
+                     },
+                     {
+                         "id":  3225,
+                         "name":  "REFERENCE",
+                         "value":  "SP180D16W24V",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/2/icon"
+                     },
+                     {
+                         "id":  5452,
+                         "name":  "Colour",
+                         "value":  "2200K-2700K-4000K-6000K",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/5/icon"
+                     },
+                     {
+                         "id":  6527,
+                         "name":  "Luminosity-Lm",
+                         "value":  "1M: 2240Lm  - 5M: 11200Lm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/8/icon"
+                     },
+                     {
+                         "id":  7051,
+                         "name":  "Number \u0026 Type of LEDs",
+                         "value":  "180 LEDs/M - SMD2835",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/9/icon"
+                     },
+                     {
+                         "id":  9167,
+                         "name":  "Dimensions (mm)",
+                         "value":  "5m x 10mm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/18/icon"
+                     },
+                     {
+                         "id":  11905,
+                         "name":  "Other Information",
+                         "value":  "Cut: 3,3cm",
+                         "icon":  "https://www.factorled.com/web/image/product.feature/25/icon"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "id":  2,
+                        "name":  "Color temperature",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  24,
+                                           "name":  "Warm White - 2700K",
+                                           "color":  "#FFBE73",
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  4,
+                                           "name":  "Natural White - 4000K",
+                                           "color":  "#FFE9C4",
+                                           "icon":  null
+                                       },
+                                       {
+                                           "id":  3,
+                                           "name":  "Cold White - 6000K",
+                                           "color":  "#D4E2FF",
+                                           "icon":  null
+                                       }
+                                   ]
+                    },
+                    {
+                        "id":  16,
+                        "name":  "Purchase more and pay less",
+                        "display_type":  "radio",
+                        "values":  [
+                                       {
+                                           "id":  208,
+                                           "name":  "UNITS",
+                                           "color":  null,
+                                           "icon":  null
+                                       }
+                                   ]
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  11237,
+                         "model":  "911536",
+                         "reference":  "SP182D16W24V-91153-UND-27K",
+                         "barcode":  "8435612963986",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  2,
+                                               "width":  21,
+                                               "height":  15
+                                           },
+                         "weight_kg":  0.14,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  24,
+                                             "value":  "Warm White - 2700K"
+                                         },
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Purchase more and pay less",
+                                             "value_id":  208,
+                                             "value":  "UNITS"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  11238,
+                         "model":  "911543",
+                         "reference":  "SP182D16W24V-91154-UND-4K",
+                         "barcode":  "8435612963993",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  2,
+                                               "width":  21,
+                                               "height":  15
+                                           },
+                         "weight_kg":  0.14,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  4,
+                                             "value":  "Natural White - 4000K"
+                                         },
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Purchase more and pay less",
+                                             "value_id":  208,
+                                             "value":  "UNITS"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  11239,
+                         "model":  "911550",
+                         "reference":  "SP182D16W24V-91155-UND-6K",
+                         "barcode":  "8435612964006",
+                         "is_default":  false,
+                         "price": null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  2,
+                                               "width":  21,
+                                               "height":  15
+                                           },
+                         "weight_kg":  0.14,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "option_id":  2,
+                                             "option":  "Color temperature",
+                                             "value_id":  3,
+                                             "value":  "Cold White - 6000K"
+                                         },
+                                         {
+                                             "option_id":  16,
+                                             "option":  "Purchase more and pay less",
+                                             "value_id":  208,
+                                             "value":  "UNITS"
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "https://www.factorled.com/web/image/product.template/10304/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.template/10304/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.template/10304/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.template/10304/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.template/10304/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.template/10304/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82122,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82122/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82122/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82122/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82122/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82122/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82122/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82123,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82123/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82123/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82123/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82123/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82123/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82123/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82124,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82124/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82124/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82124/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82124/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82124/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82124/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82125,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82125/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82125/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82125/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82125/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82125/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82125/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82126,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82126/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82126/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82126/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82126/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82126/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82126/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82127,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82127/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82127/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82127/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82127/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82127/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82127/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82128,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82128/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82128/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82128/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82128/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82128/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82128/image_128"
+                                 }
+                   },
+                   {
+                       "id":  82129,
+                       "main":  false,
+                       "url":  "https://www.factorled.com/web/image/product.image/82129/image_1920",
+                       "sizes":  {
+                                     "1920":  "https://www.factorled.com/web/image/product.image/82129/image_1920",
+                                     "1024":  "https://www.factorled.com/web/image/product.image/82129/image_1024",
+                                     "512":  "https://www.factorled.com/web/image/product.image/82129/image_512",
+                                     "256":  "https://www.factorled.com/web/image/product.image/82129/image_256",
+                                     "128":  "https://www.factorled.com/web/image/product.image/82129/image_128"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  0,
+    "is_new":  false,
+    "published_at":  "2023-08-17T11:58:07.952884",
+    "source_url":  "https://www.factorled.com/en/10304-led-strip-24v-182xled-m-5m-smd2835-11200lm-16w-m-ip20.html"
+}

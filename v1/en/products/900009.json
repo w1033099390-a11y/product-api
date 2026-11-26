@@ -1,0 +1,123 @@
+{
+    "id":  900009,
+    "lang":  "en",
+    "name":  "Aluminium Heatsink Profile with Fins - Raw (Not Anodised) - 2m",
+    "reference":  "92415",
+    "short_description":  "\u003cp\u003e\u003cstrong\u003eFinned aluminium heatsink profile\u003c/strong\u003e, 2 m, supplied \u003cstrong\u003eraw (not anodised)\u003c/strong\u003e. Mount LED strips or modules on the flat side and the fins carry the heat away.\u003c/p\u003e",
+    "description":  "\u003ch2\u003eAluminium Heatsink Profile with Fins - Raw (Not Anodised) - 2m\u003c/h2\u003e\u003cp\u003eRaw extruded aluminium bar with cooling fins, for high-power LED strips and modules that need extra heat dissipation.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003eMaterial\u003c/td\u003e\u003ctd\u003eAluminium, raw (not anodised)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLength\u003c/td\u003e\u003ctd\u003e2m\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSet contents\u003c/td\u003e\u003ctd\u003e2m aluminium profile (no diffuser, no end caps)\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eInstallation\u003c/td\u003e\u003ctd\u003eRaw finish, standard packing\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "path":  [
+                                        "Featured"
+                                    ],
+                           "name":  "Featured",
+                           "id":  3
+                       },
+                       {
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon"
+                                    ],
+                           "name":  "LED Strips and Flexible Neon",
+                           "id":  31
+                       },
+                       {
+                           "path":  [
+                                        "Featured",
+                                        "Indoor Lighting",
+                                        "LED Strips and Flexible Neon",
+                                        "Aluminum profiles LED"
+                                    ],
+                           "name":  "Aluminum profiles LED",
+                           "id":  36
+                       }
+                   ],
+    "features":  [
+                     {
+                         "icon":  null,
+                         "name":  "Construction Material",
+                         "id":  1642,
+                         "value":  "Aluminium, raw (not anodised)"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "Other Information",
+                         "id":  11689,
+                         "value":  "Raw finish, standard packing"
+                     },
+                     {
+                         "icon":  null,
+                         "name":  "REFERENCE",
+                         "id":  14352,
+                         "value":  "92415"
+                     }
+                 ],
+    "options":  [
+                    {
+                        "values":  [
+                                       {
+                                           "color":  null,
+                                           "name":  "Raw aluminium, 2m",
+                                           "id":  null,
+                                           "icon":  null
+                                       }
+                                   ],
+                        "name":  "Version",
+                        "id":  3,
+                        "display_type":  "radio"
+                    }
+                ],
+    "variants":  [
+                     {
+                         "id":  9000091,
+                         "model":  "92415",
+                         "reference":  "92415",
+                         "barcode":  null,
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "width":  null,
+                                               "height":  null,
+                                               "length":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+                                         {
+                                             "value":  "Raw aluminium, 2m",
+                                             "value_id":  null,
+                                             "option":  "Version",
+                                             "option_id":  3
+                                         }
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900009_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900009_0.jpg",
+                                     "1024":  "img/900009_0.jpg",
+                                     "512":  "img/900009_0.jpg",
+                                     "256":  "img/900009_0.jpg",
+                                     "128":  "img/900009_0.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  true,
+    "published_at":  "2026-11-25T00:00:02",
+    "source_url":  null
+}

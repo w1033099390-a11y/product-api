@@ -1,0 +1,162 @@
+{
+    "id":  900081,
+    "lang":  "en",
+    "name":  "LED Spot GU10 6W 38° 2700K/4000K/5700K",
+    "reference":  "911413",
+    "short_description":  "\u003cp\u003ePower 6W; Lumen 520Lm; Beam Angle 38°; Size ∅50*54MM\u003c/p\u003e",
+    "description":  "\u003ch2\u003eLED Spot GU10 6W 38° 2700K/4000K/5700K\u003c/h2\u003e\u003cp\u003eLED Spot GU10 6W 38° 2700K/4000K/5700K. GU10 6W.\u003c/p\u003e\u003ch3\u003eTechnical data\u003c/h3\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd\u003ePower\u003c/td\u003e\u003ctd\u003e6W\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eLumen\u003c/td\u003e\u003ctd\u003e520Lm\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eBeam Angle\u003c/td\u003e\u003ctd\u003e38°\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSize\u003c/td\u003e\u003ctd\u003e∅50*54MM\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSelect\u003c/td\u003e\u003ctd\u003e2700K/4000K/5700K\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCRI\u003c/td\u003e\u003ctd\u003e80\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eProtection rating\u003c/td\u003e\u003ctd\u003eIP20\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eWarranty\u003c/td\u003e\u003ctd\u003e2 years\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+    "brand":  null,
+    "categories":  [
+                       {
+                           "id":  3,
+                           "name":  "Featured",
+                           "path":  [
+                                        "Featured"
+                                    ]
+                       },
+                       {
+                           "id":  4,
+                           "name":  "LED Bulbs \u0026 Lamps",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps"
+                                    ]
+                       },
+                       {
+                           "id":  176,
+                           "name":  "LED Bulbs by Base Type",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type"
+                                    ]
+                       },
+                       {
+                           "id":  7,
+                           "name":  "GU10 \u0026 MR16 LED Bulbs",
+                           "path":  [
+                                        "Featured",
+                                        "LED Bulbs \u0026 Lamps",
+                                        "LED Bulbs by Base Type",
+                                        "GU10 \u0026 MR16 LED Bulbs"
+                                    ]
+                       }
+                   ],
+    "features":  [
+                     {
+                         "id":  4217,
+                         "name":  "Rated Power",
+                         "value":  "6W",
+                         "icon":  null
+                     },
+                     {
+                         "id":  6840,
+                         "name":  "Luminosity-Lm",
+                         "value":  "520Lm",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1039,
+                         "name":  "Beam Angle (º)",
+                         "value":  "38°",
+                         "icon":  null
+                     },
+                     {
+                         "id":  10710,
+                         "name":  "Dimensions (mm)",
+                         "value":  "∅50*54MM",
+                         "icon":  null
+                     },
+                     {
+                         "id":  15001,
+                         "name":  "Colour Temperature (K)",
+                         "value":  "2700K/4000K/5700K",
+                         "icon":  null
+                     },
+                     {
+                         "id":  866,
+                         "name":  "CRI - Chromatic Rendiment Index",
+                         "value":  "80",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1171,
+                         "name":  "IP",
+                         "value":  "IP20",
+                         "icon":  null
+                     },
+                     {
+                         "id":  1774,
+                         "name":  "Warranty Years",
+                         "value":  "2",
+                         "icon":  null
+                     },
+                     {
+                         "id":  14352,
+                         "name":  "REFERENCE",
+                         "value":  "911413",
+                         "icon":  null
+                     }
+                 ],
+    "options":  [
+
+                ],
+    "variants":  [
+                     {
+                         "id":  9000811,
+                         "model":  "911413",
+                         "reference":  "911413",
+                         "barcode":  "8435612911413",
+                         "is_default":  true,
+                         "price":  null,
+                         "currency":  "EUR",
+                         "listed":  true,
+                         "dimensions_cm":  {
+                                               "length":  null,
+                                               "width":  null,
+                                               "height":  null
+                                           },
+                         "weight_kg":  null,
+                         "dimension_image":  null,
+                         "options":  [
+
+                                     ]
+                     }
+                 ],
+    "images":  [
+                   {
+                       "id":  null,
+                       "main":  true,
+                       "url":  "img/900081_0.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900081_0.jpg",
+                                     "1024":  "img/900081_0.jpg",
+                                     "512":  "img/900081_0.jpg",
+                                     "256":  "img/900081_0.jpg",
+                                     "128":  "img/900081_0.jpg"
+                                 }
+                   },
+                   {
+                       "id":  null,
+                       "main":  false,
+                       "url":  "img/900081_1.jpg",
+                       "sizes":  {
+                                     "1920":  "img/900081_1.jpg",
+                                     "1024":  "img/900081_1.jpg",
+                                     "512":  "img/900081_1.jpg",
+                                     "256":  "img/900081_1.jpg",
+                                     "128":  "img/900081_1.jpg"
+                                 }
+                   }
+               ],
+    "videos":  [
+
+               ],
+    "documentation":  [
+
+                      ],
+    "master_box_qty":  null,
+    "is_new":  false,
+    "published_at":  null,
+    "source_url":  "https://ledfactory.gr/en/catalog/led-spot-gu10-6w-38-2700k4000k5700k"
+}
