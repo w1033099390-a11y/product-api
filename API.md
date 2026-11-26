@@ -1,7 +1,7 @@
 # Product Catalogue API
 
 Product data for 385 LED lighting products, in **English (`en`)** and **Greek (`el`)**.
-Stock levels are not included. Prices are not published in this online version (`price` and `price_from` are always `null`).
+Stock levels and prices are not included (`price` and `price_from` are always `null`).
 
 The API is a set of static JSON files (UTF-8). Every endpoint is a plain `GET` with no authentication.
 Replace `{BASE}` with the address where the files are hosted, for example `https://example.com`.
@@ -36,7 +36,7 @@ Replace `{BASE}` with the address where the files are hosted, for example `https
       "categories": ["Featured", "LED Bulbs & Lamps", "LED Bulbs by Base Type", "E27 LED Bulbs", "..."],
       "variant_count": 2,
       "models": ["913516", "913523"],
-      "price_from": 2.5,
+      "price_from": null,
       "currency": "EUR",
       "listed_variant_ids": [19430, 19431],
       "source_url": "https://www.factorled.com/en/11439-led-globe-bulb-15w-g95-300-e27-osram-chip-duris-e-2835.html"
@@ -76,7 +76,7 @@ Replace `{BASE}` with the address where the files are hosted, for example `https
 | `reference` | string | SKU |
 | `barcode` | string \| null | EAN-13 |
 | `is_default` | boolean | Default variant of the product |
-| `price` | number \| null | Selling price per single unit (`null` when not set) |
+| `price` | null | Not published (always `null`) |
 | `currency` | string \| null | ISO currency code, e.g. `EUR` |
 | `listed` | boolean | Variant is part of the selected product list |
 | `dimensions_cm` | object | `{ length, width, height }` in cm |
