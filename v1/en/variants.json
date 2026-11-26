@@ -1,6 +1,6 @@
 {
     "lang":  "en",
-    "count":  441,
+    "count":  440,
     "items":  [
                   {
                       "id":  9000401,
@@ -5017,20 +5017,6 @@
                       "name":  "Solar garden light 4500K with motion sensor",
                       "options":  [
 
-                                  ],
-                      "listed":  true
-                  },
-                  {
-                      "id":  4971,
-                      "model":  "FLB40WS2-18K",
-                      "product_id":  2824,
-                      "reference":  "FLB40WS2-18K",
-                      "barcode":  "8435612930438",
-                      "price":  null,
-                      "currency":  null,
-                      "name":  "LED Bulb ED90 40W for Streetlight | E27 Socket High Resistance | 300º",
-                      "options":  [
-                                      "Color temperature: Amber - 1800K"
                                   ],
                       "listed":  true
                   },

@@ -1,6 +1,6 @@
 {
     "lang":  "el",
-    "count":  441,
+    "count":  440,
     "items":  [
                   {
                       "id":  9000401,
@@ -5017,20 +5017,6 @@
                       "name":  "Ηλιακό φωτιστικό κήπου 4500K με αισθητήρα κίνησης",
                       "options":  [
 
-                                  ],
-                      "listed":  true
-                  },
-                  {
-                      "id":  4971,
-                      "model":  "FLB40WS2-18K",
-                      "product_id":  2824,
-                      "reference":  "FLB40WS2-18K",
-                      "barcode":  "8435612930438",
-                      "price":  null,
-                      "currency":  null,
-                      "name":  "Λάμπα LED ED90 40W για φωτιστικό δρόμου | Κάλυκας E27 υψηλής αντοχής | 300º",
-                      "options":  [
-                                      "Θερμοκρασία χρώματος: Κεχριμπαρί - 1800K"
                                   ],
                       "listed":  true
                   },

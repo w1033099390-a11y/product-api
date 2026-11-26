@@ -1,6 +1,6 @@
 {
     "lang":  "el",
-    "count":  383,
+    "count":  382,
     "items":  [
                   {
                       "id":  900040,
@@ -7721,38 +7721,6 @@
                                                  5035
                                              ],
                       "source_url":  "https://www.factorled.com/en/2880-solar-garden-light-4500k-with-motion-sensor.html"
-                  },
-                  {
-                      "id":  2824,
-                      "name":  "Λάμπα LED ED90 40W για φωτιστικό δρόμου | Κάλυκας E27 υψηλής αντοχής | 300º",
-                      "reference":  "FLB40WS2",
-                      "brand":  null,
-                      "image":  "https://www.factorled.com/web/image/product.template/2824/image_1920",
-                      "categories":  [
-                                         "Προτεινόμενα",
-                                         "Λάμπες LED ανά τύπο βάσης",
-                                         "Λάμπες LED E27",
-                                         "Επαγγελματικός φωτισμός",
-                                         "Βιομηχανικός φωτισμός LED",
-                                         "Λάμπες LED για βιομηχανικές αποθήκες",
-                                         "Βιομηχανική λάμπα",
-                                         "Λάμπες LED για βιομηχανία",
-                                         "Βιομηχανικοί προβολείς",
-                                         "Προβολείς LED για βιομηχανικούς χώρους",
-                                         "Λάμπες βιομηχανικών προβολέων",
-                                         "Φωτισμός δρόμου",
-                                         "Λάμπες και μονάδες για LED φωτιστικά δρόμου"
-                                     ],
-                      "variant_count":  1,
-                      "models":  [
-                                     "FLB40WS2-18K"
-                                 ],
-                      "price_from":  null,
-                      "currency":  "EUR",
-                      "listed_variant_ids":  [
-                                                 4971
-                                             ],
-                      "source_url":  "https://www.factorled.com/en/2824-led-bulb-ed90-40w-for-streetlight-e27-socket-high-resistance-300o.html"
                   },
                   {
                       "id":  2822,
